@@ -1,0 +1,959 @@
+timing:
+- zonesSum:
+  - 7
+  - 4
+  - 2
+  - 0
+  - 0
+  - 0
+  zonesFirst:
+  - 2019-07-11T12:30:42.855149263116Z
+  - 2019-07-11T12:44:55.267432933315Z
+  - 2019-07-11T13:39:11.203565873062Z
+  - null
+  - null
+  - null
+  zonesLast:
+  - 2019-07-11T13:36:58.587050639303Z
+  - 2019-07-11T13:09:36.896082115172Z
+  - 2019-07-11T13:50:15.126900927075Z
+  - null
+  - null
+  - null
+  zonesRankTime:
+  - - 2019-07-11T12:30:42.855149263116Z
+    - 2019-07-11T12:34:10.87036933773Z
+    - 2019-07-11T12:37:24.913596387564Z
+    - 2019-07-11T12:44:16.444111874983Z
+    - 2019-07-11T12:56:45.318557230284Z
+    - 2019-07-11T12:57:53.037410170433Z
+    - 2019-07-11T13:36:58.587050639303Z
+  - - 2019-07-11T12:44:55.267432933315Z
+    - 2019-07-11T12:54:35.279605706469Z
+    - 2019-07-11T13:07:00.21723989596Z
+    - 2019-07-11T13:09:36.896082115172Z
+  - - 2019-07-11T13:39:11.203565873062Z
+    - 2019-07-11T13:50:15.126900927075Z
+  - []
+  - []
+  - []
+  zonesRankPilot:
+  - - - '10'
+      - Igor Eržen
+    - - '22'
+      - Sandi Krč
+    - - '15'
+      - Mitja Jug
+    - - '19'
+      - Rafal Cypcar
+    - - '11'
+      - Jerko Odžak
+    - - '24'
+      - Slava Jelić
+    - - '26'
+      - Stjepan Zjacic
+  - - - '10'
+      - Igor Eržen
+    - - '19'
+      - Rafal Cypcar
+    - - '11'
+      - Jerko Odžak
+    - - '15'
+      - Mitja Jug
+  - - - '15'
+      - Mitja Jug
+    - - '11'
+      - Jerko Odžak
+  - []
+  - []
+  - []
+  lastLanding: 2019-07-11T13:54:49Z
+- zonesSum:
+  - 7
+  - 4
+  - 3
+  - 3
+  - 2
+  - 1
+  zonesFirst:
+  - 2019-07-12T12:20:31.811427052006Z
+  - 2019-07-12T12:26:50.796857481769Z
+  - 2019-07-12T12:43:13.28872949116Z
+  - 2019-07-12T12:45:27.350186666815Z
+  - 2019-07-12T13:06:52.251350015449Z
+  - 2019-07-12T13:30:53.340283333959Z
+  zonesLast:
+  - 2019-07-12T13:48:52.31253605009Z
+  - 2019-07-12T13:04:39.104540601336Z
+  - 2019-07-12T12:44:21.1387233248Z
+  - 2019-07-12T12:54:34.976880066958Z
+  - 2019-07-12T13:21:32.834849740176Z
+  - 2019-07-12T13:30:53.340283333959Z
+  zonesRankTime:
+  - - 2019-07-12T12:20:31.811427052006Z
+    - 2019-07-12T12:20:37.778234223323Z
+    - 2019-07-12T12:20:57.810274234821Z
+    - 2019-07-12T12:24:41.828253277531Z
+    - 2019-07-12T12:57:22.944937200765Z
+    - 2019-07-12T13:02:32.487867917314Z
+    - 2019-07-12T13:48:52.31253605009Z
+  - - 2019-07-12T12:26:50.796857481769Z
+    - 2019-07-12T12:27:21.182499689602Z
+    - 2019-07-12T12:28:07.136273525337Z
+    - 2019-07-12T13:04:39.104540601336Z
+  - - 2019-07-12T12:43:13.28872949116Z
+    - 2019-07-12T12:43:22.405232357571Z
+    - 2019-07-12T12:44:21.1387233248Z
+  - - 2019-07-12T12:45:27.350186666815Z
+    - 2019-07-12T12:53:01.934803018302Z
+    - 2019-07-12T12:54:34.976880066958Z
+  - - 2019-07-12T13:06:52.251350015449Z
+    - 2019-07-12T13:21:32.834849740176Z
+  - - 2019-07-12T13:30:53.340283333959Z
+  zonesRankPilot:
+  - - - '10'
+      - Igor Eržen
+    - - '15'
+      - Mitja Jug
+    - - '19'
+      - Rafal Cypcar
+    - - '22'
+      - Sandi Krč
+    - - '11'
+      - Jerko Odžak
+    - - '26'
+      - Stjepan Zjacic
+    - - '24'
+      - Slava Jelić
+  - - - '19'
+      - Rafal Cypcar
+    - - '15'
+      - Mitja Jug
+    - - '10'
+      - Igor Eržen
+    - - '11'
+      - Jerko Odžak
+  - - - '15'
+      - Mitja Jug
+    - - '19'
+      - Rafal Cypcar
+    - - '10'
+      - Igor Eržen
+  - - - '19'
+      - Rafal Cypcar
+    - - '10'
+      - Igor Eržen
+    - - '15'
+      - Mitja Jug
+  - - - '19'
+      - Rafal Cypcar
+    - - '10'
+      - Igor Eržen
+  - - - '10'
+      - Igor Eržen
+  lastLanding: 2019-07-12T13:56:12Z
+tagging:
+- - - - '35'
+      - Giselle Giampietri
+    - null
+  - - - '10'
+      - Igor Eržen
+    - zonesTag:
+      - inter:
+          fixFrac: 329.8551492631162
+          time: 2019-07-11T12:30:42.855149263116Z
+          lat: 43.80359517
+          lng: 16.49300483
+          alt: 0
+        cross:
+          crossingPair:
+          - fix: 329
+            time: 2019-07-11T12:30:42Z
+            lat: 43.80356667
+            lng: 16.49303333
+            alt: 0
+          - fix: 330
+            time: 2019-07-11T12:30:43Z
+            lat: 43.8036
+            lng: 16.493
+            alt: 0
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 1182.2674329333158
+          time: 2019-07-11T12:44:55.267432933315Z
+          lat: 43.83029672
+          lng: 16.45370333
+          alt: 0
+        cross:
+          crossingPair:
+          - fix: 1182
+            time: 2019-07-11T12:44:55Z
+            lat: 43.83028333
+            lng: 16.45371667
+            alt: 0
+          - fix: 1183
+            time: 2019-07-11T12:44:56Z
+            lat: 43.83033333
+            lng: 16.45366667
+            alt: 0
+          inZone:
+          - false
+          - true
+      - null
+      - null
+      - null
+      - null
+  - - - '11'
+      - Jerko Odžak
+    - zonesTag:
+      - inter:
+          fixFrac: 240.57963930757185
+          time: 2019-07-11T12:56:45.318557230284Z
+          lat: 43.80250988
+          lng: 16.48499203
+          alt: 0
+        cross:
+          crossingPair:
+          - fix: 240
+            time: 2019-07-11T12:56:43Z
+            lat: 43.80231667
+            lng: 16.48505
+            alt: 0
+          - fix: 241
+            time: 2019-07-11T12:56:47Z
+            lat: 43.80265
+            lng: 16.48495
+            alt: 0
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 375.44344797919257
+          time: 2019-07-11T13:07:00.21723989596Z
+          lat: 43.83027738
+          lng: 16.45290393
+          alt: 0
+        cross:
+          crossingPair:
+          - fix: 375
+            time: 2019-07-11T13:06:58Z
+            lat: 43.8301
+            lng: 16.453
+            alt: 0
+          - fix: 376
+            time: 2019-07-11T13:07:03Z
+            lat: 43.8305
+            lng: 16.45278333
+            alt: 0
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 943.0253801854154
+          time: 2019-07-11T13:50:15.126900927075Z
+          lat: 43.78604049
+          lng: 16.56838235
+          alt: 0
+        cross:
+          crossingPair:
+          - fix: 943
+            time: 2019-07-11T13:50:15Z
+            lat: 43.78603333
+            lng: 16.56836667
+            alt: 0
+          - fix: 944
+            time: 2019-07-11T13:50:20Z
+            lat: 43.78631667
+            lng: 16.56898333
+            alt: 0
+          inZone:
+          - false
+          - true
+      - null
+      - null
+      - null
+  - - - '32'
+      - Laura Grakalich
+    - null
+  - - - '15'
+      - Mitja Jug
+    - zonesTag:
+      - inter:
+          fixFrac: 1095.9135963875642
+          time: 2019-07-11T12:37:24.913596387564Z
+          lat: 43.80364568
+          lng: 16.48989053
+          alt: 1011.17
+        cross:
+          crossingPair:
+          - fix: 1095
+            time: 2019-07-11T12:37:24Z
+            lat: 43.8036
+            lng: 16.48996667
+            alt: 1013
+          - fix: 1096
+            time: 2019-07-11T12:37:25Z
+            lat: 43.80365
+            lng: 16.48988333
+            alt: 1011
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 3027.8960821151722
+          time: 2019-07-11T13:09:36.896082115172Z
+          lat: 43.83029479
+          lng: 16.45364198
+          alt: 687.9
+        cross:
+          crossingPair:
+          - fix: 3027
+            time: 2019-07-11T13:09:36Z
+            lat: 43.83025
+            lng: 16.45371667
+            alt: 687
+          - fix: 3028
+            time: 2019-07-11T13:09:37Z
+            lat: 43.8303
+            lng: 16.45363333
+            alt: 688
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 4802.203565873062
+          time: 2019-07-11T13:39:11.203565873062Z
+          lat: 43.81701675
+          lng: 16.53193732
+          alt: 1055.59
+        cross:
+          crossingPair:
+          - fix: 4802
+            time: 2019-07-11T13:39:11Z
+            lat: 43.81701667
+            lng: 16.5319
+            alt: 1056
+          - fix: 4803
+            time: 2019-07-11T13:39:12Z
+            lat: 43.81701667
+            lng: 16.53208333
+            alt: 1054
+          inZone:
+          - false
+          - true
+      - null
+      - null
+      - null
+  - - - '18'
+      - Petros Miskos
+    - null
+  - - - '19'
+      - Rafal Cypcar
+    - zonesTag:
+      - inter:
+          fixFrac: 680.4441118749833
+          time: 2019-07-11T12:44:16.444111874983Z
+          lat: 43.80012034
+          lng: 16.4812278
+          alt: 1294.56
+        cross:
+          crossingPair:
+          - fix: 680
+            time: 2019-07-11T12:44:16Z
+            lat: 43.80008333
+            lng: 16.48125
+            alt: 1295
+          - fix: 681
+            time: 2019-07-11T12:44:17Z
+            lat: 43.80016667
+            lng: 16.4812
+            alt: 1294
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 1299.27960570647
+          time: 2019-07-11T12:54:35.279605706469Z
+          lat: 43.83032797
+          lng: 16.45449338
+          alt: 1129
+        cross:
+          crossingPair:
+          - fix: 1299
+            time: 2019-07-11T12:54:35Z
+            lat: 43.8303
+            lng: 16.45451667
+            alt: 1129
+          - fix: 1300
+            time: 2019-07-11T12:54:36Z
+            lat: 43.8304
+            lng: 16.45443333
+            alt: 1129
+          inZone:
+          - false
+          - true
+      - null
+      - null
+      - null
+      - null
+  - - - '22'
+      - Sandi Krč
+    - zonesTag:
+      - inter:
+          fixFrac: 415.87036933773084
+          time: 2019-07-11T12:34:10.87036933773Z
+          lat: 43.80365803
+          lng: 16.49006882
+          alt: 1050.26
+        cross:
+          crossingPair:
+          - fix: 415
+            time: 2019-07-11T12:34:10Z
+            lat: 43.8036
+            lng: 16.49008333
+            alt: 1052
+          - fix: 416
+            time: 2019-07-11T12:34:11Z
+            lat: 43.80366667
+            lng: 16.49006667
+            alt: 1050
+          inZone:
+          - true
+          - false
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '24'
+      - Slava Jelić
+    - zonesTag:
+      - inter:
+          fixFrac: 878.0374101704334
+          time: 2019-07-11T12:57:53.037410170433Z
+          lat: 43.7917827
+          lng: 16.50295499
+          alt: 1068
+        cross:
+          crossingPair:
+          - fix: 878
+            time: 2019-07-11T12:57:53Z
+            lat: 43.79178333
+            lng: 16.50295
+            alt: 1068
+          - fix: 879
+            time: 2019-07-11T12:57:54Z
+            lat: 43.79176667
+            lng: 16.50308333
+            alt: 1068
+          inZone:
+          - true
+          - false
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '26'
+      - Stjepan Zjacic
+    - zonesTag:
+      - inter:
+          fixFrac: 84.58705063930309
+          time: 2019-07-11T13:36:58.587050639303Z
+          lat: 43.78952753
+          lng: 16.5013616
+          alt: 1092.41
+        cross:
+          crossingPair:
+          - fix: 84
+            time: 2019-07-11T13:36:58Z
+            lat: 43.78956667
+            lng: 16.50128333
+            alt: 1093
+          - fix: 85
+            time: 2019-07-11T13:36:59Z
+            lat: 43.7895
+            lng: 16.50141667
+            alt: 1092
+          inZone:
+          - true
+          - false
+      - null
+      - null
+      - null
+      - null
+      - null
+- - - - '35'
+      - Giselle Giampietri
+    - null
+  - - - '10'
+      - Igor Eržen
+    - zonesTag:
+      - inter:
+          fixFrac: 1091.811427052007
+          time: 2019-07-12T12:20:31.811427052006Z
+          lat: 43.82126257
+          lng: 16.6466198
+          alt: 0
+        cross:
+          crossingPair:
+          - fix: 1091
+            time: 2019-07-12T12:20:31Z
+            lat: 43.82131667
+            lng: 16.64663333
+            alt: 0
+          - fix: 1092
+            time: 2019-07-12T12:20:32Z
+            lat: 43.82125
+            lng: 16.64661667
+            alt: 0
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 1547.1362735253376
+          time: 2019-07-12T12:28:07.136273525337Z
+          lat: 43.81269091
+          lng: 16.66432575
+          alt: 0
+        cross:
+          crossingPair:
+          - fix: 1547
+            time: 2019-07-12T12:28:07Z
+            lat: 43.8127
+            lng: 16.66431667
+            alt: 0
+          - fix: 1548
+            time: 2019-07-12T12:28:08Z
+            lat: 43.81263333
+            lng: 16.66438333
+            alt: 0
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 2521.1387233248
+          time: 2019-07-12T12:44:21.1387233248Z
+          lat: 43.8298528
+          lng: 16.61890511
+          alt: 0
+        cross:
+          crossingPair:
+          - fix: 2521
+            time: 2019-07-12T12:44:21Z
+            lat: 43.82986667
+            lng: 16.61891667
+            alt: 0
+          - fix: 2522
+            time: 2019-07-12T12:44:22Z
+            lat: 43.82976667
+            lng: 16.61883333
+            alt: 0
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 3041.9348030183023
+          time: 2019-07-12T12:53:01.934803018302Z
+          lat: 43.82290543
+          lng: 16.64038442
+          alt: 0
+        cross:
+          crossingPair:
+          - fix: 3041
+            time: 2019-07-12T12:53:01Z
+            lat: 43.82298333
+            lng: 16.6404
+            alt: 0
+          - fix: 3042
+            time: 2019-07-12T12:53:02Z
+            lat: 43.8229
+            lng: 16.64038333
+            alt: 0
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 4752.834849740177
+          time: 2019-07-12T13:21:32.834849740176Z
+          lat: 43.77069434
+          lng: 16.68189159
+          alt: 0
+        cross:
+          crossingPair:
+          - fix: 4752
+            time: 2019-07-12T13:21:32Z
+            lat: 43.77075
+            lng: 16.68193333
+            alt: 0
+          - fix: 4753
+            time: 2019-07-12T13:21:33Z
+            lat: 43.77068333
+            lng: 16.68188333
+            alt: 0
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 5313.340283333959
+          time: 2019-07-12T13:30:53.340283333959Z
+          lat: 43.76117198
+          lng: 16.63103796
+          alt: 0
+        cross:
+          crossingPair:
+          - fix: 5313
+            time: 2019-07-12T13:30:53Z
+            lat: 43.76118333
+            lng: 16.63108333
+            alt: 0
+          - fix: 5314
+            time: 2019-07-12T13:30:54Z
+            lat: 43.76115
+            lng: 16.63095
+            alt: 0
+          inZone:
+          - false
+          - true
+  - - - '11'
+      - Jerko Odžak
+    - zonesTag:
+      - inter:
+          fixFrac: 161.1889874401535
+          time: 2019-07-12T12:57:22.944937200765Z
+          lat: 43.82226851
+          lng: 16.64937875
+          alt: 0
+        cross:
+          crossingPair:
+          - fix: 161
+            time: 2019-07-12T12:57:22Z
+            lat: 43.8223
+            lng: 16.6493
+            alt: 0
+          - fix: 162
+            time: 2019-07-12T12:57:27Z
+            lat: 43.82213333
+            lng: 16.64971667
+            alt: 0
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 254.77613515033474
+          time: 2019-07-12T13:04:39.104540601336Z
+          lat: 43.81027264
+          lng: 16.66397364
+          alt: 0
+        cross:
+          crossingPair:
+          - fix: 254
+            time: 2019-07-12T13:04:36Z
+            lat: 43.81046667
+            lng: 16.66376667
+            alt: 0
+          - fix: 255
+            time: 2019-07-12T13:04:40Z
+            lat: 43.81021667
+            lng: 16.66403333
+            alt: 0
+          inZone:
+          - false
+          - true
+      - null
+      - null
+      - null
+      - null
+  - - - '32'
+      - Laura Grakalich
+    - null
+  - - - '15'
+      - Mitja Jug
+    - zonesTag:
+      - inter:
+          fixFrac: 814.7782342233238
+          time: 2019-07-12T12:20:37.778234223323Z
+          lat: 43.82126848
+          lng: 16.6466426
+          alt: 835
+        cross:
+          crossingPair:
+          - fix: 814
+            time: 2019-07-12T12:20:37Z
+            lat: 43.82133333
+            lng: 16.64661667
+            alt: 835
+          - fix: 815
+            time: 2019-07-12T12:20:38Z
+            lat: 43.82125
+            lng: 16.64665
+            alt: 835
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 1218.1824996896028
+          time: 2019-07-12T12:27:21.182499689602Z
+          lat: 43.81169088
+          lng: 16.66406825
+          alt: 828
+        cross:
+          crossingPair:
+          - fix: 1218
+            time: 2019-07-12T12:27:21Z
+            lat: 43.8117
+            lng: 16.66405
+            alt: 828
+          - fix: 1219
+            time: 2019-07-12T12:27:22Z
+            lat: 43.81165
+            lng: 16.66415
+            alt: 828
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 2170.2887294911607
+          time: 2019-07-12T12:43:13.28872949116Z
+          lat: 43.82751889
+          lng: 16.62394742
+          alt: 1062.42
+        cross:
+          crossingPair:
+          - fix: 2170
+            time: 2019-07-12T12:43:13Z
+            lat: 43.82753333
+            lng: 16.62396667
+            alt: 1063
+          - fix: 2171
+            time: 2019-07-12T12:43:14Z
+            lat: 43.82748333
+            lng: 16.6239
+            alt: 1061
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 2851.9768800669585
+          time: 2019-07-12T12:54:34.976880066958Z
+          lat: 43.82066821
+          lng: 16.64460232
+          alt: 1355.05
+        cross:
+          crossingPair:
+          - fix: 2851
+            time: 2019-07-12T12:54:34Z
+            lat: 43.82073333
+            lng: 16.6447
+            alt: 1357
+          - fix: 2852
+            time: 2019-07-12T12:54:35Z
+            lat: 43.82066667
+            lng: 16.6446
+            alt: 1355
+          inZone:
+          - false
+          - true
+      - null
+      - null
+  - - - '18'
+      - Petros Miskos
+    - null
+  - - - '19'
+      - Rafal Cypcar
+    - zonesTag:
+      - inter:
+          fixFrac: 555.8102742348215
+          time: 2019-07-12T12:20:57.810274234821Z
+          lat: 43.82328248
+          lng: 16.65111035
+          alt: 979.19
+        cross:
+          crossingPair:
+          - fix: 555
+            time: 2019-07-12T12:20:57Z
+            lat: 43.82335
+            lng: 16.65108333
+            alt: 980
+          - fix: 556
+            time: 2019-07-12T12:20:58Z
+            lat: 43.82326667
+            lng: 16.65111667
+            alt: 979
+          inZone:
+          - true
+          - false
+      - inter:
+          fixFrac: 908.7968574817698
+          time: 2019-07-12T12:26:50.796857481769Z
+          lat: 43.81641016
+          lng: 16.6669763
+          alt: 996.2
+        cross:
+          crossingPair:
+          - fix: 908
+            time: 2019-07-12T12:26:50Z
+            lat: 43.81645
+            lng: 16.66688333
+            alt: 997
+          - fix: 909
+            time: 2019-07-12T12:26:51Z
+            lat: 43.8164
+            lng: 16.667
+            alt: 996
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 1900.405232357571
+          time: 2019-07-12T12:43:22.405232357571Z
+          lat: 43.82917615
+          lng: 16.62119009
+          alt: 1049
+        cross:
+          crossingPair:
+          - fix: 1900
+            time: 2019-07-12T12:43:22Z
+            lat: 43.82921667
+            lng: 16.62118333
+            alt: 1049
+          - fix: 1901
+            time: 2019-07-12T12:43:23Z
+            lat: 43.82911667
+            lng: 16.6212
+            alt: 1049
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 2025.3501866668157
+          time: 2019-07-12T12:45:27.350186666815Z
+          lat: 43.82186582
+          lng: 16.63645753
+          alt: 957
+        cross:
+          crossingPair:
+          - fix: 2025
+            time: 2019-07-12T12:45:27Z
+            lat: 43.82188333
+            lng: 16.63641667
+            alt: 957
+          - fix: 2026
+            time: 2019-07-12T12:45:28Z
+            lat: 43.82183333
+            lng: 16.63653333
+            alt: 957
+          inZone:
+          - false
+          - true
+      - inter:
+          fixFrac: 3310.251350015449
+          time: 2019-07-12T13:06:52.251350015449Z
+          lat: 43.7657459
+          lng: 16.67707513
+          alt: 652.25
+        cross:
+          crossingPair:
+          - fix: 3310
+            time: 2019-07-12T13:06:52Z
+            lat: 43.76573333
+            lng: 16.67705
+            alt: 652
+          - fix: 3311
+            time: 2019-07-12T13:06:53Z
+            lat: 43.76578333
+            lng: 16.67715
+            alt: 653
+          inZone:
+          - false
+          - true
+      - null
+  - - - '22'
+      - Sandi Krč
+    - zonesTag:
+      - inter:
+          fixFrac: 644.8282532775311
+          time: 2019-07-12T12:24:41.828253277531Z
+          lat: 43.82257812
+          lng: 16.6499776
+          alt: 833.17
+        cross:
+          crossingPair:
+          - fix: 644
+            time: 2019-07-12T12:24:41Z
+            lat: 43.82263333
+            lng: 16.64995
+            alt: 834
+          - fix: 645
+            time: 2019-07-12T12:24:42Z
+            lat: 43.82256667
+            lng: 16.64998333
+            alt: 833
+          inZone:
+          - true
+          - false
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '24'
+      - Slava Jelić
+    - zonesTag:
+      - inter:
+          fixFrac: 283.662507210018
+          time: 2019-07-12T13:48:52.31253605009Z
+          lat: 43.82096771
+          lng: 16.63961334
+          alt: 0
+        cross:
+          crossingPair:
+          - fix: 283
+            time: 2019-07-12T13:48:49Z
+            lat: 43.82113333
+            lng: 16.63908333
+            alt: 0
+          - fix: 284
+            time: 2019-07-12T13:48:54Z
+            lat: 43.82088333
+            lng: 16.63988333
+            alt: 0
+          inZone:
+          - true
+          - false
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '26'
+      - Stjepan Zjacic
+    - zonesTag:
+      - inter:
+          fixFrac: 1212.4878679173144
+          time: 2019-07-12T13:02:32.487867917314Z
+          lat: 43.82121747
+          lng: 16.63839919
+          alt: 551
+        cross:
+          crossingPair:
+          - fix: 1212
+            time: 2019-07-12T13:02:32Z
+            lat: 43.82125
+            lng: 16.63836667
+            alt: 551
+          - fix: 1213
+            time: 2019-07-12T13:02:33Z
+            lat: 43.82118333
+            lng: 16.63843333
+            alt: 551
+          inZone:
+          - true
+          - false
+      - null
+      - null
+      - null
+      - null
+      - null

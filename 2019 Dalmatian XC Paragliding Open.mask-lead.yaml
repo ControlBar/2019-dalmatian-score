@@ -1,0 +1,81 @@
+raceTime:
+- openTask: 2019-07-11T12:30:00Z
+  closeTask: 2019-07-11T18:00:00Z
+  firstStart: 2019-07-11T12:30:42.855149263116Z
+  firstLead: 2019-07-11T12:30:42.855149263116Z
+  lastArrival: null
+  leadAllDown: 5046.145
+  leadArrival: null
+  leadClose: 19757.145
+  openClose: 19800
+  tickClose: 19757.145
+- openTask: 2019-07-12T11:30:00Z
+  closeTask: 2019-07-12T18:00:00Z
+  firstStart: 2019-07-12T12:20:31.811427052006Z
+  firstLead: 2019-07-12T12:20:31.811427052006Z
+  lastArrival: 2019-07-12T13:30:53.340283333959Z
+  leadAllDown: 5740.189
+  leadArrival: 4221.529
+  leadClose: 20368.189
+  openClose: 23400
+  tickClose: 20368.189
+sumDistance:
+- 17.081808 km
+- 31.493080 km
+leadAreaToCoef:
+- 0.00000107973897 km^-2 s^-1
+- 0.00000224555742 km^-2 s^-1
+leadCoefMin:
+- 1.74455459
+- 0.78604866
+leadRank:
+- - - - '19'
+      - Rafal Cypcar
+    - area: 1615718.8460 km^2 s
+      coef: 1.74455459
+      frac: 1
+  - - - '10'
+      - Igor Eržen
+    - area: 1789516.7586 km^2 s
+      coef: 1.93221097
+      frac: 0.72772107
+  - - - '15'
+      - Mitja Jug
+    - area: 1846997.6902 km^2 s
+      coef: 1.99427537
+      frac: 0.67058634
+  - - - '11'
+      - Jerko Odžak
+    - area: 2094211.4828 km^2 s
+      coef: 2.26120174
+      frac: 0.46514692
+  - - - '22'
+      - Sandi Krč
+    - area: 2119304.7310 km^2 s
+      coef: 2.2882959
+      frac: 0.44660738
+- - - - '19'
+      - Rafal Cypcar
+    - area: 350046.1179 km^2 s
+      coef: 0.78604866
+      frac: 1
+  - - - '10'
+      - Igor Eržen
+    - area: 461324.5430 km^2 s
+      coef: 1.03593075
+      frac: 0.57012689
+  - - - '15'
+      - Mitja Jug
+    - area: 475807.2031 km^2 s
+      coef: 1.0684524
+      frac: 0.53359433
+  - - - '11'
+      - Jerko Odžak
+    - area: 904625.6367 km^2 s
+      coef: 2.03138882
+      frac: 0
+  - - - '22'
+      - Sandi Krč
+    - area: 905683.0868 km^2 s
+      coef: 2.03376338
+      frac: 0

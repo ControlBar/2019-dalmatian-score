@@ -1,0 +1,205 @@
+bolster:
+- max: 10.498202 km
+  mean: 4.897979 km
+  stdDev: 2.562164 km
+- max: 15.729020 km
+  mean: 6.499231 km
+  stdDev: 5.073192 km
+reach:
+- max: 10.498202 km
+  mean: 3.238822 km
+  stdDev: 4.010741 km
+- max: 15.729020 km
+  mean: 5.021681 km
+  stdDev: 6.159209 km
+reachRank:
+- - - - '15'
+      - Mitja Jug
+    - frac: 1
+      reach: 10.498202 km
+  - - - '19'
+      - Rafal Cypcar
+    - frac: 0.70833101
+      reach: 7.436202 km
+  - - - '11'
+      - Jerko Odžak
+    - frac: 0.63422308
+      reach: 6.658202 km
+  - - - '10'
+      - Igor Eržen
+    - frac: 0.42761627
+      reach: 4.489202 km
+  - - - '22'
+      - Sandi Krč
+    - frac: 0.2370122
+      reach: 2.488202 km
+  - - - '35'
+      - Giselle Giampietri
+    - frac: 0.13189712
+      reach: 0.002992 km
+  - - - '32'
+      - Laura Grakalich
+    - frac: 0.13189712
+      reach: 0.002992 km
+  - - - '24'
+      - Slava Jelić
+    - frac: -9.980738e-2
+      reach: -1.047798 km
+  - - - '26'
+      - Stjepan Zjacic
+    - frac: -0.13133659
+      reach: -1.378798 km
+- - - - '10'
+      - Igor Eržen
+    - frac: 1
+      reach: 15.729020 km
+  - - - '19'
+      - Rafal Cypcar
+    - frac: 0.88575258
+      reach: 13.932020 km
+  - - - '15'
+      - Mitja Jug
+    - frac: 0.684405
+      reach: 10.765020 km
+  - - - '11'
+      - Jerko Odžak
+    - frac: 0.19499117
+      reach: 3.067020 km
+  - - - '35'
+      - Giselle Giampietri
+    - frac: 0.19033118
+      reach: 0.002994 km
+  - - - '32'
+      - Laura Grakalich
+    - frac: 0.19033118
+      reach: 0.002994 km
+  - - - '22'
+      - Sandi Krč
+    - frac: 7.680199e-2
+      reach: 1.208020 km
+  - - - '26'
+      - Stjepan Zjacic
+    - frac: 1.843853e-2
+      reach: 0.290020 km
+  - - - '24'
+      - Slava Jelić
+    - frac: 1.258947e-2
+      reach: 0.198020 km
+nigh:
+- - - - '15'
+      - Mitja Jug
+    - togo:
+        distance: 12.185000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 10.498202 km
+  - - - '19'
+      - Rafal Cypcar
+    - togo:
+        distance: 15.247000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 7.436202 km
+  - - - '11'
+      - Jerko Odžak
+    - togo:
+        distance: 16.025000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 6.658202 km
+  - - - '10'
+      - Igor Eržen
+    - togo:
+        distance: 18.194000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 4.489202 km
+  - - - '22'
+      - Sandi Krč
+    - togo:
+        distance: 20.195000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 2.488202 km
+  - - - '26'
+      - Stjepan Zjacic
+    - togo:
+        distance: 24.062000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: -1.378798 km
+  - - - '24'
+      - Slava Jelić
+    - togo:
+        distance: 23.731000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: -1.047798 km
+- - - - '19'
+      - Rafal Cypcar
+    - togo:
+        distance: 1.797000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 13.932020 km
+  - - - '15'
+      - Mitja Jug
+    - togo:
+        distance: 4.964000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 10.765020 km
+  - - - '11'
+      - Jerko Odžak
+    - togo:
+        distance: 12.662000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 3.067020 km
+  - - - '22'
+      - Sandi Krč
+    - togo:
+        distance: 14.521000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 1.208020 km
+  - - - '26'
+      - Stjepan Zjacic
+    - togo:
+        distance: 15.439000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 0.290020 km
+  - - - '24'
+      - Slava Jelić
+    - togo:
+        distance: 15.531000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 0.198020 km

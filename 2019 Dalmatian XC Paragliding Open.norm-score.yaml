@@ -1,0 +1,625 @@
+bestTime:
+- null
+- 2.014722 h
+validity:
+- distance: 0.16757843
+  time: 0.74740372
+  launch: 1
+  stop: 1
+  task: 0.12524874
+- distance: 0.30965686
+  time: 1
+  launch: 1
+  stop: 1
+  task: 0.30965686
+validityWorkingDistance:
+- area: 10.2
+  flying: 10
+  minimumDistance: 3.000 km
+  nominalDistance: 20.0 km
+  nominalGoal: 0.2
+  reachMax:
+    extra: 10.532000 km
+    flown: 10.532000 km
+  sum: 17.1 km
+- area: 10.2
+  flying: 10
+  minimumDistance: 3.000 km
+  nominalDistance: 20.0 km
+  nominalGoal: 0.2
+  reachMax:
+    extra: 15.762000 km
+    flown: 15.762000 km
+  sum: 31.6 km
+validityWorkingLaunch:
+- flying: 10
+  nominalLaunch: 0.96
+  present: 10
+- flying: 10
+  nominalLaunch: 0.96
+  present: 10
+validityWorkingStop:
+- flying: 10
+  landed: 0
+  launchToEssDistance: 22.745 km
+  pilotsAtEss: 0
+  reachStats:
+    extra:
+      max: 12.319000 km
+      mean: 3.305500 km
+      stdDev: 3.781371 km
+    flown:
+      max: 10.532000 km
+      mean: 3.956600 km
+      stdDev: 3.193584 km
+  stillFlying: 10
+- flying: 10
+  landed: 0
+  launchToEssDistance: 15.762 km
+  pilotsAtEss: 1
+  reachStats:
+    extra:
+      max: 15.763000 km
+      mean: 5.190800 km
+      stdDev: 5.809368 km
+    flown:
+      max: 15.763000 km
+      mean: 5.128500 km
+      stdDev: 5.707050 km
+  stillFlying: 10
+validityWorkingTime:
+- gsBestTime: null
+  nominalDistance: 20.0 km
+  nominalTime: 0.666667 h
+  reachMax:
+    extra: 10.532000 km
+    flown: 10.532000 km
+  ssBestTime: null
+- gsBestTime: 2.014722 h
+  nominalDistance: 20.0 km
+  nominalTime: 0.666667 h
+  reachMax:
+    extra: 15.762000 km
+    flown: 15.762000 km
+  ssBestTime: null
+score:
+- - - - '15'
+      - Mitja Jug
+    - breakdown:
+        distance: 112.7
+        leading: 4.5
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '1'
+      total: 117
+      fractions:
+        distance: 1
+        leading: 0.77586207
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 12.319000 km
+        flown: 10.532000 km
+      landedMade: 8.461000 km
+      ss: 2019-07-11T12:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 95237.0000 km^2 s
+      leadingCoef: 2.32619426
+  - - - '19'
+      - Rafal Cypcar
+    - breakdown:
+        distance: 79.6
+        leading: 5.8
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '2'
+      total: 85
+      fractions:
+        distance: 0.70629991
+        leading: 1
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 8.081000 km
+        flown: 7.441000 km
+      landedMade: 7.181000 km
+      ss: 2019-07-11T12:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 88908.0000 km^2 s
+      leadingCoef: 2.1716058
+  - - - '11'
+      - Jerko Odžak
+    - breakdown:
+        distance: 71
+        leading: 3.7
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '3'
+      total: 75
+      fractions:
+        distance: 0.62999113
+        leading: 0.63793103
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 0.000000 km
+        flown: 6.629000 km
+      landedMade: 5.033000 km
+      ss: 2019-07-11T12:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 102301.0000 km^2 s
+      leadingCoef: 2.49874809
+  - - - '10'
+      - Igor Eržen
+    - breakdown:
+        distance: 48.1
+        leading: 4.5
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '4'
+      total: 53
+      fractions:
+        distance: 0.42679681
+        leading: 0.77586207
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 0.000000 km
+        flown: 4.491000 km
+      landedMade: 4.362000 km
+      ss: 2019-07-11T12:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 95117.0000 km^2 s
+      leadingCoef: 2.32325701
+  - - - '22'
+      - Sandi Krč
+    - breakdown:
+        distance: 32.1
+        leading: 3.5
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '5'
+      total: 36
+      fractions:
+        distance: 0.28482697
+        leading: 0.60344828
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 3.409000 km
+        flown: 2.490000 km
+      landedMade: 2.490000 km
+      ss: 2019-07-11T12:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 103613.0000 km^2 s
+      leadingCoef: 2.53077758
+  - - - '18'
+      - Petros Miskos
+    - breakdown:
+        distance: 32.1
+        leading: 3.2
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '6'
+      total: 35
+      fractions:
+        distance: 0.28482697
+        leading: 0.55172414
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 0.000000 km
+        flown: 1.983000 km
+      landedMade: 1.974000 km
+      ss: 2019-07-11T12:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 107328.0000 km^2 s
+      leadingCoef: 2.62153425
+  - - - '35'
+      - Giselle Giampietri
+    - breakdown:
+        distance: 32.1
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '7'
+      total: 32
+      fractions:
+        distance: 0.28482697
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 3.000000 km
+        flown: 3.000000 km
+      landedMade: 0.000000 km
+      ss: null
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+  - - - '24'
+      - Slava Jelić
+    - breakdown:
+        distance: 32.1
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '7'
+      total: 32
+      fractions:
+        distance: 0.28482697
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 2.011000 km
+        flown: 0.000000 km
+      landedMade: 0.000000 km
+      ss: 2019-07-11T12:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+  - - - '32'
+      - Laura Grakalich
+    - breakdown:
+        distance: 32.1
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '7'
+      total: 32
+      fractions:
+        distance: 0.28482697
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 3.000000 km
+        flown: 3.000000 km
+      landedMade: 0.000000 km
+      ss: null
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+  - - - '26'
+      - Stjepan Zjacic
+    - breakdown:
+        distance: 32.1
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '7'
+      total: 32
+      fractions:
+        distance: 0.28482697
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 1.235000 km
+        flown: 0.000000 km
+      landedMade: 0.000000 km
+      ss: 2019-07-11T12:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+- - - - '10'
+      - Igor Eržen
+    - breakdown:
+        distance: 232.3
+        leading: 19.3
+        arrival: 0
+        time: 50.3
+        effort: 0
+        reach: 0
+      place: '1'
+      total: 302
+      fractions:
+        distance: 1
+        leading: 0.71217712
+        arrival: 0
+        time: 1
+        effort: 0
+        reach: 0
+      reach:
+        extra: 15.763000 km
+        flown: 15.763000 km
+      landedMade: 15.762000 km
+      ss: 2019-07-12T11:30:00Z
+      es: 2019-07-12T13:30:53Z
+      timeElapsed: 2.014722 h
+      leadingArea: 41323.0000 km^2 s
+      leadingCoef: 1.45644965
+  - - - '19'
+      - Rafal Cypcar
+    - breakdown:
+        distance: 205.7
+        leading: 27.1
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '2'
+      total: 233
+      fractions:
+        distance: 0.8854929
+        leading: 1
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 13.979000 km
+        flown: 13.961000 km
+      landedMade: 13.883000 km
+      ss: 2019-07-12T11:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 36399.0000 km^2 s
+      leadingCoef: 1.28289289
+  - - - '15'
+      - Mitja Jug
+    - breakdown:
+        distance: 158.9
+        leading: 10.1
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '3'
+      total: 169
+      fractions:
+        distance: 0.68402927
+        leading: 0.37269373
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 11.570000 km
+        flown: 10.783000 km
+      landedMade: 10.715000 km
+      ss: 2019-07-12T11:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 52349.0000 km^2 s
+      leadingCoef: 1.84505862
+  - - - '11'
+      - Jerko Odžak
+    - breakdown:
+        distance: 45.4
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '4'
+      total: 45
+      fractions:
+        distance: 0.19543693
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 0.000000 km
+        flown: 3.078000 km
+      landedMade: 3.075000 km
+      ss: 2019-07-12T11:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 83657.0000 km^2 s
+      leadingCoef: 2.94852264
+  - - - '32'
+      - Laura Grakalich
+    - breakdown:
+        distance: 44.2
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '5'
+      total: 44
+      fractions:
+        distance: 0.1902712
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 3.000000 km
+        flown: 3.000000 km
+      landedMade: 0.000000 km
+      ss: null
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+  - - - '35'
+      - Giselle Giampietri
+    - breakdown:
+        distance: 44.2
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '5'
+      total: 44
+      fractions:
+        distance: 0.1902712
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 3.000000 km
+        flown: 3.000000 km
+      landedMade: 0.000000 km
+      ss: null
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+  - - - '22'
+      - Sandi Krč
+    - breakdown:
+        distance: 44.2
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '5'
+      total: 44
+      fractions:
+        distance: 0.1902712
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 2.855000 km
+        flown: 1.211000 km
+      landedMade: 0.000000 km
+      ss: 2019-07-12T11:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 87034.0000 km^2 s
+      leadingCoef: 3.06751491
+  - - - '18'
+      - Petros Miskos
+    - breakdown:
+        distance: 44.2
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '5'
+      total: 44
+      fractions:
+        distance: 0.1902712
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 0.000000 km
+        flown: 0.000000 km
+      landedMade: 0.000000 km
+      ss: 2019-07-12T11:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 0.0000 km^2 s
+      leadingCoef: 0
+  - - - '24'
+      - Slava Jelić
+    - breakdown:
+        distance: 44.2
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '5'
+      total: 44
+      fractions:
+        distance: 0.1902712
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 0.000000 km
+        flown: 0.198000 km
+      landedMade: 0.000000 km
+      ss: 2019-07-12T11:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 93362.0000 km^2 s
+      leadingCoef: 3.29055664
+  - - - '26'
+      - Stjepan Zjacic
+    - breakdown:
+        distance: 44.2
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      place: '5'
+      total: 44
+      fractions:
+        distance: 0.1902712
+        leading: 0
+        arrival: 0
+        time: 0
+        effort: 0
+        reach: 0
+      reach:
+        extra: 1.741000 km
+        flown: 0.291000 km
+      landedMade: 0.000000 km
+      ss: 2019-07-12T11:30:00Z
+      es: null
+      timeElapsed: null
+      leadingArea: 92604.0000 km^2 s
+      leadingCoef: 3.26384461

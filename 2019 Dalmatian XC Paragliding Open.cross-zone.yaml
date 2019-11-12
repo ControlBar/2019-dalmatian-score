@@ -1,0 +1,3782 @@
+suspectDnf:
+- - - '18'
+    - Petros Miskos
+- - - '18'
+    - Petros Miskos
+flying:
+- - - - '35'
+      - Giselle Giampietri
+    - null
+  - - - '10'
+      - Igor Eržen
+    - loggedFixes: 1755
+      flyingFixes:
+      - 46
+      - 1754
+      loggedSeconds: 1754
+      flyingSeconds:
+      - 46
+      - 1754
+      loggedTimes:
+      - 2019-07-11T12:25:13Z
+      - 2019-07-11T12:54:27Z
+      flyingTimes:
+      - 2019-07-11T12:25:59Z
+      - 2019-07-11T12:54:27Z
+  - - - '11'
+      - Jerko Odžak
+    - loggedFixes: 1004
+      flyingFixes:
+      - 13
+      - 1003
+      loggedSeconds: 4577
+      flyingSeconds:
+      - 61
+      - 4577
+      loggedTimes:
+      - 2019-07-11T12:38:32Z
+      - 2019-07-11T13:54:49Z
+      flyingTimes:
+      - 2019-07-11T12:39:33Z
+      - 2019-07-11T13:54:49Z
+  - - - '32'
+      - Laura Grakalich
+    - null
+  - - - '15'
+      - Mitja Jug
+    - loggedFixes: 5568
+      flyingFixes:
+      - 343
+      - 5555
+      loggedSeconds: 5567
+      flyingSeconds:
+      - 343
+      - 5555
+      loggedTimes:
+      - 2019-07-11T12:19:09Z
+      - 2019-07-11T13:51:56Z
+      flyingTimes:
+      - 2019-07-11T12:24:52Z
+      - 2019-07-11T13:51:44Z
+  - - - '18'
+      - Petros Miskos
+    - null
+  - - - '19'
+      - Rafal Cypcar
+    - loggedFixes: 2242
+      flyingFixes:
+      - 10
+      - 2204
+      loggedSeconds: 2241
+      flyingSeconds:
+      - 10
+      - 2204
+      loggedTimes:
+      - 2019-07-11T12:32:56Z
+      - 2019-07-11T13:10:17Z
+      flyingTimes:
+      - 2019-07-11T12:33:06Z
+      - 2019-07-11T13:09:40Z
+  - - - '22'
+      - Sandi Krč
+    - loggedFixes: 1489
+      flyingFixes:
+      - 47
+      - 1422
+      loggedSeconds: 1488
+      flyingSeconds:
+      - 47
+      - 1422
+      loggedTimes:
+      - 2019-07-11T12:27:15Z
+      - 2019-07-11T12:52:03Z
+      flyingTimes:
+      - 2019-07-11T12:28:02Z
+      - 2019-07-11T12:50:57Z
+  - - - '24'
+      - Slava Jelić
+    - loggedFixes: 1828
+      flyingFixes:
+      - 7
+      - 1670
+      loggedSeconds: 1827
+      flyingSeconds:
+      - 7
+      - 1670
+      loggedTimes:
+      - 2019-07-11T12:43:15Z
+      - 2019-07-11T13:13:42Z
+      flyingTimes:
+      - 2019-07-11T12:43:22Z
+      - 2019-07-11T13:11:05Z
+  - - - '26'
+      - Stjepan Zjacic
+    - loggedFixes: 638
+      flyingFixes:
+      - 32
+      - 637
+      loggedSeconds: 896
+      flyingSeconds:
+      - 253
+      - 896
+      loggedTimes:
+      - 2019-07-11T13:31:49Z
+      - 2019-07-11T13:46:45Z
+      flyingTimes:
+      - 2019-07-11T13:36:02Z
+      - 2019-07-11T13:46:45Z
+- - - - '35'
+      - Giselle Giampietri
+    - null
+  - - - '10'
+      - Igor Eržen
+    - loggedFixes: 5963
+      flyingFixes:
+      - 44
+      - 5932
+      loggedSeconds: 5962
+      flyingSeconds:
+      - 44
+      - 5932
+      loggedTimes:
+      - 2019-07-12T12:02:20Z
+      - 2019-07-12T13:41:42Z
+      flyingTimes:
+      - 2019-07-12T12:03:04Z
+      - 2019-07-12T13:41:12Z
+  - - - '11'
+      - Jerko Odžak
+    - loggedFixes: 386
+      flyingFixes:
+      - 15
+      - 365
+      loggedSeconds: 1768
+      flyingSeconds:
+      - 68
+      - 1678
+      loggedTimes:
+      - 2019-07-12T12:45:07Z
+      - 2019-07-12T13:14:35Z
+      flyingTimes:
+      - 2019-07-12T12:46:15Z
+      - 2019-07-12T13:13:05Z
+  - - - '32'
+      - Laura Grakalich
+    - null
+  - - - '15'
+      - Mitja Jug
+    - loggedFixes: 5180
+      flyingFixes:
+      - 289
+      - 5149
+      loggedSeconds: 5179
+      flyingSeconds:
+      - 289
+      - 5149
+      loggedTimes:
+      - 2019-07-12T12:07:03Z
+      - 2019-07-12T13:33:22Z
+      flyingTimes:
+      - 2019-07-12T12:11:52Z
+      - 2019-07-12T13:32:52Z
+  - - - '18'
+      - Petros Miskos
+    - null
+  - - - '19'
+      - Rafal Cypcar
+    - loggedFixes: 3806
+      flyingFixes:
+      - 45
+      - 3737
+      loggedSeconds: 3805
+      flyingSeconds:
+      - 45
+      - 3737
+      loggedTimes:
+      - 2019-07-12T12:11:42Z
+      - 2019-07-12T13:15:07Z
+      flyingTimes:
+      - 2019-07-12T12:12:27Z
+      - 2019-07-12T13:13:59Z
+  - - - '22'
+      - Sandi Krč
+    - loggedFixes: 1399
+      flyingFixes:
+      - 47
+      - 1334
+      loggedSeconds: 1398
+      flyingSeconds:
+      - 47
+      - 1334
+      loggedTimes:
+      - 2019-07-12T12:13:57Z
+      - 2019-07-12T12:37:15Z
+      flyingTimes:
+      - 2019-07-12T12:14:44Z
+      - 2019-07-12T12:36:11Z
+  - - - '24'
+      - Slava Jelić
+    - loggedFixes: 419
+      flyingFixes:
+      - 13
+      - 381
+      loggedSeconds: 1889
+      flyingSeconds:
+      - 60
+      - 1723
+      loggedTimes:
+      - 2019-07-12T13:27:29Z
+      - 2019-07-12T13:58:58Z
+      flyingTimes:
+      - 2019-07-12T13:28:29Z
+      - 2019-07-12T13:56:12Z
+  - - - '26'
+      - Stjepan Zjacic
+    - loggedFixes: 1255
+      flyingFixes:
+      - 78
+      - 1253
+      loggedSeconds: 2523
+      flyingSeconds:
+      - 1176
+      - 2508
+      loggedTimes:
+      - 2019-07-12T12:21:26Z
+      - 2019-07-12T13:03:29Z
+      flyingTimes:
+      - 2019-07-12T12:41:02Z
+      - 2019-07-12T13:03:14Z
+crossing:
+- - - - '35'
+      - Giselle Giampietri
+    - null
+  - - - '10'
+      - Igor Eržen
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 329
+          time: 2019-07-11T12:30:42Z
+          lat: 43.80356667
+          lng: 16.49303333
+          alt: 0
+        - fix: 330
+          time: 2019-07-11T12:30:43Z
+          lat: 43.8036
+          lng: 16.493
+          alt: 0
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 1182
+          time: 2019-07-11T12:44:55Z
+          lat: 43.83028333
+          lng: 16.45371667
+          alt: 0
+        - fix: 1183
+          time: 2019-07-11T12:44:56Z
+          lat: 43.83033333
+          lng: 16.45366667
+          alt: 0
+        inZone:
+        - false
+        - true
+      - null
+      - null
+      - null
+      - null
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 329
+            time: 2019-07-11T12:30:42Z
+            lat: 43.80356667
+            lng: 16.49303333
+            alt: 0
+          - fix: 330
+            time: 2019-07-11T12:30:43Z
+            lat: 43.8036
+            lng: 16.493
+            alt: 0
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 1182
+            time: 2019-07-11T12:44:55Z
+            lat: 43.83028333
+            lng: 16.45371667
+            alt: 0
+          - fix: 1183
+            time: 2019-07-11T12:44:56Z
+            lat: 43.83033333
+            lng: 16.45366667
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1200
+            time: 2019-07-11T12:45:13Z
+            lat: 43.83031667
+            lng: 16.45388333
+            alt: 0
+          - fix: 1201
+            time: 2019-07-11T12:45:14Z
+            lat: 43.83021667
+            lng: 16.45398333
+            alt: 0
+          inZone:
+          - true
+          - false
+      - []
+      - - crossingPair:
+          - fix: 329
+            time: 2019-07-11T12:30:42Z
+            lat: 43.80356667
+            lng: 16.49303333
+            alt: 0
+          - fix: 330
+            time: 2019-07-11T12:30:43Z
+            lat: 43.8036
+            lng: 16.493
+            alt: 0
+          inZone:
+          - true
+          - false
+      - []
+      - []
+      zonesCrossExcluded: []
+  - - - '11'
+      - Jerko Odžak
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 240
+          time: 2019-07-11T12:56:43Z
+          lat: 43.80231667
+          lng: 16.48505
+          alt: 0
+        - fix: 241
+          time: 2019-07-11T12:56:47Z
+          lat: 43.80265
+          lng: 16.48495
+          alt: 0
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 375
+          time: 2019-07-11T13:06:58Z
+          lat: 43.8301
+          lng: 16.453
+          alt: 0
+        - fix: 376
+          time: 2019-07-11T13:07:03Z
+          lat: 43.8305
+          lng: 16.45278333
+          alt: 0
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 943
+          time: 2019-07-11T13:50:15Z
+          lat: 43.78603333
+          lng: 16.56836667
+          alt: 0
+        - fix: 944
+          time: 2019-07-11T13:50:20Z
+          lat: 43.78631667
+          lng: 16.56898333
+          alt: 0
+        inZone:
+        - false
+        - true
+      - null
+      - null
+      - null
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 25
+            time: 2019-07-11T12:40:28Z
+            lat: 43.78906667
+            lng: 16.50056667
+            alt: 0
+          - fix: 26
+            time: 2019-07-11T12:40:33Z
+            lat: 43.78896667
+            lng: 16.50096667
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 26
+            time: 2019-07-11T12:40:33Z
+            lat: 43.78896667
+            lng: 16.50096667
+            alt: 0
+          - fix: 27
+            time: 2019-07-11T12:40:37Z
+            lat: 43.78933333
+            lng: 16.50083333
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 37
+            time: 2019-07-11T12:41:23Z
+            lat: 43.78913333
+            lng: 16.50058333
+            alt: 0
+          - fix: 38
+            time: 2019-07-11T12:41:28Z
+            lat: 43.78863333
+            lng: 16.5008
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 47
+            time: 2019-07-11T12:42:07Z
+            lat: 43.7885
+            lng: 16.50078333
+            alt: 0
+          - fix: 48
+            time: 2019-07-11T12:42:12Z
+            lat: 43.78878333
+            lng: 16.5005
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 89
+            time: 2019-07-11T12:45:16Z
+            lat: 43.78856667
+            lng: 16.50018333
+            alt: 0
+          - fix: 90
+            time: 2019-07-11T12:45:20Z
+            lat: 43.78833333
+            lng: 16.50058333
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 92
+            time: 2019-07-11T12:45:30Z
+            lat: 43.78878333
+            lng: 16.50073333
+            alt: 0
+          - fix: 93
+            time: 2019-07-11T12:45:35Z
+            lat: 43.7888
+            lng: 16.50023333
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 96
+            time: 2019-07-11T12:45:48Z
+            lat: 43.7889
+            lng: 16.50036667
+            alt: 0
+          - fix: 97
+            time: 2019-07-11T12:45:52Z
+            lat: 43.78821667
+            lng: 16.50046667
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 104
+            time: 2019-07-11T12:46:26Z
+            lat: 43.78828333
+            lng: 16.49993333
+            alt: 0
+          - fix: 105
+            time: 2019-07-11T12:46:31Z
+            lat: 43.78843333
+            lng: 16.49965
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 240
+            time: 2019-07-11T12:56:43Z
+            lat: 43.80231667
+            lng: 16.48505
+            alt: 0
+          - fix: 241
+            time: 2019-07-11T12:56:47Z
+            lat: 43.80265
+            lng: 16.48495
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 804
+            time: 2019-07-11T13:39:46Z
+            lat: 43.80356667
+            lng: 16.48773333
+            alt: 0
+          - fix: 805
+            time: 2019-07-11T13:39:51Z
+            lat: 43.80318333
+            lng: 16.48818333
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 838
+            time: 2019-07-11T13:42:21Z
+            lat: 43.7944
+            lng: 16.50348333
+            alt: 0
+          - fix: 839
+            time: 2019-07-11T13:42:25Z
+            lat: 43.79416667
+            lng: 16.50393333
+            alt: 0
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 375
+            time: 2019-07-11T13:06:58Z
+            lat: 43.8301
+            lng: 16.453
+            alt: 0
+          - fix: 376
+            time: 2019-07-11T13:07:03Z
+            lat: 43.8305
+            lng: 16.45278333
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 589
+            time: 2019-07-11T13:23:25Z
+            lat: 43.83058333
+            lng: 16.45395
+            alt: 0
+          - fix: 590
+            time: 2019-07-11T13:23:30Z
+            lat: 43.83006667
+            lng: 16.45386667
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 592
+            time: 2019-07-11T13:23:38Z
+            lat: 43.83003333
+            lng: 16.45451667
+            alt: 0
+          - fix: 593
+            time: 2019-07-11T13:23:42Z
+            lat: 43.83033333
+            lng: 16.45423333
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 596
+            time: 2019-07-11T13:23:57Z
+            lat: 43.83043333
+            lng: 16.45398333
+            alt: 0
+          - fix: 597
+            time: 2019-07-11T13:24:01Z
+            lat: 43.82996667
+            lng: 16.45396667
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 603
+            time: 2019-07-11T13:24:27Z
+            lat: 43.83021667
+            lng: 16.45313333
+            alt: 0
+          - fix: 604
+            time: 2019-07-11T13:24:32Z
+            lat: 43.83048333
+            lng: 16.4533
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 604
+            time: 2019-07-11T13:24:32Z
+            lat: 43.83048333
+            lng: 16.4533
+            alt: 0
+          - fix: 605
+            time: 2019-07-11T13:24:36Z
+            lat: 43.83023333
+            lng: 16.45375
+            alt: 0
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 943
+            time: 2019-07-11T13:50:15Z
+            lat: 43.78603333
+            lng: 16.56836667
+            alt: 0
+          - fix: 944
+            time: 2019-07-11T13:50:20Z
+            lat: 43.78631667
+            lng: 16.56898333
+            alt: 0
+          inZone:
+          - false
+          - true
+      - - crossingPair:
+          - fix: 25
+            time: 2019-07-11T12:40:28Z
+            lat: 43.78906667
+            lng: 16.50056667
+            alt: 0
+          - fix: 26
+            time: 2019-07-11T12:40:33Z
+            lat: 43.78896667
+            lng: 16.50096667
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 26
+            time: 2019-07-11T12:40:33Z
+            lat: 43.78896667
+            lng: 16.50096667
+            alt: 0
+          - fix: 27
+            time: 2019-07-11T12:40:37Z
+            lat: 43.78933333
+            lng: 16.50083333
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 37
+            time: 2019-07-11T12:41:23Z
+            lat: 43.78913333
+            lng: 16.50058333
+            alt: 0
+          - fix: 38
+            time: 2019-07-11T12:41:28Z
+            lat: 43.78863333
+            lng: 16.5008
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 47
+            time: 2019-07-11T12:42:07Z
+            lat: 43.7885
+            lng: 16.50078333
+            alt: 0
+          - fix: 48
+            time: 2019-07-11T12:42:12Z
+            lat: 43.78878333
+            lng: 16.5005
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 89
+            time: 2019-07-11T12:45:16Z
+            lat: 43.78856667
+            lng: 16.50018333
+            alt: 0
+          - fix: 90
+            time: 2019-07-11T12:45:20Z
+            lat: 43.78833333
+            lng: 16.50058333
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 92
+            time: 2019-07-11T12:45:30Z
+            lat: 43.78878333
+            lng: 16.50073333
+            alt: 0
+          - fix: 93
+            time: 2019-07-11T12:45:35Z
+            lat: 43.7888
+            lng: 16.50023333
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 96
+            time: 2019-07-11T12:45:48Z
+            lat: 43.7889
+            lng: 16.50036667
+            alt: 0
+          - fix: 97
+            time: 2019-07-11T12:45:52Z
+            lat: 43.78821667
+            lng: 16.50046667
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 104
+            time: 2019-07-11T12:46:26Z
+            lat: 43.78828333
+            lng: 16.49993333
+            alt: 0
+          - fix: 105
+            time: 2019-07-11T12:46:31Z
+            lat: 43.78843333
+            lng: 16.49965
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 240
+            time: 2019-07-11T12:56:43Z
+            lat: 43.80231667
+            lng: 16.48505
+            alt: 0
+          - fix: 241
+            time: 2019-07-11T12:56:47Z
+            lat: 43.80265
+            lng: 16.48495
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 804
+            time: 2019-07-11T13:39:46Z
+            lat: 43.80356667
+            lng: 16.48773333
+            alt: 0
+          - fix: 805
+            time: 2019-07-11T13:39:51Z
+            lat: 43.80318333
+            lng: 16.48818333
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 838
+            time: 2019-07-11T13:42:21Z
+            lat: 43.7944
+            lng: 16.50348333
+            alt: 0
+          - fix: 839
+            time: 2019-07-11T13:42:25Z
+            lat: 43.79416667
+            lng: 16.50393333
+            alt: 0
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 971
+            time: 2019-07-11T13:52:25Z
+            lat: 43.79165
+            lng: 16.58446667
+            alt: 0
+          - fix: 972
+            time: 2019-07-11T13:52:29Z
+            lat: 43.79176667
+            lng: 16.58501667
+            alt: 0
+          inZone:
+          - false
+          - true
+      - []
+      zonesCrossExcluded: []
+  - - - '32'
+      - Laura Grakalich
+    - null
+  - - - '15'
+      - Mitja Jug
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 1095
+          time: 2019-07-11T12:37:24Z
+          lat: 43.8036
+          lng: 16.48996667
+          alt: 1013
+        - fix: 1096
+          time: 2019-07-11T12:37:25Z
+          lat: 43.80365
+          lng: 16.48988333
+          alt: 1011
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 3027
+          time: 2019-07-11T13:09:36Z
+          lat: 43.83025
+          lng: 16.45371667
+          alt: 687
+        - fix: 3028
+          time: 2019-07-11T13:09:37Z
+          lat: 43.8303
+          lng: 16.45363333
+          alt: 688
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 4802
+          time: 2019-07-11T13:39:11Z
+          lat: 43.81701667
+          lng: 16.5319
+          alt: 1056
+        - fix: 4803
+          time: 2019-07-11T13:39:12Z
+          lat: 43.81701667
+          lng: 16.53208333
+          alt: 1054
+        inZone:
+        - false
+        - true
+      - null
+      - null
+      - null
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 1095
+            time: 2019-07-11T12:37:24Z
+            lat: 43.8036
+            lng: 16.48996667
+            alt: 1013
+          - fix: 1096
+            time: 2019-07-11T12:37:25Z
+            lat: 43.80365
+            lng: 16.48988333
+            alt: 1011
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 3027
+            time: 2019-07-11T13:09:36Z
+            lat: 43.83025
+            lng: 16.45371667
+            alt: 687
+          - fix: 3028
+            time: 2019-07-11T13:09:37Z
+            lat: 43.8303
+            lng: 16.45363333
+            alt: 688
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 3038
+            time: 2019-07-11T13:09:47Z
+            lat: 43.8304
+            lng: 16.45383333
+            alt: 691
+          - fix: 3039
+            time: 2019-07-11T13:09:48Z
+            lat: 43.8303
+            lng: 16.4539
+            alt: 692
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 3056
+            time: 2019-07-11T13:10:05Z
+            lat: 43.83025
+            lng: 16.45363333
+            alt: 696
+          - fix: 3057
+            time: 2019-07-11T13:10:06Z
+            lat: 43.8303
+            lng: 16.45361667
+            alt: 697
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 3064
+            time: 2019-07-11T13:10:13Z
+            lat: 43.83035
+            lng: 16.45408333
+            alt: 694
+          - fix: 3065
+            time: 2019-07-11T13:10:14Z
+            lat: 43.83025
+            lng: 16.45416667
+            alt: 695
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 3110
+            time: 2019-07-11T13:10:59Z
+            lat: 43.83028333
+            lng: 16.4534
+            alt: 701
+          - fix: 3111
+            time: 2019-07-11T13:11:00Z
+            lat: 43.83033333
+            lng: 16.45331667
+            alt: 701
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 3802
+            time: 2019-07-11T13:22:31Z
+            lat: 43.83028333
+            lng: 16.45118333
+            alt: 1015
+          - fix: 3803
+            time: 2019-07-11T13:22:32Z
+            lat: 43.83023333
+            lng: 16.4513
+            alt: 1016
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 3806
+            time: 2019-07-11T13:22:35Z
+            lat: 43.83025
+            lng: 16.45163333
+            alt: 1016
+          - fix: 3807
+            time: 2019-07-11T13:22:36Z
+            lat: 43.83028333
+            lng: 16.45173333
+            alt: 1018
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 3835
+            time: 2019-07-11T13:23:04Z
+            lat: 43.83033333
+            lng: 16.45035
+            alt: 1050
+          - fix: 3836
+            time: 2019-07-11T13:23:05Z
+            lat: 43.83025
+            lng: 16.45043333
+            alt: 1050
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 3849
+            time: 2019-07-11T13:23:18Z
+            lat: 43.83025
+            lng: 16.45163333
+            alt: 1054
+          - fix: 3850
+            time: 2019-07-11T13:23:19Z
+            lat: 43.83033333
+            lng: 16.45165
+            alt: 1055
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 3871
+            time: 2019-07-11T13:23:40Z
+            lat: 43.83031667
+            lng: 16.45028333
+            alt: 1077
+          - fix: 3872
+            time: 2019-07-11T13:23:41Z
+            lat: 43.83025
+            lng: 16.45033333
+            alt: 1077
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 4802
+            time: 2019-07-11T13:39:11Z
+            lat: 43.81701667
+            lng: 16.5319
+            alt: 1056
+          - fix: 4803
+            time: 2019-07-11T13:39:12Z
+            lat: 43.81701667
+            lng: 16.53208333
+            alt: 1054
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 4823
+            time: 2019-07-11T13:39:32Z
+            lat: 43.81525
+            lng: 16.53306667
+            alt: 1023
+          - fix: 4824
+            time: 2019-07-11T13:39:33Z
+            lat: 43.81515
+            lng: 16.53301667
+            alt: 1022
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 1095
+            time: 2019-07-11T12:37:24Z
+            lat: 43.8036
+            lng: 16.48996667
+            alt: 1013
+          - fix: 1096
+            time: 2019-07-11T12:37:25Z
+            lat: 43.80365
+            lng: 16.48988333
+            alt: 1011
+          inZone:
+          - true
+          - false
+      - []
+      - []
+      zonesCrossExcluded: []
+  - - - '18'
+      - Petros Miskos
+    - null
+  - - - '19'
+      - Rafal Cypcar
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 680
+          time: 2019-07-11T12:44:16Z
+          lat: 43.80008333
+          lng: 16.48125
+          alt: 1295
+        - fix: 681
+          time: 2019-07-11T12:44:17Z
+          lat: 43.80016667
+          lng: 16.4812
+          alt: 1294
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 1299
+          time: 2019-07-11T12:54:35Z
+          lat: 43.8303
+          lng: 16.45451667
+          alt: 1129
+        - fix: 1300
+          time: 2019-07-11T12:54:36Z
+          lat: 43.8304
+          lng: 16.45443333
+          alt: 1129
+        inZone:
+        - false
+        - true
+      - null
+      - null
+      - null
+      - null
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 195
+            time: 2019-07-11T12:36:11Z
+            lat: 43.78865
+            lng: 16.50036667
+            alt: 1199
+          - fix: 196
+            time: 2019-07-11T12:36:12Z
+            lat: 43.78866667
+            lng: 16.50045
+            alt: 1199
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 199
+            time: 2019-07-11T12:36:15Z
+            lat: 43.78875
+            lng: 16.50056667
+            alt: 1199
+          - fix: 200
+            time: 2019-07-11T12:36:16Z
+            lat: 43.78878333
+            lng: 16.50055
+            alt: 1199
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 680
+            time: 2019-07-11T12:44:16Z
+            lat: 43.80008333
+            lng: 16.48125
+            alt: 1295
+          - fix: 681
+            time: 2019-07-11T12:44:17Z
+            lat: 43.80016667
+            lng: 16.4812
+            alt: 1294
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 1299
+            time: 2019-07-11T12:54:35Z
+            lat: 43.8303
+            lng: 16.45451667
+            alt: 1129
+          - fix: 1300
+            time: 2019-07-11T12:54:36Z
+            lat: 43.8304
+            lng: 16.45443333
+            alt: 1129
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1333
+            time: 2019-07-11T12:55:09Z
+            lat: 43.83046667
+            lng: 16.45585
+            alt: 1108
+          - fix: 1334
+            time: 2019-07-11T12:55:10Z
+            lat: 43.8304
+            lng: 16.45591667
+            alt: 1107
+          inZone:
+          - true
+          - false
+      - []
+      - - crossingPair:
+          - fix: 195
+            time: 2019-07-11T12:36:11Z
+            lat: 43.78865
+            lng: 16.50036667
+            alt: 1199
+          - fix: 196
+            time: 2019-07-11T12:36:12Z
+            lat: 43.78866667
+            lng: 16.50045
+            alt: 1199
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 199
+            time: 2019-07-11T12:36:15Z
+            lat: 43.78875
+            lng: 16.50056667
+            alt: 1199
+          - fix: 200
+            time: 2019-07-11T12:36:16Z
+            lat: 43.78878333
+            lng: 16.50055
+            alt: 1199
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 680
+            time: 2019-07-11T12:44:16Z
+            lat: 43.80008333
+            lng: 16.48125
+            alt: 1295
+          - fix: 681
+            time: 2019-07-11T12:44:17Z
+            lat: 43.80016667
+            lng: 16.4812
+            alt: 1294
+          inZone:
+          - true
+          - false
+      - []
+      - []
+      zonesCrossExcluded: []
+  - - - '22'
+      - Sandi Krč
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 415
+          time: 2019-07-11T12:34:10Z
+          lat: 43.8036
+          lng: 16.49008333
+          alt: 1052
+        - fix: 416
+          time: 2019-07-11T12:34:11Z
+          lat: 43.80366667
+          lng: 16.49006667
+          alt: 1050
+        inZone:
+        - true
+        - false
+      - null
+      - null
+      - null
+      - null
+      - null
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 415
+            time: 2019-07-11T12:34:10Z
+            lat: 43.8036
+            lng: 16.49008333
+            alt: 1052
+          - fix: 416
+            time: 2019-07-11T12:34:11Z
+            lat: 43.80366667
+            lng: 16.49006667
+            alt: 1050
+          inZone:
+          - true
+          - false
+      - []
+      - []
+      - - crossingPair:
+          - fix: 415
+            time: 2019-07-11T12:34:10Z
+            lat: 43.8036
+            lng: 16.49008333
+            alt: 1052
+          - fix: 416
+            time: 2019-07-11T12:34:11Z
+            lat: 43.80366667
+            lng: 16.49006667
+            alt: 1050
+          inZone:
+          - true
+          - false
+      - []
+      - []
+      zonesCrossExcluded: []
+  - - - '24'
+      - Slava Jelić
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 878
+          time: 2019-07-11T12:57:53Z
+          lat: 43.79178333
+          lng: 16.50295
+          alt: 1068
+        - fix: 879
+          time: 2019-07-11T12:57:54Z
+          lat: 43.79176667
+          lng: 16.50308333
+          alt: 1068
+        inZone:
+        - true
+        - false
+      - null
+      - null
+      - null
+      - null
+      - null
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 113
+            time: 2019-07-11T12:45:08Z
+            lat: 43.79011667
+            lng: 16.50186667
+            alt: 1096
+          - fix: 114
+            time: 2019-07-11T12:45:09Z
+            lat: 43.79015
+            lng: 16.50196667
+            alt: 1095
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 117
+            time: 2019-07-11T12:45:12Z
+            lat: 43.79031667
+            lng: 16.50205
+            alt: 1098
+          - fix: 118
+            time: 2019-07-11T12:45:13Z
+            lat: 43.79036667
+            lng: 16.50203333
+            alt: 1100
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 216
+            time: 2019-07-11T12:46:51Z
+            lat: 43.7901
+            lng: 16.5018
+            alt: 1104
+          - fix: 217
+            time: 2019-07-11T12:46:52Z
+            lat: 43.78998333
+            lng: 16.50186667
+            alt: 1105
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 254
+            time: 2019-07-11T12:47:29Z
+            lat: 43.78973333
+            lng: 16.5016
+            alt: 1114
+          - fix: 255
+            time: 2019-07-11T12:47:30Z
+            lat: 43.78975
+            lng: 16.50156667
+            alt: 1115
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 333
+            time: 2019-07-11T12:48:48Z
+            lat: 43.79001667
+            lng: 16.50163333
+            alt: 1108
+          - fix: 334
+            time: 2019-07-11T12:48:49Z
+            lat: 43.78996667
+            lng: 16.50176667
+            alt: 1107
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 343
+            time: 2019-07-11T12:48:58Z
+            lat: 43.7902
+            lng: 16.502
+            alt: 1097
+          - fix: 344
+            time: 2019-07-11T12:48:59Z
+            lat: 43.79023333
+            lng: 16.50193333
+            alt: 1096
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 570
+            time: 2019-07-11T12:52:45Z
+            lat: 43.79155
+            lng: 16.5027
+            alt: 1067
+          - fix: 571
+            time: 2019-07-11T12:52:46Z
+            lat: 43.7915
+            lng: 16.50283333
+            alt: 1066
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 590
+            time: 2019-07-11T12:53:05Z
+            lat: 43.79195
+            lng: 16.50308333
+            alt: 1067
+          - fix: 591
+            time: 2019-07-11T12:53:06Z
+            lat: 43.79195
+            lng: 16.503
+            alt: 1067
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 702
+            time: 2019-07-11T12:54:57Z
+            lat: 43.78993333
+            lng: 16.50171667
+            alt: 1108
+          - fix: 703
+            time: 2019-07-11T12:54:58Z
+            lat: 43.78981667
+            lng: 16.5017
+            alt: 1110
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 725
+            time: 2019-07-11T12:55:20Z
+            lat: 43.78995
+            lng: 16.50178333
+            alt: 1103
+          - fix: 726
+            time: 2019-07-11T12:55:21Z
+            lat: 43.78995
+            lng: 16.50171667
+            alt: 1105
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 809
+            time: 2019-07-11T12:56:44Z
+            lat: 43.79043333
+            lng: 16.50205
+            alt: 1094
+          - fix: 810
+            time: 2019-07-11T12:56:45Z
+            lat: 43.79035
+            lng: 16.50218333
+            alt: 1092
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 835
+            time: 2019-07-11T12:57:10Z
+            lat: 43.79083333
+            lng: 16.50248333
+            alt: 1076
+          - fix: 836
+            time: 2019-07-11T12:57:11Z
+            lat: 43.79086667
+            lng: 16.50241667
+            alt: 1077
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 878
+            time: 2019-07-11T12:57:53Z
+            lat: 43.79178333
+            lng: 16.50295
+            alt: 1068
+          - fix: 879
+            time: 2019-07-11T12:57:54Z
+            lat: 43.79176667
+            lng: 16.50308333
+            alt: 1068
+          inZone:
+          - true
+          - false
+      - []
+      - []
+      - - crossingPair:
+          - fix: 113
+            time: 2019-07-11T12:45:08Z
+            lat: 43.79011667
+            lng: 16.50186667
+            alt: 1096
+          - fix: 114
+            time: 2019-07-11T12:45:09Z
+            lat: 43.79015
+            lng: 16.50196667
+            alt: 1095
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 117
+            time: 2019-07-11T12:45:12Z
+            lat: 43.79031667
+            lng: 16.50205
+            alt: 1098
+          - fix: 118
+            time: 2019-07-11T12:45:13Z
+            lat: 43.79036667
+            lng: 16.50203333
+            alt: 1100
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 216
+            time: 2019-07-11T12:46:51Z
+            lat: 43.7901
+            lng: 16.5018
+            alt: 1104
+          - fix: 217
+            time: 2019-07-11T12:46:52Z
+            lat: 43.78998333
+            lng: 16.50186667
+            alt: 1105
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 254
+            time: 2019-07-11T12:47:29Z
+            lat: 43.78973333
+            lng: 16.5016
+            alt: 1114
+          - fix: 255
+            time: 2019-07-11T12:47:30Z
+            lat: 43.78975
+            lng: 16.50156667
+            alt: 1115
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 333
+            time: 2019-07-11T12:48:48Z
+            lat: 43.79001667
+            lng: 16.50163333
+            alt: 1108
+          - fix: 334
+            time: 2019-07-11T12:48:49Z
+            lat: 43.78996667
+            lng: 16.50176667
+            alt: 1107
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 343
+            time: 2019-07-11T12:48:58Z
+            lat: 43.7902
+            lng: 16.502
+            alt: 1097
+          - fix: 344
+            time: 2019-07-11T12:48:59Z
+            lat: 43.79023333
+            lng: 16.50193333
+            alt: 1096
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 570
+            time: 2019-07-11T12:52:45Z
+            lat: 43.79155
+            lng: 16.5027
+            alt: 1067
+          - fix: 571
+            time: 2019-07-11T12:52:46Z
+            lat: 43.7915
+            lng: 16.50283333
+            alt: 1066
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 590
+            time: 2019-07-11T12:53:05Z
+            lat: 43.79195
+            lng: 16.50308333
+            alt: 1067
+          - fix: 591
+            time: 2019-07-11T12:53:06Z
+            lat: 43.79195
+            lng: 16.503
+            alt: 1067
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 702
+            time: 2019-07-11T12:54:57Z
+            lat: 43.78993333
+            lng: 16.50171667
+            alt: 1108
+          - fix: 703
+            time: 2019-07-11T12:54:58Z
+            lat: 43.78981667
+            lng: 16.5017
+            alt: 1110
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 725
+            time: 2019-07-11T12:55:20Z
+            lat: 43.78995
+            lng: 16.50178333
+            alt: 1103
+          - fix: 726
+            time: 2019-07-11T12:55:21Z
+            lat: 43.78995
+            lng: 16.50171667
+            alt: 1105
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 809
+            time: 2019-07-11T12:56:44Z
+            lat: 43.79043333
+            lng: 16.50205
+            alt: 1094
+          - fix: 810
+            time: 2019-07-11T12:56:45Z
+            lat: 43.79035
+            lng: 16.50218333
+            alt: 1092
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 835
+            time: 2019-07-11T12:57:10Z
+            lat: 43.79083333
+            lng: 16.50248333
+            alt: 1076
+          - fix: 836
+            time: 2019-07-11T12:57:11Z
+            lat: 43.79086667
+            lng: 16.50241667
+            alt: 1077
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 878
+            time: 2019-07-11T12:57:53Z
+            lat: 43.79178333
+            lng: 16.50295
+            alt: 1068
+          - fix: 879
+            time: 2019-07-11T12:57:54Z
+            lat: 43.79176667
+            lng: 16.50308333
+            alt: 1068
+          inZone:
+          - true
+          - false
+      - []
+      - []
+      zonesCrossExcluded: []
+  - - - '26'
+      - Stjepan Zjacic
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 84
+          time: 2019-07-11T13:36:58Z
+          lat: 43.78956667
+          lng: 16.50128333
+          alt: 1093
+        - fix: 85
+          time: 2019-07-11T13:36:59Z
+          lat: 43.7895
+          lng: 16.50141667
+          alt: 1092
+        inZone:
+        - true
+        - false
+      - null
+      - null
+      - null
+      - null
+      - null
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 84
+            time: 2019-07-11T13:36:58Z
+            lat: 43.78956667
+            lng: 16.50128333
+            alt: 1093
+          - fix: 85
+            time: 2019-07-11T13:36:59Z
+            lat: 43.7895
+            lng: 16.50141667
+            alt: 1092
+          inZone:
+          - true
+          - false
+      - []
+      - []
+      - - crossingPair:
+          - fix: 84
+            time: 2019-07-11T13:36:58Z
+            lat: 43.78956667
+            lng: 16.50128333
+            alt: 1093
+          - fix: 85
+            time: 2019-07-11T13:36:59Z
+            lat: 43.7895
+            lng: 16.50141667
+            alt: 1092
+          inZone:
+          - true
+          - false
+      - []
+      - []
+      zonesCrossExcluded: []
+- - - - '35'
+      - Giselle Giampietri
+    - null
+  - - - '10'
+      - Igor Eržen
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 1091
+          time: 2019-07-12T12:20:31Z
+          lat: 43.82131667
+          lng: 16.64663333
+          alt: 0
+        - fix: 1092
+          time: 2019-07-12T12:20:32Z
+          lat: 43.82125
+          lng: 16.64661667
+          alt: 0
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 1547
+          time: 2019-07-12T12:28:07Z
+          lat: 43.8127
+          lng: 16.66431667
+          alt: 0
+        - fix: 1548
+          time: 2019-07-12T12:28:08Z
+          lat: 43.81263333
+          lng: 16.66438333
+          alt: 0
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 2521
+          time: 2019-07-12T12:44:21Z
+          lat: 43.82986667
+          lng: 16.61891667
+          alt: 0
+        - fix: 2522
+          time: 2019-07-12T12:44:22Z
+          lat: 43.82976667
+          lng: 16.61883333
+          alt: 0
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 3041
+          time: 2019-07-12T12:53:01Z
+          lat: 43.82298333
+          lng: 16.6404
+          alt: 0
+        - fix: 3042
+          time: 2019-07-12T12:53:02Z
+          lat: 43.8229
+          lng: 16.64038333
+          alt: 0
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 4752
+          time: 2019-07-12T13:21:32Z
+          lat: 43.77075
+          lng: 16.68193333
+          alt: 0
+        - fix: 4753
+          time: 2019-07-12T13:21:33Z
+          lat: 43.77068333
+          lng: 16.68188333
+          alt: 0
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 5313
+          time: 2019-07-12T13:30:53Z
+          lat: 43.76118333
+          lng: 16.63108333
+          alt: 0
+        - fix: 5314
+          time: 2019-07-12T13:30:54Z
+          lat: 43.76115
+          lng: 16.63095
+          alt: 0
+        inZone:
+        - false
+        - true
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 1091
+            time: 2019-07-12T12:20:31Z
+            lat: 43.82131667
+            lng: 16.64663333
+            alt: 0
+          - fix: 1092
+            time: 2019-07-12T12:20:32Z
+            lat: 43.82125
+            lng: 16.64661667
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1787
+            time: 2019-07-12T12:32:07Z
+            lat: 43.82296667
+            lng: 16.65071667
+            alt: 0
+          - fix: 1788
+            time: 2019-07-12T12:32:08Z
+            lat: 43.82301667
+            lng: 16.6506
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 2333
+            time: 2019-07-12T12:41:13Z
+            lat: 43.83435
+            lng: 16.63181667
+            alt: 0
+          - fix: 2334
+            time: 2019-07-12T12:41:14Z
+            lat: 43.83438333
+            lng: 16.63175
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 2344
+            time: 2019-07-12T12:41:24Z
+            lat: 43.83433333
+            lng: 16.63161667
+            alt: 0
+          - fix: 2345
+            time: 2019-07-12T12:41:25Z
+            lat: 43.83433333
+            lng: 16.63176667
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 2349
+            time: 2019-07-12T12:41:29Z
+            lat: 43.83465
+            lng: 16.63238333
+            alt: 0
+          - fix: 2350
+            time: 2019-07-12T12:41:30Z
+            lat: 43.83481667
+            lng: 16.63205
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 2769
+            time: 2019-07-12T12:48:29Z
+            lat: 43.83588333
+            lng: 16.63325
+            alt: 0
+          - fix: 2770
+            time: 2019-07-12T12:48:30Z
+            lat: 43.83585
+            lng: 16.63333333
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 3142
+            time: 2019-07-12T12:54:42Z
+            lat: 43.8227
+            lng: 16.6501
+            alt: 0
+          - fix: 3143
+            time: 2019-07-12T12:54:43Z
+            lat: 43.82268333
+            lng: 16.6502
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 3187
+            time: 2019-07-12T12:55:27Z
+            lat: 43.82338333
+            lng: 16.65133333
+            alt: 0
+          - fix: 3188
+            time: 2019-07-12T12:55:28Z
+            lat: 43.82348333
+            lng: 16.65138333
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 3192
+            time: 2019-07-12T12:55:32Z
+            lat: 43.8238
+            lng: 16.65176667
+            alt: 0
+          - fix: 3193
+            time: 2019-07-12T12:55:33Z
+            lat: 43.82381667
+            lng: 16.65188333
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 3211
+            time: 2019-07-12T12:55:51Z
+            lat: 43.82368333
+            lng: 16.6518
+            alt: 0
+          - fix: 3212
+            time: 2019-07-12T12:55:52Z
+            lat: 43.82381667
+            lng: 16.65176667
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 3217
+            time: 2019-07-12T12:55:57Z
+            lat: 43.82421667
+            lng: 16.65226667
+            alt: 0
+          - fix: 3218
+            time: 2019-07-12T12:55:58Z
+            lat: 43.82425
+            lng: 16.65238333
+            alt: 0
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 1547
+            time: 2019-07-12T12:28:07Z
+            lat: 43.8127
+            lng: 16.66431667
+            alt: 0
+          - fix: 1548
+            time: 2019-07-12T12:28:08Z
+            lat: 43.81263333
+            lng: 16.66438333
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1557
+            time: 2019-07-12T12:28:17Z
+            lat: 43.81226667
+            lng: 16.66423333
+            alt: 0
+          - fix: 1558
+            time: 2019-07-12T12:28:18Z
+            lat: 43.81231667
+            lng: 16.66413333
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 3733
+            time: 2019-07-12T13:04:33Z
+            lat: 43.8134
+            lng: 16.66456667
+            alt: 0
+          - fix: 3734
+            time: 2019-07-12T13:04:34Z
+            lat: 43.8133
+            lng: 16.66456667
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 4217
+            time: 2019-07-12T13:12:37Z
+            lat: 43.80178333
+            lng: 16.67418333
+            alt: 0
+          - fix: 4218
+            time: 2019-07-12T13:12:38Z
+            lat: 43.80168333
+            lng: 16.67418333
+            alt: 0
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 2521
+            time: 2019-07-12T12:44:21Z
+            lat: 43.82986667
+            lng: 16.61891667
+            alt: 0
+          - fix: 2522
+            time: 2019-07-12T12:44:22Z
+            lat: 43.82976667
+            lng: 16.61883333
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 2549
+            time: 2019-07-12T12:44:49Z
+            lat: 43.82993333
+            lng: 16.61811667
+            alt: 0
+          - fix: 2550
+            time: 2019-07-12T12:44:50Z
+            lat: 43.83003333
+            lng: 16.61818333
+            alt: 0
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 3041
+            time: 2019-07-12T12:53:01Z
+            lat: 43.82298333
+            lng: 16.6404
+            alt: 0
+          - fix: 3042
+            time: 2019-07-12T12:53:02Z
+            lat: 43.8229
+            lng: 16.64038333
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 3053
+            time: 2019-07-12T12:53:13Z
+            lat: 43.82275
+            lng: 16.64133333
+            alt: 0
+          - fix: 3054
+            time: 2019-07-12T12:53:14Z
+            lat: 43.82283333
+            lng: 16.64146667
+            alt: 0
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 4752
+            time: 2019-07-12T13:21:32Z
+            lat: 43.77075
+            lng: 16.68193333
+            alt: 0
+          - fix: 4753
+            time: 2019-07-12T13:21:33Z
+            lat: 43.77068333
+            lng: 16.68188333
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 4792
+            time: 2019-07-12T13:22:12Z
+            lat: 43.76966667
+            lng: 16.6782
+            alt: 0
+          - fix: 4793
+            time: 2019-07-12T13:22:13Z
+            lat: 43.76966667
+            lng: 16.6781
+            alt: 0
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 5313
+            time: 2019-07-12T13:30:53Z
+            lat: 43.76118333
+            lng: 16.63108333
+            alt: 0
+          - fix: 5314
+            time: 2019-07-12T13:30:54Z
+            lat: 43.76115
+            lng: 16.63095
+            alt: 0
+          inZone:
+          - false
+          - true
+      zonesCrossExcluded: []
+  - - - '11'
+      - Jerko Odžak
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 161
+          time: 2019-07-12T12:57:22Z
+          lat: 43.8223
+          lng: 16.6493
+          alt: 0
+        - fix: 162
+          time: 2019-07-12T12:57:27Z
+          lat: 43.82213333
+          lng: 16.64971667
+          alt: 0
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 254
+          time: 2019-07-12T13:04:36Z
+          lat: 43.81046667
+          lng: 16.66376667
+          alt: 0
+        - fix: 255
+          time: 2019-07-12T13:04:40Z
+          lat: 43.81021667
+          lng: 16.66403333
+          alt: 0
+        inZone:
+        - false
+        - true
+      - null
+      - null
+      - null
+      - null
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 79
+            time: 2019-07-12T12:51:05Z
+            lat: 43.82268333
+            lng: 16.64966667
+            alt: 0
+          - fix: 80
+            time: 2019-07-12T12:51:10Z
+            lat: 43.82246667
+            lng: 16.65
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 81
+            time: 2019-07-12T12:51:14Z
+            lat: 43.82221667
+            lng: 16.65
+            alt: 0
+          - fix: 82
+            time: 2019-07-12T12:51:19Z
+            lat: 43.82238333
+            lng: 16.6494
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 94
+            time: 2019-07-12T12:52:14Z
+            lat: 43.82248333
+            lng: 16.6496
+            alt: 0
+          - fix: 95
+            time: 2019-07-12T12:52:19Z
+            lat: 43.82241667
+            lng: 16.6501
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 96
+            time: 2019-07-12T12:52:23Z
+            lat: 43.82225
+            lng: 16.6499
+            alt: 0
+          - fix: 97
+            time: 2019-07-12T12:52:28Z
+            lat: 43.82241667
+            lng: 16.64936667
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 135
+            time: 2019-07-12T12:55:22Z
+            lat: 43.82243333
+            lng: 16.64965
+            alt: 0
+          - fix: 136
+            time: 2019-07-12T12:55:27Z
+            lat: 43.82225
+            lng: 16.65011667
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 138
+            time: 2019-07-12T12:55:35Z
+            lat: 43.82205
+            lng: 16.64981667
+            alt: 0
+          - fix: 139
+            time: 2019-07-12T12:55:40Z
+            lat: 43.82238333
+            lng: 16.6492
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 140
+            time: 2019-07-12T12:55:44Z
+            lat: 43.82216667
+            lng: 16.64893333
+            alt: 0
+          - fix: 141
+            time: 2019-07-12T12:55:49Z
+            lat: 43.82213333
+            lng: 16.64943333
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 143
+            time: 2019-07-12T12:55:59Z
+            lat: 43.82196667
+            lng: 16.64951667
+            alt: 0
+          - fix: 144
+            time: 2019-07-12T12:56:04Z
+            lat: 43.82248333
+            lng: 16.64903333
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 161
+            time: 2019-07-12T12:57:22Z
+            lat: 43.8223
+            lng: 16.6493
+            alt: 0
+          - fix: 162
+            time: 2019-07-12T12:57:27Z
+            lat: 43.82213333
+            lng: 16.64971667
+            alt: 0
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 254
+            time: 2019-07-12T13:04:36Z
+            lat: 43.81046667
+            lng: 16.66376667
+            alt: 0
+          - fix: 255
+            time: 2019-07-12T13:04:40Z
+            lat: 43.81021667
+            lng: 16.66403333
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 266
+            time: 2019-07-12T13:05:32Z
+            lat: 43.80896667
+            lng: 16.66448333
+            alt: 0
+          - fix: 267
+            time: 2019-07-12T13:05:37Z
+            lat: 43.80925
+            lng: 16.664
+            alt: 0
+          inZone:
+          - true
+          - false
+      - []
+      - []
+      - []
+      - []
+      zonesCrossExcluded: []
+  - - - '32'
+      - Laura Grakalich
+    - null
+  - - - '15'
+      - Mitja Jug
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 814
+          time: 2019-07-12T12:20:37Z
+          lat: 43.82133333
+          lng: 16.64661667
+          alt: 835
+        - fix: 815
+          time: 2019-07-12T12:20:38Z
+          lat: 43.82125
+          lng: 16.64665
+          alt: 835
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 1218
+          time: 2019-07-12T12:27:21Z
+          lat: 43.8117
+          lng: 16.66405
+          alt: 828
+        - fix: 1219
+          time: 2019-07-12T12:27:22Z
+          lat: 43.81165
+          lng: 16.66415
+          alt: 828
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 2170
+          time: 2019-07-12T12:43:13Z
+          lat: 43.82753333
+          lng: 16.62396667
+          alt: 1063
+        - fix: 2171
+          time: 2019-07-12T12:43:14Z
+          lat: 43.82748333
+          lng: 16.6239
+          alt: 1061
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 2851
+          time: 2019-07-12T12:54:34Z
+          lat: 43.82073333
+          lng: 16.6447
+          alt: 1357
+        - fix: 2852
+          time: 2019-07-12T12:54:35Z
+          lat: 43.82066667
+          lng: 16.6446
+          alt: 1355
+        inZone:
+        - false
+        - true
+      - null
+      - null
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 814
+            time: 2019-07-12T12:20:37Z
+            lat: 43.82133333
+            lng: 16.64661667
+            alt: 835
+          - fix: 815
+            time: 2019-07-12T12:20:38Z
+            lat: 43.82125
+            lng: 16.64665
+            alt: 835
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1448
+            time: 2019-07-12T12:31:11Z
+            lat: 43.82241667
+            lng: 16.64986667
+            alt: 810
+          - fix: 1449
+            time: 2019-07-12T12:31:12Z
+            lat: 43.82246667
+            lng: 16.64975
+            alt: 810
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1460
+            time: 2019-07-12T12:31:23Z
+            lat: 43.82233333
+            lng: 16.64933333
+            alt: 814
+          - fix: 1461
+            time: 2019-07-12T12:31:24Z
+            lat: 43.82228333
+            lng: 16.64941667
+            alt: 815
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1464
+            time: 2019-07-12T12:31:27Z
+            lat: 43.8224
+            lng: 16.64976667
+            alt: 813
+          - fix: 1465
+            time: 2019-07-12T12:31:28Z
+            lat: 43.82251667
+            lng: 16.64978333
+            alt: 812
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 2105
+            time: 2019-07-12T12:42:08Z
+            lat: 43.82898333
+            lng: 16.63001667
+            alt: 1092
+          - fix: 2106
+            time: 2019-07-12T12:42:09Z
+            lat: 43.82896667
+            lng: 16.62991667
+            alt: 1091
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 2223
+            time: 2019-07-12T12:44:06Z
+            lat: 43.82643333
+            lng: 16.63076667
+            alt: 1013
+          - fix: 2224
+            time: 2019-07-12T12:44:07Z
+            lat: 43.82641667
+            lng: 16.6309
+            alt: 1011
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 2847
+            time: 2019-07-12T12:54:30Z
+            lat: 43.82096667
+            lng: 16.6451
+            alt: 1364
+          - fix: 2848
+            time: 2019-07-12T12:54:31Z
+            lat: 43.82091667
+            lng: 16.645
+            alt: 1362
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 2859
+            time: 2019-07-12T12:54:42Z
+            lat: 43.82078333
+            lng: 16.64435
+            alt: 1342
+          - fix: 2860
+            time: 2019-07-12T12:54:43Z
+            lat: 43.82088333
+            lng: 16.64446667
+            alt: 1340
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 2866
+            time: 2019-07-12T12:54:49Z
+            lat: 43.82106667
+            lng: 16.64556667
+            alt: 1330
+          - fix: 2867
+            time: 2019-07-12T12:54:50Z
+            lat: 43.82106667
+            lng: 16.64578333
+            alt: 1329
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 3590
+            time: 2019-07-12T13:06:53Z
+            lat: 43.82351667
+            lng: 16.65158333
+            alt: 917
+          - fix: 3591
+            time: 2019-07-12T13:06:54Z
+            lat: 43.82358333
+            lng: 16.65148333
+            alt: 919
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 3599
+            time: 2019-07-12T13:07:02Z
+            lat: 43.8234
+            lng: 16.65123333
+            alt: 929
+          - fix: 3600
+            time: 2019-07-12T13:07:03Z
+            lat: 43.82338333
+            lng: 16.65133333
+            alt: 930
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 3604
+            time: 2019-07-12T13:07:07Z
+            lat: 43.82366667
+            lng: 16.65168333
+            alt: 932
+          - fix: 3605
+            time: 2019-07-12T13:07:08Z
+            lat: 43.82378333
+            lng: 16.65166667
+            alt: 933
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 3885
+            time: 2019-07-12T13:11:48Z
+            lat: 43.82603333
+            lng: 16.65378333
+            alt: 1020
+          - fix: 3886
+            time: 2019-07-12T13:11:49Z
+            lat: 43.82598333
+            lng: 16.65385
+            alt: 1021
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 1218
+            time: 2019-07-12T12:27:21Z
+            lat: 43.8117
+            lng: 16.66405
+            alt: 828
+          - fix: 1219
+            time: 2019-07-12T12:27:22Z
+            lat: 43.81165
+            lng: 16.66415
+            alt: 828
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1226
+            time: 2019-07-12T12:27:29Z
+            lat: 43.81135
+            lng: 16.66408333
+            alt: 816
+          - fix: 1227
+            time: 2019-07-12T12:27:30Z
+            lat: 43.81138333
+            lng: 16.66395
+            alt: 816
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 2170
+            time: 2019-07-12T12:43:13Z
+            lat: 43.82753333
+            lng: 16.62396667
+            alt: 1063
+          - fix: 2171
+            time: 2019-07-12T12:43:14Z
+            lat: 43.82748333
+            lng: 16.6239
+            alt: 1061
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 2177
+            time: 2019-07-12T12:43:20Z
+            lat: 43.82723333
+            lng: 16.62421667
+            alt: 1051
+          - fix: 2178
+            time: 2019-07-12T12:43:21Z
+            lat: 43.82721667
+            lng: 16.62436667
+            alt: 1051
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 2851
+            time: 2019-07-12T12:54:34Z
+            lat: 43.82073333
+            lng: 16.6447
+            alt: 1357
+          - fix: 2852
+            time: 2019-07-12T12:54:35Z
+            lat: 43.82066667
+            lng: 16.6446
+            alt: 1355
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 2860
+            time: 2019-07-12T12:54:43Z
+            lat: 43.82088333
+            lng: 16.64446667
+            alt: 1340
+          - fix: 2861
+            time: 2019-07-12T12:54:44Z
+            lat: 43.82096667
+            lng: 16.64461667
+            alt: 1339
+          inZone:
+          - true
+          - false
+      - []
+      - []
+      zonesCrossExcluded: []
+  - - - '18'
+      - Petros Miskos
+    - null
+  - - - '19'
+      - Rafal Cypcar
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 555
+          time: 2019-07-12T12:20:57Z
+          lat: 43.82335
+          lng: 16.65108333
+          alt: 980
+        - fix: 556
+          time: 2019-07-12T12:20:58Z
+          lat: 43.82326667
+          lng: 16.65111667
+          alt: 979
+        inZone:
+        - true
+        - false
+      - crossingPair:
+        - fix: 908
+          time: 2019-07-12T12:26:50Z
+          lat: 43.81645
+          lng: 16.66688333
+          alt: 997
+        - fix: 909
+          time: 2019-07-12T12:26:51Z
+          lat: 43.8164
+          lng: 16.667
+          alt: 996
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 1900
+          time: 2019-07-12T12:43:22Z
+          lat: 43.82921667
+          lng: 16.62118333
+          alt: 1049
+        - fix: 1901
+          time: 2019-07-12T12:43:23Z
+          lat: 43.82911667
+          lng: 16.6212
+          alt: 1049
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 2025
+          time: 2019-07-12T12:45:27Z
+          lat: 43.82188333
+          lng: 16.63641667
+          alt: 957
+        - fix: 2026
+          time: 2019-07-12T12:45:28Z
+          lat: 43.82183333
+          lng: 16.63653333
+          alt: 957
+        inZone:
+        - false
+        - true
+      - crossingPair:
+        - fix: 3310
+          time: 2019-07-12T13:06:52Z
+          lat: 43.76573333
+          lng: 16.67705
+          alt: 652
+        - fix: 3311
+          time: 2019-07-12T13:06:53Z
+          lat: 43.76578333
+          lng: 16.67715
+          alt: 653
+        inZone:
+        - false
+        - true
+      - null
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 555
+            time: 2019-07-12T12:20:57Z
+            lat: 43.82335
+            lng: 16.65108333
+            alt: 980
+          - fix: 556
+            time: 2019-07-12T12:20:58Z
+            lat: 43.82326667
+            lng: 16.65111667
+            alt: 979
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1113
+            time: 2019-07-12T12:30:15Z
+            lat: 43.82238333
+            lng: 16.64978333
+            alt: 887
+          - fix: 1114
+            time: 2019-07-12T12:30:16Z
+            lat: 43.82248333
+            lng: 16.64968333
+            alt: 888
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1467
+            time: 2019-07-12T12:36:09Z
+            lat: 43.831
+            lng: 16.63016667
+            alt: 867
+          - fix: 1468
+            time: 2019-07-12T12:36:10Z
+            lat: 43.83095
+            lng: 16.63003333
+            alt: 866
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 2014
+            time: 2019-07-12T12:45:16Z
+            lat: 43.82243333
+            lng: 16.63511667
+            alt: 967
+          - fix: 2015
+            time: 2019-07-12T12:45:17Z
+            lat: 43.82238333
+            lng: 16.63523333
+            alt: 966
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 2030
+            time: 2019-07-12T12:45:32Z
+            lat: 43.82163333
+            lng: 16.637
+            alt: 951
+          - fix: 2031
+            time: 2019-07-12T12:45:33Z
+            lat: 43.82156667
+            lng: 16.63713333
+            alt: 950
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 2203
+            time: 2019-07-12T12:48:25Z
+            lat: 43.82078333
+            lng: 16.64406667
+            alt: 1104
+          - fix: 2204
+            time: 2019-07-12T12:48:26Z
+            lat: 43.82086667
+            lng: 16.64415
+            alt: 1107
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 2212
+            time: 2019-07-12T12:48:34Z
+            lat: 43.82095
+            lng: 16.64506667
+            alt: 1119
+          - fix: 2213
+            time: 2019-07-12T12:48:35Z
+            lat: 43.8209
+            lng: 16.64515
+            alt: 1119
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 2283
+            time: 2019-07-12T12:49:45Z
+            lat: 43.82125
+            lng: 16.6467
+            alt: 1138
+          - fix: 2284
+            time: 2019-07-12T12:49:46Z
+            lat: 43.82135
+            lng: 16.64665
+            alt: 1137
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 2530
+            time: 2019-07-12T12:53:52Z
+            lat: 43.82446667
+            lng: 16.6525
+            alt: 1456
+          - fix: 2531
+            time: 2019-07-12T12:53:53Z
+            lat: 43.82438333
+            lng: 16.65255
+            alt: 1455
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 908
+            time: 2019-07-12T12:26:50Z
+            lat: 43.81645
+            lng: 16.66688333
+            alt: 997
+          - fix: 909
+            time: 2019-07-12T12:26:51Z
+            lat: 43.8164
+            lng: 16.667
+            alt: 996
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 929
+            time: 2019-07-12T12:27:11Z
+            lat: 43.81616667
+            lng: 16.66686667
+            alt: 984
+          - fix: 930
+            time: 2019-07-12T12:27:12Z
+            lat: 43.81621667
+            lng: 16.66675
+            alt: 983
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 1900
+            time: 2019-07-12T12:43:22Z
+            lat: 43.82921667
+            lng: 16.62118333
+            alt: 1049
+          - fix: 1901
+            time: 2019-07-12T12:43:23Z
+            lat: 43.82911667
+            lng: 16.6212
+            alt: 1049
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1943
+            time: 2019-07-12T12:44:05Z
+            lat: 43.82591667
+            lng: 16.62533333
+            alt: 1026
+          - fix: 1944
+            time: 2019-07-12T12:44:06Z
+            lat: 43.82585
+            lng: 16.62543333
+            alt: 1024
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 2025
+            time: 2019-07-12T12:45:27Z
+            lat: 43.82188333
+            lng: 16.63641667
+            alt: 957
+          - fix: 2026
+            time: 2019-07-12T12:45:28Z
+            lat: 43.82183333
+            lng: 16.63653333
+            alt: 957
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 2206
+            time: 2019-07-12T12:48:28Z
+            lat: 43.82098333
+            lng: 16.64438333
+            alt: 1110
+          - fix: 2207
+            time: 2019-07-12T12:48:29Z
+            lat: 43.82101667
+            lng: 16.64451667
+            alt: 1112
+          inZone:
+          - true
+          - false
+      - - crossingPair:
+          - fix: 3310
+            time: 2019-07-12T13:06:52Z
+            lat: 43.76573333
+            lng: 16.67705
+            alt: 652
+          - fix: 3311
+            time: 2019-07-12T13:06:53Z
+            lat: 43.76578333
+            lng: 16.67715
+            alt: 653
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 3339
+            time: 2019-07-12T13:07:21Z
+            lat: 43.76601667
+            lng: 16.67696667
+            alt: 673
+          - fix: 3340
+            time: 2019-07-12T13:07:22Z
+            lat: 43.76606667
+            lng: 16.6769
+            alt: 673
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 3345
+            time: 2019-07-12T13:07:27Z
+            lat: 43.76651667
+            lng: 16.67673333
+            alt: 671
+          - fix: 3346
+            time: 2019-07-12T13:07:28Z
+            lat: 43.76658333
+            lng: 16.67681667
+            alt: 671
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 3357
+            time: 2019-07-12T13:07:39Z
+            lat: 43.76625
+            lng: 16.67691667
+            alt: 678
+          - fix: 3358
+            time: 2019-07-12T13:07:40Z
+            lat: 43.76623333
+            lng: 16.67681667
+            alt: 678
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 3366
+            time: 2019-07-12T13:07:48Z
+            lat: 43.76675
+            lng: 16.67668333
+            alt: 674
+          - fix: 3367
+            time: 2019-07-12T13:07:49Z
+            lat: 43.76675
+            lng: 16.6768
+            alt: 674
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 3383
+            time: 2019-07-12T13:08:05Z
+            lat: 43.76615
+            lng: 16.67693333
+            alt: 678
+          - fix: 3384
+            time: 2019-07-12T13:08:06Z
+            lat: 43.76613333
+            lng: 16.67686667
+            alt: 679
+          inZone:
+          - true
+          - false
+      - []
+      zonesCrossExcluded: []
+  - - - '22'
+      - Sandi Krč
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 644
+          time: 2019-07-12T12:24:41Z
+          lat: 43.82263333
+          lng: 16.64995
+          alt: 834
+        - fix: 645
+          time: 2019-07-12T12:24:42Z
+          lat: 43.82256667
+          lng: 16.64998333
+          alt: 833
+        inZone:
+        - true
+        - false
+      - null
+      - null
+      - null
+      - null
+      - null
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 360
+            time: 2019-07-12T12:19:57Z
+            lat: 43.82118333
+            lng: 16.64621667
+            alt: 747
+          - fix: 361
+            time: 2019-07-12T12:19:58Z
+            lat: 43.82113333
+            lng: 16.64626667
+            alt: 746
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 571
+            time: 2019-07-12T12:23:28Z
+            lat: 43.82215
+            lng: 16.64923333
+            alt: 826
+          - fix: 572
+            time: 2019-07-12T12:23:29Z
+            lat: 43.82225
+            lng: 16.6492
+            alt: 826
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 644
+            time: 2019-07-12T12:24:41Z
+            lat: 43.82263333
+            lng: 16.64995
+            alt: 834
+          - fix: 645
+            time: 2019-07-12T12:24:42Z
+            lat: 43.82256667
+            lng: 16.64998333
+            alt: 833
+          inZone:
+          - true
+          - false
+      - []
+      - []
+      - []
+      - []
+      - []
+      zonesCrossExcluded: []
+  - - - '24'
+      - Slava Jelić
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 283
+          time: 2019-07-12T13:48:49Z
+          lat: 43.82113333
+          lng: 16.63908333
+          alt: 0
+        - fix: 284
+          time: 2019-07-12T13:48:54Z
+          lat: 43.82088333
+          lng: 16.63988333
+          alt: 0
+        inZone:
+        - true
+        - false
+      - null
+      - null
+      - null
+      - null
+      - null
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 77
+            time: 2019-07-12T13:33:16Z
+            lat: 43.82256667
+            lng: 16.6493
+            alt: 0
+          - fix: 78
+            time: 2019-07-12T13:33:20Z
+            lat: 43.82226667
+            lng: 16.64951667
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 93
+            time: 2019-07-12T13:34:30Z
+            lat: 43.82143333
+            lng: 16.64785
+            alt: 0
+          - fix: 94
+            time: 2019-07-12T13:34:35Z
+            lat: 43.82163333
+            lng: 16.64726667
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 130
+            time: 2019-07-12T13:37:19Z
+            lat: 43.82363333
+            lng: 16.63335
+            alt: 0
+          - fix: 131
+            time: 2019-07-12T13:37:24Z
+            lat: 43.82336667
+            lng: 16.63331667
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 135
+            time: 2019-07-12T13:37:42Z
+            lat: 43.82246667
+            lng: 16.63456667
+            alt: 0
+          - fix: 136
+            time: 2019-07-12T13:37:47Z
+            lat: 43.82265
+            lng: 16.63523333
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 146
+            time: 2019-07-12T13:38:32Z
+            lat: 43.82265
+            lng: 16.63481667
+            alt: 0
+          - fix: 147
+            time: 2019-07-12T13:38:37Z
+            lat: 43.82238333
+            lng: 16.6348
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 151
+            time: 2019-07-12T13:38:55Z
+            lat: 43.82181667
+            lng: 16.63586667
+            alt: 0
+          - fix: 152
+            time: 2019-07-12T13:39:00Z
+            lat: 43.82223333
+            lng: 16.63641667
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 156
+            time: 2019-07-12T13:39:18Z
+            lat: 43.82213333
+            lng: 16.63618333
+            alt: 0
+          - fix: 157
+            time: 2019-07-12T13:39:23Z
+            lat: 43.82206667
+            lng: 16.63576667
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 161
+            time: 2019-07-12T13:39:40Z
+            lat: 43.82166667
+            lng: 16.63605
+            alt: 0
+          - fix: 162
+            time: 2019-07-12T13:39:44Z
+            lat: 43.82203333
+            lng: 16.6365
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 164
+            time: 2019-07-12T13:39:53Z
+            lat: 43.82165
+            lng: 16.63708333
+            alt: 0
+          - fix: 165
+            time: 2019-07-12T13:39:58Z
+            lat: 43.82151667
+            lng: 16.63676667
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 166
+            time: 2019-07-12T13:40:02Z
+            lat: 43.8217
+            lng: 16.63645
+            alt: 0
+          - fix: 167
+            time: 2019-07-12T13:40:07Z
+            lat: 43.82213333
+            lng: 16.63646667
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 244
+            time: 2019-07-12T13:45:54Z
+            lat: 43.82348333
+            lng: 16.63355
+            alt: 0
+          - fix: 245
+            time: 2019-07-12T13:45:59Z
+            lat: 43.82336667
+            lng: 16.63331667
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 275
+            time: 2019-07-12T13:48:13Z
+            lat: 43.82318333
+            lng: 16.63365
+            alt: 0
+          - fix: 276
+            time: 2019-07-12T13:48:18Z
+            lat: 43.82291667
+            lng: 16.63438333
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 283
+            time: 2019-07-12T13:48:49Z
+            lat: 43.82113333
+            lng: 16.63908333
+            alt: 0
+          - fix: 284
+            time: 2019-07-12T13:48:54Z
+            lat: 43.82088333
+            lng: 16.63988333
+            alt: 0
+          inZone:
+          - true
+          - false
+      - []
+      - []
+      - - crossingPair:
+          - fix: 153
+            time: 2019-07-12T13:39:04Z
+            lat: 43.82226667
+            lng: 16.63688333
+            alt: 0
+          - fix: 154
+            time: 2019-07-12T13:39:09Z
+            lat: 43.82201667
+            lng: 16.63696667
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 154
+            time: 2019-07-12T13:39:09Z
+            lat: 43.82201667
+            lng: 16.63696667
+            alt: 0
+          - fix: 155
+            time: 2019-07-12T13:39:14Z
+            lat: 43.82203333
+            lng: 16.6365
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 162
+            time: 2019-07-12T13:39:44Z
+            lat: 43.82203333
+            lng: 16.6365
+            alt: 0
+          - fix: 163
+            time: 2019-07-12T13:39:49Z
+            lat: 43.82185
+            lng: 16.63715
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 166
+            time: 2019-07-12T13:40:02Z
+            lat: 43.8217
+            lng: 16.63645
+            alt: 0
+          - fix: 167
+            time: 2019-07-12T13:40:07Z
+            lat: 43.82213333
+            lng: 16.63646667
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 168
+            time: 2019-07-12T13:40:11Z
+            lat: 43.82228333
+            lng: 16.6369
+            alt: 0
+          - fix: 169
+            time: 2019-07-12T13:40:16Z
+            lat: 43.8223
+            lng: 16.63753333
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 173
+            time: 2019-07-12T13:40:34Z
+            lat: 43.82188333
+            lng: 16.63675
+            alt: 0
+          - fix: 174
+            time: 2019-07-12T13:40:38Z
+            lat: 43.82221667
+            lng: 16.63648333
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 176
+            time: 2019-07-12T13:40:47Z
+            lat: 43.82271667
+            lng: 16.63725
+            alt: 0
+          - fix: 177
+            time: 2019-07-12T13:40:52Z
+            lat: 43.82245
+            lng: 16.63755
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 179
+            time: 2019-07-12T13:41:00Z
+            lat: 43.82218333
+            lng: 16.63716667
+            alt: 0
+          - fix: 180
+            time: 2019-07-12T13:41:05Z
+            lat: 43.82248333
+            lng: 16.6369
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 181
+            time: 2019-07-12T13:41:09Z
+            lat: 43.8227
+            lng: 16.63721667
+            alt: 0
+          - fix: 182
+            time: 2019-07-12T13:41:14Z
+            lat: 43.8225
+            lng: 16.63771667
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 184
+            time: 2019-07-12T13:41:24Z
+            lat: 43.82223333
+            lng: 16.63723333
+            alt: 0
+          - fix: 185
+            time: 2019-07-12T13:41:29Z
+            lat: 43.8226
+            lng: 16.63693333
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 187
+            time: 2019-07-12T13:41:38Z
+            lat: 43.8227
+            lng: 16.63768333
+            alt: 0
+          - fix: 188
+            time: 2019-07-12T13:41:42Z
+            lat: 43.82245
+            lng: 16.63773333
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 188
+            time: 2019-07-12T13:41:42Z
+            lat: 43.82245
+            lng: 16.63773333
+            alt: 0
+          - fix: 189
+            time: 2019-07-12T13:41:47Z
+            lat: 43.82245
+            lng: 16.63738333
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 192
+            time: 2019-07-12T13:42:01Z
+            lat: 43.82265
+            lng: 16.638
+            alt: 0
+          - fix: 193
+            time: 2019-07-12T13:42:06Z
+            lat: 43.82241667
+            lng: 16.63775
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 193
+            time: 2019-07-12T13:42:06Z
+            lat: 43.82241667
+            lng: 16.63775
+            alt: 0
+          - fix: 194
+            time: 2019-07-12T13:42:10Z
+            lat: 43.8226
+            lng: 16.63751667
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 197
+            time: 2019-07-12T13:42:23Z
+            lat: 43.82293333
+            lng: 16.63881667
+            alt: 0
+          - fix: 198
+            time: 2019-07-12T13:42:27Z
+            lat: 43.82273333
+            lng: 16.63918333
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 204
+            time: 2019-07-12T13:42:54Z
+            lat: 43.8227
+            lng: 16.6392
+            alt: 0
+          - fix: 205
+            time: 2019-07-12T13:42:58Z
+            lat: 43.823
+            lng: 16.6393
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 209
+            time: 2019-07-12T13:43:17Z
+            lat: 43.8229
+            lng: 16.64083333
+            alt: 0
+          - fix: 210
+            time: 2019-07-12T13:43:22Z
+            lat: 43.82261667
+            lng: 16.64078333
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 213
+            time: 2019-07-12T13:43:34Z
+            lat: 43.8228
+            lng: 16.64016667
+            alt: 0
+          - fix: 214
+            time: 2019-07-12T13:43:39Z
+            lat: 43.82315
+            lng: 16.64018333
+            alt: 0
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 279
+            time: 2019-07-12T13:48:32Z
+            lat: 43.82211667
+            lng: 16.6365
+            alt: 0
+          - fix: 280
+            time: 2019-07-12T13:48:36Z
+            lat: 43.82185
+            lng: 16.63706667
+            alt: 0
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 293
+            time: 2019-07-12T13:49:35Z
+            lat: 43.81855
+            lng: 16.64443333
+            alt: 0
+          - fix: 294
+            time: 2019-07-12T13:49:39Z
+            lat: 43.81833333
+            lng: 16.6448
+            alt: 0
+          inZone:
+          - true
+          - false
+      - []
+      - []
+      zonesCrossExcluded: []
+  - - - '26'
+      - Stjepan Zjacic
+    - zonesCrossSelected:
+      - crossingPair:
+        - fix: 1212
+          time: 2019-07-12T13:02:32Z
+          lat: 43.82125
+          lng: 16.63836667
+          alt: 551
+        - fix: 1213
+          time: 2019-07-12T13:02:33Z
+          lat: 43.82118333
+          lng: 16.63843333
+          alt: 551
+        inZone:
+        - true
+        - false
+      - null
+      - null
+      - null
+      - null
+      - null
+      zonesCrossNominees:
+      - - crossingPair:
+          - fix: 924
+            time: 2019-07-12T12:57:44Z
+            lat: 43.82176667
+            lng: 16.64816667
+            alt: 719
+          - fix: 925
+            time: 2019-07-12T12:57:45Z
+            lat: 43.82171667
+            lng: 16.64823333
+            alt: 720
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1031
+            time: 2019-07-12T12:59:31Z
+            lat: 43.82095
+            lng: 16.64563333
+            alt: 692
+          - fix: 1032
+            time: 2019-07-12T12:59:32Z
+            lat: 43.82105
+            lng: 16.64553333
+            alt: 691
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1116
+            time: 2019-07-12T13:00:56Z
+            lat: 43.82096667
+            lng: 16.63966667
+            alt: 634
+          - fix: 1117
+            time: 2019-07-12T13:00:57Z
+            lat: 43.8209
+            lng: 16.6396
+            alt: 634
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1143
+            time: 2019-07-12T13:01:23Z
+            lat: 43.82115
+            lng: 16.6385
+            alt: 617
+          - fix: 1144
+            time: 2019-07-12T13:01:24Z
+            lat: 43.82125
+            lng: 16.63851667
+            alt: 616
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1159
+            time: 2019-07-12T13:01:39Z
+            lat: 43.82163333
+            lng: 16.63705
+            alt: 602
+          - fix: 1160
+            time: 2019-07-12T13:01:40Z
+            lat: 43.8216
+            lng: 16.63698333
+            alt: 600
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1175
+            time: 2019-07-12T13:01:55Z
+            lat: 43.82146667
+            lng: 16.63741667
+            alt: 588
+          - fix: 1176
+            time: 2019-07-12T13:01:56Z
+            lat: 43.82148333
+            lng: 16.63751667
+            alt: 586
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1183
+            time: 2019-07-12T13:02:03Z
+            lat: 43.82138333
+            lng: 16.63805
+            alt: 589
+          - fix: 1184
+            time: 2019-07-12T13:02:04Z
+            lat: 43.8213
+            lng: 16.63801667
+            alt: 588
+          inZone:
+          - true
+          - false
+        - crossingPair:
+          - fix: 1206
+            time: 2019-07-12T13:02:26Z
+            lat: 43.82138333
+            lng: 16.63775
+            alt: 557
+          - fix: 1207
+            time: 2019-07-12T13:02:27Z
+            lat: 43.8214
+            lng: 16.63786667
+            alt: 554
+          inZone:
+          - false
+          - true
+        - crossingPair:
+          - fix: 1212
+            time: 2019-07-12T13:02:32Z
+            lat: 43.82125
+            lng: 16.63836667
+            alt: 551
+          - fix: 1213
+            time: 2019-07-12T13:02:33Z
+            lat: 43.82118333
+            lng: 16.63843333
+            alt: 551
+          inZone:
+          - true
+          - false
+      - []
+      - []
+      - - crossingPair:
+          - fix: 1052
+            time: 2019-07-12T12:59:52Z
+            lat: 43.822
+            lng: 16.64333333
+            alt: 679
+          - fix: 1053
+            time: 2019-07-12T12:59:53Z
+            lat: 43.82201667
+            lng: 16.64323333
+            alt: 678
+          inZone:
+          - false
+          - true
+      - []
+      - []
+      zonesCrossExcluded: []
+trackLogError:
+- fileUnset:
+  - - '35'
+    - Giselle Giampietri
+  - - '32'
+    - Laura Grakalich
+  dirMissing: []
+  fileMissing: []
+  fileUnread:
+  - - '18'
+    - Petros Miskos
+- fileUnset:
+  - - '35'
+    - Giselle Giampietri
+  - - '32'
+    - Laura Grakalich
+  dirMissing: []
+  fileMissing: []
+  fileUnread:
+  - - '18'
+    - Petros Miskos

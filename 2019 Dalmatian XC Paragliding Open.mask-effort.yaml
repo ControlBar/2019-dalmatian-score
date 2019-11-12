@@ -1,0 +1,72 @@
+bestEffort:
+- 10.498202 km
+- 15.729020 km
+land:
+- - - - '15'
+      - Mitja Jug
+    - togo: 14.249307 km
+      made: 8.433895 km
+  - - - '19'
+      - Rafal Cypcar
+    - togo: 15.491435 km
+      made: 7.191767 km
+  - - - '11'
+      - Jerko Odžak
+    - togo: 17.669418 km
+      made: 5.013784 km
+  - - - '10'
+      - Igor Eržen
+    - togo: 18.319646 km
+      made: 4.363556 km
+  - - - '35'
+      - Giselle Giampietri
+    - togo: 19.683202 km
+      made: 3.000000 km
+  - - - '32'
+      - Laura Grakalich
+    - togo: 19.683202 km
+      made: 3.000000 km
+  - - - '22'
+      - Sandi Krč
+    - togo: 20.195233 km
+      made: 2.487969 km
+  - - - '26'
+      - Stjepan Zjacic
+    - togo: 28.560874 km
+      made: -5.877672 km
+  - - - '24'
+      - Slava Jelić
+    - togo: 28.618269 km
+      made: -5.935067 km
+- - - - '19'
+      - Rafal Cypcar
+    - togo: 1.854024 km
+      made: 13.874996 km
+  - - - '15'
+      - Mitja Jug
+    - togo: 5.033487 km
+      made: 10.695533 km
+  - - - '11'
+      - Jerko Odžak
+    - togo: 12.664646 km
+      made: 3.064374 km
+  - - - '35'
+      - Giselle Giampietri
+    - togo: 12.729020 km
+      made: 3.000000 km
+  - - - '32'
+      - Laura Grakalich
+    - togo: 12.729020 km
+      made: 3.000000 km
+  - - - '22'
+      - Sandi Krč
+    - togo: 15.766363 km
+      made: -0.037343 km
+  - - - '26'
+      - Stjepan Zjacic
+    - togo: 16.277831 km
+      made: -0.548811 km
+  - - - '24'
+      - Slava Jelić
+    - togo: 16.292820 km
+      made: -0.563800 km
