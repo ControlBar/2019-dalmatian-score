@@ -1,17 +1,17 @@
 bolster:
 - max: 10.498202 km
-  mean: 4.897979 km
-  stdDev: 2.562164 km
+  mean: 4.708181 km
+  stdDev: 2.496483 km
 - max: 15.729020 km
-  mean: 6.499231 km
-  stdDev: 5.073192 km
+  mean: 6.149308 km
+  stdDev: 4.926009 km
 reach:
 - max: 10.498202 km
-  mean: 3.238822 km
-  stdDev: 4.010741 km
+  mean: 3.113160 km
+  stdDev: 3.823553 km
 - max: 15.729020 km
-  mean: 5.021681 km
-  stdDev: 6.159209 km
+  mean: 4.515815 km
+  stdDev: 6.037000 km
 reachRank:
 - - - - '15'
       - Mitja Jug
@@ -33,6 +33,10 @@ reachRank:
       - Sandi Krč
     - frac: 0.2370122
       reach: 2.488202 km
+  - - - '18'
+      - Petros Miskos
+    - frac: 0.18881347
+      reach: 1.982202 km
   - - - '35'
       - Giselle Giampietri
     - frac: 0.13189712
@@ -85,6 +89,10 @@ reachRank:
       - Slava Jelić
     - frac: 1.258947e-2
       reach: 0.198020 km
+  - - - '18'
+      - Petros Miskos
+    - frac: -2.35107e-3
+      reach: -0.036980 km
 nigh:
 - - - - '15'
       - Mitja Jug
@@ -131,6 +139,15 @@ nigh:
         legsSum: []
         waypoints: []
       made: 2.488202 km
+  - - - '18'
+      - Petros Miskos
+    - togo:
+        distance: 20.701000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 1.982202 km
   - - - '26'
       - Stjepan Zjacic
     - togo:
@@ -185,6 +202,15 @@ nigh:
         legsSum: []
         waypoints: []
       made: 1.208020 km
+  - - - '18'
+      - Petros Miskos
+    - togo:
+        distance: 15.766000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: -0.036980 km
   - - - '26'
       - Stjepan Zjacic
     - togo:

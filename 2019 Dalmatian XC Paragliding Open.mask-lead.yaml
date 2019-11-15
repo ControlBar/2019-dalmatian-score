@@ -54,6 +54,11 @@ leadRank:
     - area: 2119304.7310 km^2 s
       coef: 2.2882959
       frac: 0.44660738
+  - - - '18'
+      - Petros Miskos
+    - area: 2327154.5088 km^2 s
+      coef: 2.5127194
+      frac: 0.30325358
 - - - - '19'
       - Rafal Cypcar
     - area: 350046.1179 km^2 s

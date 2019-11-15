@@ -30,6 +30,10 @@ land:
       - Sandi Krč
     - togo: 20.195233 km
       made: 2.487969 km
+  - - - '18'
+      - Petros Miskos
+    - togo: 20.701233 km
+      made: 1.981969 km
   - - - '26'
       - Stjepan Zjacic
     - togo: 28.560874 km
@@ -62,6 +66,10 @@ land:
       - Sandi Krč
     - togo: 15.766363 km
       made: -0.037343 km
+  - - - '18'
+      - Petros Miskos
+    - togo: 16.273791 km
+      made: -0.544771 km
   - - - '26'
       - Stjepan Zjacic
     - togo: 16.277831 km

@@ -9,25 +9,25 @@ chunking:
   endChunk:
   - 111
   - 11.1 km
-  sumOf: 229
+  sumOf: 233
 - startChunk:
   - 0
   - 0.0 km
   endChunk:
   - 161
   - 16.1 km
-  sumOf: 214
+  sumOf: 201
 landout:
+- 10
 - 9
-- 8
 lookahead:
-- 35
-- 59
+- 31
+- 52
 difficulty:
 - - chunk: 0
     startChunk: 0.0 km
     endChunk: 0.1 km
-    endAhead: 3.6 km
+    endAhead: 3.2 km
     down: 2
     downs:
     - -5.935 km
@@ -37,13 +37,26 @@ difficulty:
       - Slava Jelić
     - - '26'
       - Stjepan Zjacic
+    downward: 6
+    rel: 1.287554e-2
+    frac: 1.287554e-2
+  - chunk: 19
+    startChunk: 1.9 km
+    endChunk: 2.0 km
+    endAhead: 5.1 km
+    down: 1
+    downs:
+    - 1.982 km
+    downers:
+    - - '18'
+      - Petros Miskos
     downward: 5
-    rel: 1.091703e-2
-    frac: 1.091703e-2
+    rel: 1.072961e-2
+    frac: 0.19098712
   - chunk: 24
     startChunk: 2.4 km
     endChunk: 2.5 km
-    endAhead: 6.0 km
+    endAhead: 5.6 km
     down: 1
     downs:
     - 2.488 km
@@ -51,12 +64,12 @@ difficulty:
     - - '22'
       - Sandi Krč
     downward: 5
-    rel: 1.091703e-2
-    frac: 0.22270742
+    rel: 1.072961e-2
+    frac: 0.24463519
   - chunk: 30
     startChunk: 3.0 km
     endChunk: 3.1 km
-    endAhead: 6.6 km
+    endAhead: 6.2 km
     down: 2
     downs:
     - 3.000 km
@@ -67,12 +80,12 @@ difficulty:
     - - '35'
       - Giselle Giampietri
     downward: 4
-    rel: 8.73362e-3
-    frac: 0.27510917
+    rel: 8.58369e-3
+    frac: 0.29613734
   - chunk: 43
     startChunk: 4.3 km
     endChunk: 4.4 km
-    endAhead: 7.9 km
+    endAhead: 7.5 km
     down: 1
     downs:
     - 4.364 km
@@ -80,25 +93,25 @@ difficulty:
     - - '10'
       - Igor Eržen
     downward: 3
-    rel: 6.55022e-3
-    frac: 0.34716157
+    rel: 6.43777e-3
+    frac: 0.3583691
   - chunk: 50
     startChunk: 5.0 km
     endChunk: 5.1 km
-    endAhead: 8.6 km
+    endAhead: 8.2 km
     down: 1
     downs:
     - 5.014 km
     downers:
     - - '11'
       - Jerko Odžak
-    downward: 3
-    rel: 6.55022e-3
-    frac: 0.37991266
+    downward: 2
+    rel: 4.29185e-3
+    frac: 0.38841202
   - chunk: 71
     startChunk: 7.1 km
     endChunk: 7.2 km
-    endAhead: 10.7 km
+    endAhead: 10.3 km
     down: 1
     downs:
     - 7.192 km
@@ -106,12 +119,12 @@ difficulty:
     - - '19'
       - Rafal Cypcar
     downward: 2
-    rel: 4.36681e-3
-    frac: 0.47161572
+    rel: 4.29185e-3
+    frac: 0.472103
   - chunk: 84
     startChunk: 8.4 km
     endChunk: 8.5 km
-    endAhead: 12.0 km
+    endAhead: 11.6 km
     down: 1
     downs:
     - 8.434 km
@@ -119,31 +132,34 @@ difficulty:
     - - '15'
       - Mitja Jug
     downward: 1
-    rel: 2.18341e-3
+    rel: 2.14592e-3
     frac: 0.5
 - - chunk: 0
     startChunk: 0.0 km
     endChunk: 0.1 km
-    endAhead: 6.0 km
-    down: 3
+    endAhead: 5.3 km
+    down: 4
     downs:
     - -0.564 km
     - -0.549 km
+    - -0.545 km
     - -0.037 km
     downers:
     - - '24'
       - Slava Jelić
     - - '26'
       - Stjepan Zjacic
+    - - '18'
+      - Petros Miskos
     - - '22'
       - Sandi Krč
-    downward: 6
-    rel: 1.401869e-2
-    frac: 1.401869e-2
+    downward: 7
+    rel: 1.741294e-2
+    frac: 1.741294e-2
   - chunk: 30
     startChunk: 3.0 km
     endChunk: 3.1 km
-    endAhead: 9.0 km
+    endAhead: 8.3 km
     down: 3
     downs:
     - 3.000 km
@@ -157,12 +173,12 @@ difficulty:
     - - '11'
       - Jerko Odžak
     downward: 3
-    rel: 7.00935e-3
-    frac: 0.22429907
+    rel: 7.46269e-3
+    frac: 0.24129353
   - chunk: 106
     startChunk: 10.6 km
     endChunk: 10.7 km
-    endAhead: 16.6 km
+    endAhead: 15.9 km
     down: 1
     downs:
     - 10.696 km
@@ -170,12 +186,12 @@ difficulty:
     - - '15'
       - Mitja Jug
     downward: 2
-    rel: 4.6729e-3
-    frac: 0.42523364
+    rel: 4.97512e-3
+    frac: 0.42039801
   - chunk: 138
     startChunk: 13.8 km
     endChunk: 13.9 km
-    endAhead: 19.8 km
+    endAhead: 19.1 km
     down: 1
     downs:
     - 13.875 km
@@ -183,5 +199,5 @@ difficulty:
     - - '19'
       - Rafal Cypcar
     downward: 1
-    rel: 2.33645e-3
+    rel: 2.48756e-3
     frac: 0.5

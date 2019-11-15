@@ -225,9 +225,36 @@ score:
         ssVelocity: null
         gsVelocity: null
       stoppedAlt: 393.000 m
+  - - - '18'
+      - Petros Miskos
+    - place: '6'
+      total: 34
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 32.112
+        leading: 1.8
+        arrival: 0
+        time: 0
+        reach: 32.112
+      landedMade: 1.982 km
+      reach:
+        extra: 1.982 km
+        flown: 1.982 km
+      velocity:
+        ss: 2019-07-11T12:38:43.181546694556Z
+        gs: 2019-07-11T12:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 0.000 m
   - - - '24'
       - Slava Jelić
-    - place: 6=
+    - place: 7=
       total: 32
       penalties: []
       penaltyReason: ''
@@ -254,7 +281,7 @@ score:
       stoppedAlt: 455.000 m
   - - - '26'
       - Stjepan Zjacic
-    - place: 6=
+    - place: 7=
       total: 32
       penalties: []
       penaltyReason: ''
@@ -281,7 +308,7 @@ score:
       stoppedAlt: 454.000 m
   - - - '35'
       - Giselle Giampietri
-    - place: 6=
+    - place: 7=
       total: 32
       penalties: []
       penaltyReason: ''
@@ -300,7 +327,7 @@ score:
       stoppedAlt: null
   - - - '32'
       - Laura Grakalich
-    - place: 6=
+    - place: 7=
       total: 32
       penalties: []
       penaltyReason: ''
@@ -417,6 +444,33 @@ score:
         flown: 3.067 km
       velocity:
         ss: 2019-07-12T12:57:22.944937200765Z
+        gs: 2019-07-12T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 0.000 m
+  - - - '18'
+      - Petros Miskos
+    - place: 5=
+      total: 44
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 44.169
+        leading: 0
+        arrival: 0
+        time: 0
+        reach: 44.169
+      landedMade: -0.545 km
+      reach:
+        extra: -0.037 km
+        flown: -0.037 km
+      velocity:
+        ss: 2019-07-12T12:25:25.865478746644Z
         gs: 2019-07-12T11:30:00Z
         es: null
         ssDistance: null
@@ -680,9 +734,36 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       stoppedAlt: 393.000 m
+  - - - '18'
+      - Petros Miskos
+    - place: '6'
+      total: 34
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 32.112
+        leading: 1.8
+        arrival: 0
+        time: 0
+        reach: 32.112
+      landedMade: 1.982 km
+      reach:
+        extra: 1.982 km
+        flown: 1.982 km
+      velocity:
+        ss: 2019-07-11T12:38:43.181546694556Z
+        gs: 2019-07-11T12:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 0.000 m
   - - - '24'
       - Slava Jelić
-    - place: 6=
+    - place: 7=
       total: 32
       penalties: []
       penaltyReason: ''
@@ -709,7 +790,7 @@ scoreDf:
       stoppedAlt: 455.000 m
   - - - '26'
       - Stjepan Zjacic
-    - place: 6=
+    - place: 7=
       total: 32
       penalties: []
       penaltyReason: ''
@@ -834,6 +915,33 @@ scoreDf:
         flown: 3.067 km
       velocity:
         ss: 2019-07-12T12:57:22.944937200765Z
+        gs: 2019-07-12T11:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 0.000 m
+  - - - '18'
+      - Petros Miskos
+    - place: 5=
+      total: 44
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0
+        distance: 44.169
+        leading: 0
+        arrival: 0
+        time: 0
+        reach: 44.169
+      landedMade: -0.545 km
+      reach:
+        extra: -0.037 km
+        flown: -0.037 km
+      velocity:
+        ss: 2019-07-12T12:25:25.865478746644Z
         gs: 2019-07-12T11:30:00Z
         es: null
         ssDistance: null

@@ -43,7 +43,15 @@ stopFlying:
       - 2019-07-11T13:51:44Z
   - - - '18'
       - Petros Miskos
-    - null
+    - scoredFixes:
+      - 705
+      - 1486
+      scoredSeconds:
+      - 1728
+      - 3314
+      scoredTimes:
+      - 2019-07-11T12:32:51Z
+      - 2019-07-11T12:59:17Z
   - - - '19'
       - Rafal Cypcar
     - scoredFixes:
@@ -129,7 +137,15 @@ stopFlying:
       - 2019-07-12T13:32:52Z
   - - - '18'
       - Petros Miskos
-    - null
+    - scoredFixes:
+      - 1550
+      - 1796
+      scoredSeconds:
+      - 3256
+      - 3760
+      scoredTimes:
+      - 2019-07-12T12:18:49Z
+      - 2019-07-12T12:27:13Z
   - - - '19'
       - Rafal Cypcar
     - scoredFixes:
@@ -176,7 +192,7 @@ stopFlying:
       - 2019-07-12T13:03:14Z
 timing:
 - zonesSum:
-  - 7
+  - 8
   - 4
   - 2
   - 0
@@ -200,6 +216,7 @@ timing:
   - - 2019-07-11T12:30:42.855149263116Z
     - 2019-07-11T12:34:10.87036933773Z
     - 2019-07-11T12:37:24.913596387564Z
+    - 2019-07-11T12:38:43.181546694556Z
     - 2019-07-11T12:44:16.444111874983Z
     - 2019-07-11T12:56:45.318557230284Z
     - 2019-07-11T12:57:53.037410170433Z
@@ -220,6 +237,8 @@ timing:
       - Sandi Krč
     - - '15'
       - Mitja Jug
+    - - '18'
+      - Petros Miskos
     - - '19'
       - Rafal Cypcar
     - - '11'
@@ -245,7 +264,7 @@ timing:
   - []
   lastLanding: 2019-07-11T13:54:49Z
 - zonesSum:
-  - 7
+  - 8
   - 4
   - 3
   - 3
@@ -270,6 +289,7 @@ timing:
     - 2019-07-12T12:20:37.778234223323Z
     - 2019-07-12T12:20:57.810274234821Z
     - 2019-07-12T12:24:41.828253277531Z
+    - 2019-07-12T12:25:25.865478746644Z
     - 2019-07-12T12:57:22.944937200765Z
     - 2019-07-12T13:02:32.487867917314Z
     - 2019-07-12T13:48:52.31253605009Z
@@ -295,6 +315,8 @@ timing:
       - Rafal Cypcar
     - - '22'
       - Sandi Krč
+    - - '18'
+      - Petros Miskos
     - - '11'
       - Jerko Odžak
     - - '26'
@@ -524,7 +546,33 @@ tagging:
       - null
   - - - '18'
       - Petros Miskos
-    - null
+    - zonesTag:
+      - inter:
+          fixFrac: 881.0907733472782
+          time: 2019-07-11T12:38:43.181546694556Z
+          lat: 43.79485154
+          lng: 16.50362726
+          alt: 0
+        cross:
+          crossingPair:
+          - fix: 881
+            time: 2019-07-11T12:38:43Z
+            lat: 43.79486667
+            lng: 16.50361667
+            alt: 0
+          - fix: 882
+            time: 2019-07-11T12:38:45Z
+            lat: 43.7947
+            lng: 16.50373333
+            alt: 0
+          inZone:
+          - true
+          - false
+      - null
+      - null
+      - null
+      - null
+      - null
   - - - '19'
       - Rafal Cypcar
     - zonesTag:
@@ -936,7 +984,33 @@ tagging:
       - null
   - - - '18'
       - Petros Miskos
-    - null
+    - zonesTag:
+      - inter:
+          fixFrac: 1745.7163696866617
+          time: 2019-07-12T12:25:25.865478746644Z
+          lat: 43.82169503
+          lng: 16.63682091
+          alt: 0
+        cross:
+          crossingPair:
+          - fix: 1745
+            time: 2019-07-12T12:25:23Z
+            lat: 43.82176667
+            lng: 16.637
+            alt: 0
+          - fix: 1746
+            time: 2019-07-12T12:25:27Z
+            lat: 43.82166667
+            lng: 16.63675
+            alt: 0
+          inZone:
+          - true
+          - false
+      - null
+      - null
+      - null
+      - null
+      - null
   - - - '19'
       - Rafal Cypcar
     - zonesTag:
