@@ -5,8 +5,8 @@ validityWorking:
     gsBestTime: null
     nominalDistance: 20.0 km
     reachMax:
-      extra: 10.498202 km
-      flown: 10.498202 km
+      extra: 10.497232 km
+      flown: 10.497232 km
   launch:
     nominalLaunch: 0.96
     flying: 10
@@ -19,8 +19,8 @@ validityWorking:
     nominalDistance: 20.0 km
     minimumDistance: 3.000 km
     reachMax:
-      extra: 10.498202 km
-      flown: 10.498202 km
+      extra: 10.497232 km
+      flown: 10.497232 km
   stop: null
 - time:
     nominalTime: 0.666667 h
@@ -28,8 +28,8 @@ validityWorking:
     gsBestTime: 2.014817 h
     nominalDistance: 20.0 km
     reachMax:
-      extra: 15.729020 km
-      flown: 15.729020 km
+      extra: 15.728733 km
+      flown: 15.728733 km
   launch:
     nominalLaunch: 0.96
     flying: 10
@@ -42,36 +42,36 @@ validityWorking:
     nominalDistance: 20.0 km
     minimumDistance: 3.000 km
     reachMax:
-      extra: 15.729020 km
-      flown: 15.729020 km
+      extra: 15.728733 km
+      flown: 15.728733 km
   stop: null
 validity:
-- time: 0.74557035
+- time: 0.74551761
   launch: 1
-  distance: 0.16746871
-  task: 0.1248597
+  distance: 0.16752871
+  task: 0.1248956
   stop: null
 - time: 1
   launch: 1
-  distance: 0.30875569
-  task: 0.30875569
+  distance: 0.30876404
+  task: 0.30876404
   stop: null
 allocation:
 - goalRatio: 0
   weight:
     effort: 0
     distance: 0.9
-    leading: 4.628183e-2
+    leading: 4.627954e-2
     arrival: 0
-    time: 5.371817e-2
+    time: 5.372046e-2
     reach: 0.9
   points:
     effort: 0
-    distance: 112.374
+    distance: 112.406
     leading: 5.8
     arrival: 0
     time: 6.7
-    reach: 112.374
+    reach: 112.406
   taskPoints: 125
 - goalRatio: 0.1
   weight:
@@ -83,11 +83,11 @@ allocation:
     reach: 0.750043
   points:
     effort: 0
-    distance: 231.58
+    distance: 231.586
     leading: 27
     arrival: 0
     time: 50.2
-    reach: 231.58
+    reach: 231.586
   taskPoints: 309
 score:
 - - - - '15'
@@ -98,17 +98,17 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 112.374
+        distance: 112.406
         leading: 3.9
         arrival: 0
         time: 0
-        reach: 112.374
-      landedMade: 8.434 km
+        reach: 112.406
+      landedMade: 8.433 km
       reach:
-        extra: 10.498 km
-        flown: 10.498 km
+        extra: 10.497 km
+        flown: 10.497 km
       velocity:
-        ss: 2019-07-11T12:37:24.913596387564Z
+        ss: 2019-07-11T12:37:24.913508787876Z
         gs: 2019-07-11T12:30:00Z
         es: null
         ssDistance: null
@@ -125,17 +125,17 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 79.598
+        distance: 79.639
         leading: 5.8
         arrival: 0
         time: 0
-        reach: 79.598
-      landedMade: 7.192 km
+        reach: 79.639
+      landedMade: 7.191 km
       reach:
-        extra: 7.436 km
-        flown: 7.436 km
+        extra: 7.437 km
+        flown: 7.437 km
       velocity:
-        ss: 2019-07-11T12:44:16.444111874983Z
+        ss: 2019-07-11T12:44:16.444101241262Z
         gs: 2019-07-11T12:30:00Z
         es: null
         ssDistance: null
@@ -152,17 +152,17 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 71.27
+        distance: 71.308
         leading: 2.7
         arrival: 0
         time: 0
-        reach: 71.27
-      landedMade: 5.014 km
+        reach: 71.308
+      landedMade: 5.013 km
       reach:
-        extra: 6.658 km
-        flown: 6.658 km
+        extra: 6.659 km
+        flown: 6.659 km
       velocity:
-        ss: 2019-07-11T12:56:45.318557230284Z
+        ss: 2019-07-11T12:56:45.318571059684Z
         gs: 2019-07-11T12:30:00Z
         es: null
         ssDistance: null
@@ -179,17 +179,17 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 48.053
+        distance: 48.125
         leading: 4.2
         arrival: 0
         time: 0
-        reach: 48.053
+        reach: 48.125
       landedMade: 4.364 km
       reach:
-        extra: 4.489 km
-        flown: 4.489 km
+        extra: 4.494 km
+        flown: 4.494 km
       velocity:
-        ss: 2019-07-11T12:30:42.855149263116Z
+        ss: 2019-07-11T12:30:42.855249132058Z
         gs: 2019-07-11T12:30:00Z
         es: null
         ssDistance: null
@@ -206,17 +206,17 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 32.112
+        distance: 32.124
         leading: 2.6
         arrival: 0
         time: 0
-        reach: 32.112
-      landedMade: 2.488 km
+        reach: 32.124
+      landedMade: 2.486 km
       reach:
-        extra: 2.488 km
-        flown: 2.488 km
+        extra: 2.486 km
+        flown: 2.486 km
       velocity:
-        ss: 2019-07-11T12:34:10.87036933773Z
+        ss: 2019-07-11T12:34:10.870361534146Z
         gs: 2019-07-11T12:30:00Z
         es: null
         ssDistance: null
@@ -233,17 +233,17 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 32.112
+        distance: 32.124
         leading: 1.8
         arrival: 0
         time: 0
-        reach: 32.112
-      landedMade: 1.982 km
+        reach: 32.124
+      landedMade: 1.985 km
       reach:
-        extra: 1.982 km
-        flown: 1.982 km
+        extra: 1.985 km
+        flown: 1.985 km
       velocity:
-        ss: 2019-07-11T12:38:43.181546694556Z
+        ss: 2019-07-11T12:38:43.181490027578Z
         gs: 2019-07-11T12:30:00Z
         es: null
         ssDistance: null
@@ -260,17 +260,17 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 32.112
+        distance: 32.124
         leading: 0
         arrival: 0
         time: 0
-        reach: 32.112
-      landedMade: -5.935 km
+        reach: 32.124
+      landedMade: -5.936 km
       reach:
-        extra: -1.048 km
-        flown: -1.048 km
+        extra: -1.049 km
+        flown: -1.049 km
       velocity:
-        ss: 2019-07-11T12:57:53.037410170433Z
+        ss: 2019-07-11T12:57:53.037422755046Z
         gs: 2019-07-11T12:30:00Z
         es: null
         ssDistance: null
@@ -287,17 +287,17 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 32.112
+        distance: 32.124
         leading: 0
         arrival: 0
         time: 0
-        reach: 32.112
+        reach: 32.124
       landedMade: -5.878 km
       reach:
-        extra: -1.379 km
-        flown: -1.379 km
+        extra: -1.378 km
+        flown: -1.378 km
       velocity:
-        ss: 2019-07-11T13:36:58.587050639303Z
+        ss: 2019-07-11T13:36:58.587051230614Z
         gs: 2019-07-11T12:30:00Z
         es: null
         ssDistance: null
@@ -314,11 +314,11 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 32.112
+        distance: 32.124
         leading: 0
         arrival: 0
         time: 0
-        reach: 32.112
+        reach: 32.124
       landedMade: 2.992 km
       reach:
         extra: 2.992 km
@@ -333,11 +333,11 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 32.112
+        distance: 32.124
         leading: 0
         arrival: 0
         time: 0
-        reach: 32.112
+        reach: 32.124
       landedMade: 2.992 km
       reach:
         extra: 2.992 km
@@ -352,19 +352,19 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 231.58
+        distance: 231.586
         leading: 15.4
         arrival: 0
         time: 50.2
-        reach: 231.58
+        reach: 231.586
       landedMade: 15.729 km
       reach:
         extra: 15.729 km
         flown: 15.729 km
       velocity:
-        ss: 2019-07-12T12:20:31.811427052006Z
+        ss: 2019-07-12T12:20:31.81138377597Z
         gs: 2019-07-12T11:30:00Z
-        es: 2019-07-12T13:30:53.340283333959Z
+        es: 2019-07-12T13:30:53.340303772858Z
         ssDistance: 15.729 km
         ssElapsed: 1.172647 h
         gsElapsed: 2.014817 h
@@ -379,17 +379,17 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 205.123
+        distance: 205.128
         leading: 27
         arrival: 0
         time: 0
-        reach: 205.123
+        reach: 205.128
       landedMade: 13.875 km
       reach:
         extra: 13.932 km
         flown: 13.932 km
       velocity:
-        ss: 2019-07-12T12:20:57.810274234821Z
+        ss: 2019-07-12T12:20:57.810263596024Z
         gs: 2019-07-12T11:30:00Z
         es: null
         ssDistance: null
@@ -406,17 +406,17 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 158.495
+        distance: 158.512
         leading: 14.4
         arrival: 0
         time: 0
-        reach: 158.495
-      landedMade: 10.696 km
+        reach: 158.512
+      landedMade: 10.695 km
       reach:
-        extra: 10.765 km
-        flown: 10.765 km
+        extra: 10.766 km
+        flown: 10.766 km
       velocity:
-        ss: 2019-07-12T12:20:37.778234223323Z
+        ss: 2019-07-12T12:20:37.778231305401Z
         gs: 2019-07-12T11:30:00Z
         es: null
         ssDistance: null
@@ -433,17 +433,17 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 45.156
+        distance: 45.169
         leading: 0
         arrival: 0
         time: 0
-        reach: 45.156
+        reach: 45.169
       landedMade: 3.064 km
       reach:
-        extra: 3.067 km
-        flown: 3.067 km
+        extra: 3.068 km
+        flown: 3.068 km
       velocity:
-        ss: 2019-07-12T12:57:22.944937200765Z
+        ss: 2019-07-12T12:57:22.94489829199Z
         gs: 2019-07-12T11:30:00Z
         es: null
         ssDistance: null
@@ -460,17 +460,17 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 44.169
+        distance: 44.171
         leading: 0
         arrival: 0
         time: 0
-        reach: 44.169
+        reach: 44.171
       landedMade: -0.545 km
       reach:
-        extra: -0.037 km
-        flown: -0.037 km
+        extra: -0.036 km
+        flown: -0.036 km
       velocity:
-        ss: 2019-07-12T12:25:25.865478746644Z
+        ss: 2019-07-12T12:25:25.865435903856Z
         gs: 2019-07-12T11:30:00Z
         es: null
         ssDistance: null
@@ -487,17 +487,17 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 44.169
+        distance: 44.171
         leading: 0
         arrival: 0
         time: 0
-        reach: 44.169
-      landedMade: -0.037 km
+        reach: 44.171
+      landedMade: -0.038 km
       reach:
         extra: 1.208 km
         flown: 1.208 km
       velocity:
-        ss: 2019-07-12T12:24:41.828253277531Z
+        ss: 2019-07-12T12:24:41.828220044633Z
         gs: 2019-07-12T11:30:00Z
         es: null
         ssDistance: null
@@ -514,17 +514,17 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 44.169
+        distance: 44.171
         leading: 0
         arrival: 0
         time: 0
-        reach: 44.169
+        reach: 44.171
       landedMade: -0.564 km
       reach:
         extra: 0.198 km
         flown: 0.198 km
       velocity:
-        ss: 2019-07-12T13:48:52.31253605009Z
+        ss: 2019-07-12T13:48:52.312428808885Z
         gs: 2019-07-12T11:30:00Z
         es: null
         ssDistance: null
@@ -541,17 +541,17 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 44.169
+        distance: 44.171
         leading: 0
         arrival: 0
         time: 0
-        reach: 44.169
+        reach: 44.171
       landedMade: -0.549 km
       reach:
-        extra: 0.290 km
-        flown: 0.290 km
+        extra: 0.291 km
+        flown: 0.291 km
       velocity:
-        ss: 2019-07-12T13:02:32.487867917314Z
+        ss: 2019-07-12T13:02:32.487984529221Z
         gs: 2019-07-12T11:30:00Z
         es: null
         ssDistance: null
@@ -568,11 +568,11 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 44.169
+        distance: 44.171
         leading: 0
         arrival: 0
         time: 0
-        reach: 44.169
+        reach: 44.171
       landedMade: 2.994 km
       reach:
         extra: 2.994 km
@@ -587,11 +587,11 @@ score:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 44.169
+        distance: 44.171
         leading: 0
         arrival: 0
         time: 0
-        reach: 44.169
+        reach: 44.171
       landedMade: 2.994 km
       reach:
         extra: 2.994 km
@@ -607,17 +607,17 @@ scoreDf:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 112.374
+        distance: 112.406
         leading: 3.9
         arrival: 0
         time: 0
-        reach: 112.374
-      landedMade: 8.434 km
+        reach: 112.406
+      landedMade: 8.433 km
       reach:
-        extra: 10.498 km
-        flown: 10.498 km
+        extra: 10.497 km
+        flown: 10.497 km
       velocity:
-        ss: 2019-07-11T12:37:24.913596387564Z
+        ss: 2019-07-11T12:37:24.913508787876Z
         gs: 2019-07-11T12:30:00Z
         es: null
         ssDistance: null
@@ -634,17 +634,17 @@ scoreDf:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 79.598
+        distance: 79.639
         leading: 5.8
         arrival: 0
         time: 0
-        reach: 79.598
-      landedMade: 7.192 km
+        reach: 79.639
+      landedMade: 7.191 km
       reach:
-        extra: 7.436 km
-        flown: 7.436 km
+        extra: 7.437 km
+        flown: 7.437 km
       velocity:
-        ss: 2019-07-11T12:44:16.444111874983Z
+        ss: 2019-07-11T12:44:16.444101241262Z
         gs: 2019-07-11T12:30:00Z
         es: null
         ssDistance: null
@@ -661,17 +661,17 @@ scoreDf:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 71.27
+        distance: 71.308
         leading: 2.7
         arrival: 0
         time: 0
-        reach: 71.27
-      landedMade: 5.014 km
+        reach: 71.308
+      landedMade: 5.013 km
       reach:
-        extra: 6.658 km
-        flown: 6.658 km
+        extra: 6.659 km
+        flown: 6.659 km
       velocity:
-        ss: 2019-07-11T12:56:45.318557230284Z
+        ss: 2019-07-11T12:56:45.318571059684Z
         gs: 2019-07-11T12:30:00Z
         es: null
         ssDistance: null
@@ -688,17 +688,17 @@ scoreDf:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 48.053
+        distance: 48.125
         leading: 4.2
         arrival: 0
         time: 0
-        reach: 48.053
+        reach: 48.125
       landedMade: 4.364 km
       reach:
-        extra: 4.489 km
-        flown: 4.489 km
+        extra: 4.494 km
+        flown: 4.494 km
       velocity:
-        ss: 2019-07-11T12:30:42.855149263116Z
+        ss: 2019-07-11T12:30:42.855249132058Z
         gs: 2019-07-11T12:30:00Z
         es: null
         ssDistance: null
@@ -715,17 +715,17 @@ scoreDf:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 32.112
+        distance: 32.124
         leading: 2.6
         arrival: 0
         time: 0
-        reach: 32.112
-      landedMade: 2.488 km
+        reach: 32.124
+      landedMade: 2.486 km
       reach:
-        extra: 2.488 km
-        flown: 2.488 km
+        extra: 2.486 km
+        flown: 2.486 km
       velocity:
-        ss: 2019-07-11T12:34:10.87036933773Z
+        ss: 2019-07-11T12:34:10.870361534146Z
         gs: 2019-07-11T12:30:00Z
         es: null
         ssDistance: null
@@ -742,17 +742,17 @@ scoreDf:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 32.112
+        distance: 32.124
         leading: 1.8
         arrival: 0
         time: 0
-        reach: 32.112
-      landedMade: 1.982 km
+        reach: 32.124
+      landedMade: 1.985 km
       reach:
-        extra: 1.982 km
-        flown: 1.982 km
+        extra: 1.985 km
+        flown: 1.985 km
       velocity:
-        ss: 2019-07-11T12:38:43.181546694556Z
+        ss: 2019-07-11T12:38:43.181490027578Z
         gs: 2019-07-11T12:30:00Z
         es: null
         ssDistance: null
@@ -769,17 +769,17 @@ scoreDf:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 32.112
+        distance: 32.124
         leading: 0
         arrival: 0
         time: 0
-        reach: 32.112
-      landedMade: -5.935 km
+        reach: 32.124
+      landedMade: -5.936 km
       reach:
-        extra: -1.048 km
-        flown: -1.048 km
+        extra: -1.049 km
+        flown: -1.049 km
       velocity:
-        ss: 2019-07-11T12:57:53.037410170433Z
+        ss: 2019-07-11T12:57:53.037422755046Z
         gs: 2019-07-11T12:30:00Z
         es: null
         ssDistance: null
@@ -796,17 +796,17 @@ scoreDf:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 32.112
+        distance: 32.124
         leading: 0
         arrival: 0
         time: 0
-        reach: 32.112
+        reach: 32.124
       landedMade: -5.878 km
       reach:
-        extra: -1.379 km
-        flown: -1.379 km
+        extra: -1.378 km
+        flown: -1.378 km
       velocity:
-        ss: 2019-07-11T13:36:58.587050639303Z
+        ss: 2019-07-11T13:36:58.587051230614Z
         gs: 2019-07-11T12:30:00Z
         es: null
         ssDistance: null
@@ -823,19 +823,19 @@ scoreDf:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 231.58
+        distance: 231.586
         leading: 15.4
         arrival: 0
         time: 50.2
-        reach: 231.58
+        reach: 231.586
       landedMade: 15.729 km
       reach:
         extra: 15.729 km
         flown: 15.729 km
       velocity:
-        ss: 2019-07-12T12:20:31.811427052006Z
+        ss: 2019-07-12T12:20:31.81138377597Z
         gs: 2019-07-12T11:30:00Z
-        es: 2019-07-12T13:30:53.340283333959Z
+        es: 2019-07-12T13:30:53.340303772858Z
         ssDistance: 15.729 km
         ssElapsed: 1.172647 h
         gsElapsed: 2.014817 h
@@ -850,17 +850,17 @@ scoreDf:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 205.123
+        distance: 205.128
         leading: 27
         arrival: 0
         time: 0
-        reach: 205.123
+        reach: 205.128
       landedMade: 13.875 km
       reach:
         extra: 13.932 km
         flown: 13.932 km
       velocity:
-        ss: 2019-07-12T12:20:57.810274234821Z
+        ss: 2019-07-12T12:20:57.810263596024Z
         gs: 2019-07-12T11:30:00Z
         es: null
         ssDistance: null
@@ -877,17 +877,17 @@ scoreDf:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 158.495
+        distance: 158.512
         leading: 14.4
         arrival: 0
         time: 0
-        reach: 158.495
-      landedMade: 10.696 km
+        reach: 158.512
+      landedMade: 10.695 km
       reach:
-        extra: 10.765 km
-        flown: 10.765 km
+        extra: 10.766 km
+        flown: 10.766 km
       velocity:
-        ss: 2019-07-12T12:20:37.778234223323Z
+        ss: 2019-07-12T12:20:37.778231305401Z
         gs: 2019-07-12T11:30:00Z
         es: null
         ssDistance: null
@@ -904,17 +904,17 @@ scoreDf:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 45.156
+        distance: 45.169
         leading: 0
         arrival: 0
         time: 0
-        reach: 45.156
+        reach: 45.169
       landedMade: 3.064 km
       reach:
-        extra: 3.067 km
-        flown: 3.067 km
+        extra: 3.068 km
+        flown: 3.068 km
       velocity:
-        ss: 2019-07-12T12:57:22.944937200765Z
+        ss: 2019-07-12T12:57:22.94489829199Z
         gs: 2019-07-12T11:30:00Z
         es: null
         ssDistance: null
@@ -931,17 +931,17 @@ scoreDf:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 44.169
+        distance: 44.171
         leading: 0
         arrival: 0
         time: 0
-        reach: 44.169
+        reach: 44.171
       landedMade: -0.545 km
       reach:
-        extra: -0.037 km
-        flown: -0.037 km
+        extra: -0.036 km
+        flown: -0.036 km
       velocity:
-        ss: 2019-07-12T12:25:25.865478746644Z
+        ss: 2019-07-12T12:25:25.865435903856Z
         gs: 2019-07-12T11:30:00Z
         es: null
         ssDistance: null
@@ -958,17 +958,17 @@ scoreDf:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 44.169
+        distance: 44.171
         leading: 0
         arrival: 0
         time: 0
-        reach: 44.169
-      landedMade: -0.037 km
+        reach: 44.171
+      landedMade: -0.038 km
       reach:
         extra: 1.208 km
         flown: 1.208 km
       velocity:
-        ss: 2019-07-12T12:24:41.828253277531Z
+        ss: 2019-07-12T12:24:41.828220044633Z
         gs: 2019-07-12T11:30:00Z
         es: null
         ssDistance: null
@@ -985,17 +985,17 @@ scoreDf:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 44.169
+        distance: 44.171
         leading: 0
         arrival: 0
         time: 0
-        reach: 44.169
+        reach: 44.171
       landedMade: -0.564 km
       reach:
         extra: 0.198 km
         flown: 0.198 km
       velocity:
-        ss: 2019-07-12T13:48:52.31253605009Z
+        ss: 2019-07-12T13:48:52.312428808885Z
         gs: 2019-07-12T11:30:00Z
         es: null
         ssDistance: null
@@ -1012,17 +1012,17 @@ scoreDf:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 44.169
+        distance: 44.171
         leading: 0
         arrival: 0
         time: 0
-        reach: 44.169
+        reach: 44.171
       landedMade: -0.549 km
       reach:
-        extra: 0.290 km
-        flown: 0.290 km
+        extra: 0.291 km
+        flown: 0.291 km
       velocity:
-        ss: 2019-07-12T13:02:32.487867917314Z
+        ss: 2019-07-12T13:02:32.487984529221Z
         gs: 2019-07-12T11:30:00Z
         es: null
         ssDistance: null
@@ -1040,11 +1040,11 @@ scoreDfNoTrack:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 32.112
+        distance: 32.124
         leading: 0
         arrival: 0
         time: 0
-        reach: 32.112
+        reach: 32.124
       landedMade: 2.992 km
       reach:
         extra: 2.992 km
@@ -1059,11 +1059,11 @@ scoreDfNoTrack:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 32.112
+        distance: 32.124
         leading: 0
         arrival: 0
         time: 0
-        reach: 32.112
+        reach: 32.124
       landedMade: 2.992 km
       reach:
         extra: 2.992 km
@@ -1078,11 +1078,11 @@ scoreDfNoTrack:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 44.169
+        distance: 44.171
         leading: 0
         arrival: 0
         time: 0
-        reach: 44.169
+        reach: 44.171
       landedMade: 2.994 km
       reach:
         extra: 2.994 km
@@ -1097,11 +1097,11 @@ scoreDfNoTrack:
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 44.169
+        distance: 44.171
         leading: 0
         arrival: 0
         time: 0
-        reach: 44.169
+        reach: 44.171
       landedMade: 2.994 km
       reach:
         extra: 2.994 km

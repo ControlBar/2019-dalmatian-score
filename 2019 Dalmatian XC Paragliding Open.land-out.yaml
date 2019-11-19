@@ -1,7 +1,7 @@
 minDistance: 3.000 km
 bestDistance:
-- 10.498202 km
-- 15.729020 km
+- 10.497232 km
+- 15.728733 km
 chunking:
 - startChunk:
   - 0
@@ -30,7 +30,7 @@ difficulty:
     endAhead: 3.2 km
     down: 2
     downs:
-    - -5.935 km
+    - -5.936 km
     - -5.878 km
     downers:
     - - '24'
@@ -46,7 +46,7 @@ difficulty:
     endAhead: 5.1 km
     down: 1
     downs:
-    - 1.982 km
+    - 1.985 km
     downers:
     - - '18'
       - Petros Miskos
@@ -59,7 +59,7 @@ difficulty:
     endAhead: 5.6 km
     down: 1
     downs:
-    - 2.488 km
+    - 2.486 km
     downers:
     - - '22'
       - Sandi Krč
@@ -101,7 +101,7 @@ difficulty:
     endAhead: 8.2 km
     down: 1
     downs:
-    - 5.014 km
+    - 5.013 km
     downers:
     - - '11'
       - Jerko Odžak
@@ -114,7 +114,7 @@ difficulty:
     endAhead: 10.3 km
     down: 1
     downs:
-    - 7.192 km
+    - 7.191 km
     downers:
     - - '19'
       - Rafal Cypcar
@@ -127,7 +127,7 @@ difficulty:
     endAhead: 11.6 km
     down: 1
     downs:
-    - 8.434 km
+    - 8.433 km
     downers:
     - - '15'
       - Mitja Jug
@@ -143,7 +143,7 @@ difficulty:
     - -0.564 km
     - -0.549 km
     - -0.545 km
-    - -0.037 km
+    - -0.038 km
     downers:
     - - '24'
       - Slava Jelić
@@ -181,7 +181,7 @@ difficulty:
     endAhead: 15.9 km
     down: 1
     downs:
-    - 10.696 km
+    - 10.695 km
     downers:
     - - '15'
       - Mitja Jug

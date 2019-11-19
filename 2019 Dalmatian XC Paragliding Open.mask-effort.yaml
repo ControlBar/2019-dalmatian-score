@@ -1,80 +1,80 @@
 bestEffort:
-- 10.498202 km
-- 15.729020 km
+- 10.497232 km
+- 15.728733 km
 land:
 - - - - '15'
       - Mitja Jug
-    - togo: 14.249307 km
-      made: 8.433895 km
+    - togo: 14.248949 km
+      made: 8.433283 km
   - - - '19'
       - Rafal Cypcar
-    - togo: 15.491435 km
-      made: 7.191767 km
+    - togo: 15.491247 km
+      made: 7.190985 km
   - - - '11'
       - Jerko Odžak
-    - togo: 17.669418 km
-      made: 5.013784 km
+    - togo: 17.669215 km
+      made: 5.013017 km
   - - - '10'
       - Igor Eržen
-    - togo: 18.319646 km
-      made: 4.363556 km
+    - togo: 18.318019 km
+      made: 4.364213 km
   - - - '35'
       - Giselle Giampietri
-    - togo: 19.683202 km
+    - togo: 19.682232 km
       made: 3.000000 km
   - - - '32'
       - Laura Grakalich
-    - togo: 19.683202 km
+    - togo: 19.682232 km
       made: 3.000000 km
   - - - '22'
       - Sandi Krč
-    - togo: 20.195233 km
-      made: 2.487969 km
+    - togo: 20.196084 km
+      made: 2.486148 km
   - - - '18'
       - Petros Miskos
-    - togo: 20.701233 km
-      made: 1.981969 km
+    - togo: 20.697293 km
+      made: 1.984939 km
   - - - '26'
       - Stjepan Zjacic
-    - togo: 28.560874 km
-      made: -5.877672 km
+    - togo: 28.560639 km
+      made: -5.878407 km
   - - - '24'
       - Slava Jelić
-    - togo: 28.618269 km
-      made: -5.935067 km
+    - togo: 28.618029 km
+      made: -5.935797 km
 - - - - '19'
       - Rafal Cypcar
-    - togo: 1.854024 km
-      made: 13.874996 km
+    - togo: 1.853764 km
+      made: 13.874969 km
   - - - '15'
       - Mitja Jug
-    - togo: 5.033487 km
-      made: 10.695533 km
+    - togo: 5.033289 km
+      made: 10.695444 km
   - - - '11'
       - Jerko Odžak
-    - togo: 12.664646 km
-      made: 3.064374 km
+    - togo: 12.664405 km
+      made: 3.064328 km
   - - - '35'
       - Giselle Giampietri
-    - togo: 12.729020 km
+    - togo: 12.728733 km
       made: 3.000000 km
   - - - '32'
       - Laura Grakalich
-    - togo: 12.729020 km
+    - togo: 12.728733 km
       made: 3.000000 km
   - - - '22'
       - Sandi Krč
-    - togo: 15.766363 km
-      made: -0.037343 km
+    - togo: 15.766285 km
+      made: -0.037552 km
   - - - '18'
       - Petros Miskos
-    - togo: 16.273791 km
-      made: -0.544771 km
+    - togo: 16.273415 km
+      made: -0.544682 km
   - - - '26'
       - Stjepan Zjacic
-    - togo: 16.277831 km
-      made: -0.548811 km
+    - togo: 16.277470 km
+      made: -0.548737 km
   - - - '24'
       - Slava Jelić
-    - togo: 16.292820 km
-      made: -0.563800 km
+    - togo: 16.292541 km
+      made: -0.563808 km
