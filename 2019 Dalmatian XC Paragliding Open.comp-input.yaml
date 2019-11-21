@@ -117,6 +117,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  earlyStart:
+    earliest: 0 s
+    earlyPenalty: 0 s
   penals: []
 - taskName: Task 2
   zones:
@@ -220,6 +223,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  earlyStart:
+    earliest: 0 s
+    earlyPenalty: 0 s
   penals: []
 taskFolders:
 - - Task 1
