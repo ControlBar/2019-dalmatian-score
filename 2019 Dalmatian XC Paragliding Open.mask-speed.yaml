@@ -1,9 +1,9 @@
 ssBestTime:
 - null
-- 1.172647 h
+- 1.172321 h
 gsBestTime:
 - null
-- 2.014817 h
+- 2.014693 h
 taskDistance:
 - 22.682232 km
 - 15.728733 km
@@ -14,13 +14,13 @@ ssSpeed:
 - []
 - - - - '10'
       - Igor Eržen
-    - time: 1.172647 h
+    - time: 1.172321 h
       frac: 1
 gsSpeed:
 - []
 - - - - '10'
       - Igor Eržen
-    - time: 2.014817 h
+    - time: 2.014693 h
       frac: 1
 altStopped:
 - - - - '10'

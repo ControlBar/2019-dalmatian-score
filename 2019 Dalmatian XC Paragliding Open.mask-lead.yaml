@@ -1,86 +1,86 @@
 raceTime:
 - openTask: 2019-07-11T12:30:00Z
   closeTask: 2019-07-11T18:00:00Z
-  firstStart: 2019-07-11T12:30:42.855249132058Z
-  firstLead: 2019-07-11T12:30:42.855249132058Z
+  firstStart: 2019-07-11T12:30:44.83123437862Z
+  firstLead: 2019-07-11T12:30:44.83123437862Z
   lastArrival: null
-  leadAllDown: 5046.145
+  leadAllDown: 5044.169
   leadArrival: null
-  leadClose: 19757.145
+  leadClose: 19755.169
   openClose: 19800
-  tickClose: 19757.145
+  tickClose: 19755.169
 - openTask: 2019-07-12T11:30:00Z
   closeTask: 2019-07-12T18:00:00Z
-  firstStart: 2019-07-12T12:20:31.81138377597Z
-  firstLead: 2019-07-12T12:20:31.81138377597Z
-  lastArrival: 2019-07-12T13:30:53.340303772858Z
-  leadAllDown: 5740.189
-  leadArrival: 4221.529
-  leadClose: 20368.189
+  firstStart: 2019-07-12T12:20:32.539533662954Z
+  firstLead: 2019-07-12T12:20:32.539533662954Z
+  lastArrival: 2019-07-12T13:30:52.894446590223Z
+  leadAllDown: 5739.46
+  leadArrival: 4220.355
+  leadClose: 20367.46
   openClose: 23400
-  tickClose: 20368.189
+  tickClose: 20367.46
 sumDistance:
-- 17.064928 km
-- 31.490932 km
+- 17.320928 km
+- 31.521932 km
 leadAreaToCoef:
 - 0.00000107983132 km^-2 s^-1
 - 0.00000224563937 km^-2 s^-1
 leadCoefMin:
-- 1.74671651
-- 0.78615474
+- 1.72705848
+- 0.78376497
 leadRank:
 - - - - '19'
       - Rafal Cypcar
-    - area: 1617582.7461 km^2 s
-      coef: 1.74671651
+    - area: 1599378.0284 km^2 s
+      coef: 1.72705848
       frac: 1
   - - - '10'
       - Igor Eržen
-    - area: 1789776.4130 km^2 s
-      coef: 1.93265662
-      frac: 0.72949544
+    - area: 1771894.8602 km^2 s
+      coef: 1.91334756
+      frac: 0.72813336
   - - - '15'
       - Mitja Jug
-    - area: 1848379.6031 km^2 s
-      coef: 1.99593818
-      frac: 0.67116119
+    - area: 1830750.1432 km^2 s
+      coef: 1.97690134
+      frac: 0.66936999
   - - - '11'
       - Jerko Odžak
-    - area: 2095619.3752 km^2 s
-      coef: 2.26291543
-      frac: 0.46567694
+    - area: 2075194.4579 km^2 s
+      coef: 2.24085996
+      frac: 0.46531924
   - - - '22'
       - Sandi Krč
-    - area: 2120458.8094 km^2 s
-      coef: 2.28973783
-      frac: 0.4473242
+    - area: 2097897.0159 km^2 s
+      coef: 2.2653749
+      frac: 0.44844427
   - - - '18'
       - Petros Miskos
-    - area: 2329235.9928 km^2 s
-      coef: 2.51518197
-      frac: 0.30335943
+    - area: 2305340.6607 km^2 s
+      coef: 2.48937904
+      frac: 0.30445899
 - - - - '19'
       - Rafal Cypcar
-    - area: 350080.5836 km^2 s
-      coef: 0.78615474
+    - area: 349016.4013 km^2 s
+      coef: 0.78376497
       frac: 1
   - - - '10'
       - Igor Eržen
-    - area: 461362.1855 km^2 s
-      coef: 1.03605309
-      frac: 0.57012759
+    - area: 460085.4752 km^2 s
+      coef: 1.03318606
+      frac: 0.57023917
   - - - '15'
       - Mitja Jug
-    - area: 475867.6045 km^2 s
-      coef: 1.06862703
-      frac: 0.53353985
+    - area: 474531.7965 km^2 s
+      coef: 1.06562729
+      frac: 0.53373868
   - - - '11'
       - Jerko Odžak
-    - area: 904751.7357 km^2 s
-      coef: 2.03174612
+    - area: 901573.0418 km^2 s
+      coef: 2.02460792
       frac: 0
   - - - '22'
       - Sandi Krč
-    - area: 905692.9559 km^2 s
-      coef: 2.03385976
+    - area: 902190.0732 km^2 s
+      coef: 2.02599355
       frac: 0
