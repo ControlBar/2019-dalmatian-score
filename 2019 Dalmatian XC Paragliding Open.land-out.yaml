@@ -75,10 +75,10 @@ difficulty:
     - 3.000 km
     - 3.000 km
     downers:
-    - - '32'
-      - Laura Grakalich
     - - '35'
       - Giselle Giampietri
+    - - '32'
+      - Laura Grakalich
     downward: 4
     rel: 8.3682e-3
     frac: 0.29497908
@@ -166,10 +166,10 @@ difficulty:
     - 3.000 km
     - 3.082 km
     downers:
-    - - '32'
-      - Laura Grakalich
     - - '35'
       - Giselle Giampietri
+    - - '32'
+      - Laura Grakalich
     - - '11'
       - Jerko Odžak
     downward: 3

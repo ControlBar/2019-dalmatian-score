@@ -60,53 +60,51 @@ allocation:
 - goalRatio: 0
   weight:
     effort: 0
-    distance: 0.9
-    leading: 4.635008e-2
     arrival: 0
     time: 5.364992e-2
     reach: 0.9
+    distance: 0.9
+    leading: 4.635008e-2
   points:
     effort: 0
-    distance: 114.072
-    leading: 5.9
     arrival: 0
     time: 6.8
     reach: 114.072
+    distance: 114.072
+    leading: 5.9
   taskPoints: 127
 - goalRatio: 0.1
   weight:
     effort: 0
-    distance: 0.750043
-    leading: 8.748495e-2
     arrival: 0
     time: 0.16247205
     reach: 0.750043
+    distance: 0.750043
+    leading: 8.748495e-2
   points:
     effort: 0
-    distance: 231.792
-    leading: 27
     arrival: 0
     time: 50.2
     reach: 231.792
+    distance: 231.792
+    leading: 27
   taskPoints: 309
 score:
 - - - - '15'
       - Mitja Jug
     - place: '1'
       total: 118
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 114.072
-        leading: 3.9
         arrival: 0
         time: 0
         reach: 114.072
-      landedMade: 8.449 km
-      reach:
-        extra: 10.513 km
-        flown: 10.513 km
+        distance: 114.072
+        leading: 3.9
       velocity:
         ss: 2019-07-11T12:37:25.732647693693Z
         gs: 2019-07-11T12:30:00Z
@@ -116,24 +114,26 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: 10.513 km
+        flown: 10.513 km
+      landedMade: 8.449 km
       stoppedAlt: 431.000 m
   - - - '19'
       - Rafal Cypcar
     - place: '2'
       total: 87
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 81.499
-        leading: 5.9
         arrival: 0
         time: 0
         reach: 81.499
-      landedMade: 7.279 km
-      reach:
-        extra: 7.511 km
-        flown: 7.511 km
+        distance: 81.499
+        leading: 5.9
       velocity:
         ss: 2019-07-11T12:44:17.011310594623Z
         gs: 2019-07-11T12:30:00Z
@@ -143,24 +143,26 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: 7.511 km
+        flown: 7.511 km
+      landedMade: 7.279 km
       stoppedAlt: 387.000 m
   - - - '11'
       - Jerko Odžak
     - place: '3'
       total: 76
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 72.938
-        leading: 2.7
         arrival: 0
         time: 0
         reach: 72.938
-      landedMade: 5.029 km
-      reach:
-        extra: 6.722 km
-        flown: 6.722 km
+        distance: 72.938
+        leading: 2.7
       velocity:
         ss: 2019-07-11T12:56:45.871423804628Z
         gs: 2019-07-11T12:30:00Z
@@ -170,24 +172,26 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: 6.722 km
+        flown: 6.722 km
+      landedMade: 5.029 km
       stoppedAlt: 0.000 m
   - - - '10'
       - Igor Eržen
     - place: '4'
       total: 54
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 49.632
-        leading: 4.3
         arrival: 0
         time: 0
         reach: 49.632
-      landedMade: 4.449 km
-      reach:
-        extra: 4.574 km
-        flown: 4.574 km
+        distance: 49.632
+        leading: 4.3
       velocity:
         ss: 2019-07-11T12:30:44.83123437862Z
         gs: 2019-07-11T12:30:00Z
@@ -197,24 +201,26 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: 4.574 km
+        flown: 4.574 km
+      landedMade: 4.449 km
       stoppedAlt: 0.000 m
   - - - '22'
       - Sandi Krč
     - place: '5'
       total: 35
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 32.551
-        leading: 2.6
         arrival: 0
         time: 0
         reach: 32.551
-      landedMade: 2.590 km
-      reach:
-        extra: 2.585 km
-        flown: 2.585 km
+        distance: 32.551
+        leading: 2.6
       velocity:
         ss: 2019-07-11T12:34:11.536861478257Z
         gs: 2019-07-11T12:30:00Z
@@ -224,24 +230,26 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: 2.585 km
+        flown: 2.585 km
+      landedMade: 2.590 km
       stoppedAlt: 393.000 m
   - - - '18'
       - Petros Miskos
     - place: '6'
       total: 34
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 32.551
-        leading: 1.8
         arrival: 0
         time: 0
         reach: 32.551
-      landedMade: 2.090 km
-      reach:
-        extra: 2.078 km
-        flown: 2.078 km
+        distance: 32.551
+        leading: 1.8
       velocity:
         ss: 2019-07-11T12:38:44.2748948065Z
         gs: 2019-07-11T12:30:00Z
@@ -251,24 +259,26 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: 2.078 km
+        flown: 2.078 km
+      landedMade: 2.090 km
       stoppedAlt: 0.000 m
   - - - '24'
       - Slava Jelić
     - place: 7=
       total: 33
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 32.551
-        leading: 0
         arrival: 0
         time: 0
         reach: 32.551
-      landedMade: -5.832 km
-      reach:
-        extra: -0.953 km
-        flown: -0.953 km
+        distance: 32.551
+        leading: 0
       velocity:
         ss: 2019-07-11T12:57:53.503642234363Z
         gs: 2019-07-11T12:30:00Z
@@ -278,24 +288,26 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: -0.953 km
+        flown: -0.953 km
+      landedMade: -5.832 km
       stoppedAlt: 455.000 m
   - - - '26'
       - Stjepan Zjacic
     - place: 7=
       total: 33
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 32.551
-        leading: 0
         arrival: 0
         time: 0
         reach: 32.551
-      landedMade: -5.775 km
-      reach:
-        extra: -1.286 km
-        flown: -1.286 km
+        distance: 32.551
+        leading: 0
       velocity:
         ss: 2019-07-11T13:36:58.971089150019Z
         gs: 2019-07-11T12:30:00Z
@@ -305,62 +317,68 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: -1.286 km
+        flown: -1.286 km
+      landedMade: -5.775 km
       stoppedAlt: 454.000 m
   - - - '35'
       - Giselle Giampietri
     - place: 7=
       total: 33
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 32.551
-        leading: 0
         arrival: 0
         time: 0
         reach: 32.551
-      landedMade: 2.992 km
+        distance: 32.551
+        leading: 0
+      velocity: null
       reach:
         extra: 2.992 km
         flown: 2.992 km
-      velocity: null
+      landedMade: 2.992 km
       stoppedAlt: null
   - - - '32'
       - Laura Grakalich
     - place: 7=
       total: 33
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 32.551
-        leading: 0
         arrival: 0
         time: 0
         reach: 32.551
-      landedMade: 2.992 km
+        distance: 32.551
+        leading: 0
+      velocity: null
       reach:
         extra: 2.992 km
         flown: 2.992 km
-      velocity: null
+      landedMade: 2.992 km
       stoppedAlt: null
 - - - - '10'
       - Igor Eržen
     - place: '1'
       total: 297
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 231.792
-        leading: 15.4
         arrival: 0
         time: 50.2
         reach: 231.792
-      landedMade: 15.729 km
-      reach:
-        extra: 15.729 km
-        flown: 15.729 km
+        distance: 231.792
+        leading: 15.4
       velocity:
         ss: 2019-07-12T12:20:32.539533662954Z
         gs: 2019-07-12T11:30:00Z
@@ -370,24 +388,26 @@ score:
         gsElapsed: 2.014693 h
         ssVelocity: 13.42 km / h
         gsVelocity: 7.81 km / h
+      reach:
+        extra: 15.729 km
+        flown: 15.729 km
+      landedMade: 15.729 km
       stoppedAlt: null
   - - - '19'
       - Rafal Cypcar
     - place: '2'
       total: 232
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 205.369
-        leading: 27
         arrival: 0
         time: 0
         reach: 205.369
-      landedMade: 13.880 km
-      reach:
-        extra: 13.936 km
-        flown: 13.936 km
+        distance: 205.369
+        leading: 27
       velocity:
         ss: 2019-07-12T12:20:58.446181680987Z
         gs: 2019-07-12T11:30:00Z
@@ -397,24 +417,26 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: 13.936 km
+        flown: 13.936 km
+      landedMade: 13.880 km
       stoppedAlt: 312.000 m
   - - - '15'
       - Mitja Jug
     - place: '3'
       total: 173
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 158.771
-        leading: 14.4
         arrival: 0
         time: 0
         reach: 158.771
-      landedMade: 10.704 km
-      reach:
-        extra: 10.774 km
-        flown: 10.774 km
+        distance: 158.771
+        leading: 14.4
       velocity:
         ss: 2019-07-12T12:20:38.32862197683Z
         gs: 2019-07-12T11:30:00Z
@@ -424,24 +446,26 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: 10.774 km
+        flown: 10.774 km
+      landedMade: 10.704 km
       stoppedAlt: 339.000 m
   - - - '11'
       - Jerko Odžak
     - place: '4'
       total: 45
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 45.445
-        leading: 0
         arrival: 0
         time: 0
         reach: 45.445
-      landedMade: 3.082 km
-      reach:
-        extra: 3.084 km
-        flown: 3.084 km
+        distance: 45.445
+        leading: 0
       velocity:
         ss: 2019-07-12T12:57:23.678953056945Z
         gs: 2019-07-12T11:30:00Z
@@ -451,24 +475,26 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: 3.084 km
+        flown: 3.084 km
+      landedMade: 3.082 km
       stoppedAlt: 0.000 m
   - - - '18'
       - Petros Miskos
     - place: 5=
       total: 44
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 44.211
-        leading: 0
         arrival: 0
         time: 0
         reach: 44.211
-      landedMade: -0.517 km
-      reach:
-        extra: -0.010 km
-        flown: -0.010 km
+        distance: 44.211
+        leading: 0
       velocity:
         ss: 2019-07-12T12:25:26.9200783891Z
         gs: 2019-07-12T11:30:00Z
@@ -478,24 +504,26 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: -0.010 km
+        flown: -0.010 km
+      landedMade: -0.517 km
       stoppedAlt: 0.000 m
   - - - '22'
       - Sandi Krč
     - place: 5=
       total: 44
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 44.211
-        leading: 0
         arrival: 0
         time: 0
         reach: 44.211
-      landedMade: -0.011 km
-      reach:
-        extra: 1.234 km
-        flown: 1.234 km
+        distance: 44.211
+        leading: 0
       velocity:
         ss: 2019-07-12T12:24:42.445328552143Z
         gs: 2019-07-12T11:30:00Z
@@ -505,24 +533,26 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: 1.234 km
+        flown: 1.234 km
+      landedMade: -0.011 km
       stoppedAlt: 436.000 m
   - - - '24'
       - Slava Jelić
     - place: 5=
       total: 44
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 44.211
-        leading: 0
         arrival: 0
         time: 0
         reach: 44.211
-      landedMade: -0.537 km
-      reach:
-        extra: 0.224 km
-        flown: 0.224 km
+        distance: 44.211
+        leading: 0
       velocity:
         ss: 2019-07-12T13:48:54.21326003404Z
         gs: 2019-07-12T11:30:00Z
@@ -532,24 +562,26 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: 0.224 km
+        flown: 0.224 km
+      landedMade: -0.537 km
       stoppedAlt: 0.000 m
   - - - '26'
       - Stjepan Zjacic
     - place: 5=
       total: 44
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 44.211
-        leading: 0
         arrival: 0
         time: 0
         reach: 44.211
-      landedMade: -0.521 km
-      reach:
-        extra: 0.317 km
-        flown: 0.317 km
+        distance: 44.211
+        leading: 0
       velocity:
         ss: 2019-07-12T13:02:33.464943124335Z
         gs: 2019-07-12T11:30:00Z
@@ -559,63 +591,69 @@ score:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: 0.317 km
+        flown: 0.317 km
+      landedMade: -0.521 km
       stoppedAlt: 517.000 m
   - - - '35'
       - Giselle Giampietri
     - place: 5=
       total: 44
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 44.211
-        leading: 0
         arrival: 0
         time: 0
         reach: 44.211
-      landedMade: 2.994 km
+        distance: 44.211
+        leading: 0
+      velocity: null
       reach:
         extra: 2.994 km
         flown: 2.994 km
-      velocity: null
+      landedMade: 2.994 km
       stoppedAlt: null
   - - - '32'
       - Laura Grakalich
     - place: 5=
       total: 44
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 44.211
-        leading: 0
         arrival: 0
         time: 0
         reach: 44.211
-      landedMade: 2.994 km
+        distance: 44.211
+        leading: 0
+      velocity: null
       reach:
         extra: 2.994 km
         flown: 2.994 km
-      velocity: null
+      landedMade: 2.994 km
       stoppedAlt: null
 scoreDf:
 - - - - '15'
       - Mitja Jug
     - place: '1'
       total: 118
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 114.072
-        leading: 3.9
         arrival: 0
         time: 0
         reach: 114.072
-      landedMade: 8.449 km
-      reach:
-        extra: 10.513 km
-        flown: 10.513 km
+        distance: 114.072
+        leading: 3.9
       velocity:
         ss: 2019-07-11T12:37:25.732647693693Z
         gs: 2019-07-11T12:30:00Z
@@ -625,24 +663,26 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: 10.513 km
+        flown: 10.513 km
+      landedMade: 8.449 km
       stoppedAlt: 431.000 m
   - - - '19'
       - Rafal Cypcar
     - place: '2'
       total: 87
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 81.499
-        leading: 5.9
         arrival: 0
         time: 0
         reach: 81.499
-      landedMade: 7.279 km
-      reach:
-        extra: 7.511 km
-        flown: 7.511 km
+        distance: 81.499
+        leading: 5.9
       velocity:
         ss: 2019-07-11T12:44:17.011310594623Z
         gs: 2019-07-11T12:30:00Z
@@ -652,24 +692,26 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: 7.511 km
+        flown: 7.511 km
+      landedMade: 7.279 km
       stoppedAlt: 387.000 m
   - - - '11'
       - Jerko Odžak
     - place: '3'
       total: 76
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 72.938
-        leading: 2.7
         arrival: 0
         time: 0
         reach: 72.938
-      landedMade: 5.029 km
-      reach:
-        extra: 6.722 km
-        flown: 6.722 km
+        distance: 72.938
+        leading: 2.7
       velocity:
         ss: 2019-07-11T12:56:45.871423804628Z
         gs: 2019-07-11T12:30:00Z
@@ -679,24 +721,26 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: 6.722 km
+        flown: 6.722 km
+      landedMade: 5.029 km
       stoppedAlt: 0.000 m
   - - - '10'
       - Igor Eržen
     - place: '4'
       total: 54
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 49.632
-        leading: 4.3
         arrival: 0
         time: 0
         reach: 49.632
-      landedMade: 4.449 km
-      reach:
-        extra: 4.574 km
-        flown: 4.574 km
+        distance: 49.632
+        leading: 4.3
       velocity:
         ss: 2019-07-11T12:30:44.83123437862Z
         gs: 2019-07-11T12:30:00Z
@@ -706,24 +750,26 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: 4.574 km
+        flown: 4.574 km
+      landedMade: 4.449 km
       stoppedAlt: 0.000 m
   - - - '22'
       - Sandi Krč
     - place: '5'
       total: 35
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 32.551
-        leading: 2.6
         arrival: 0
         time: 0
         reach: 32.551
-      landedMade: 2.590 km
-      reach:
-        extra: 2.585 km
-        flown: 2.585 km
+        distance: 32.551
+        leading: 2.6
       velocity:
         ss: 2019-07-11T12:34:11.536861478257Z
         gs: 2019-07-11T12:30:00Z
@@ -733,24 +779,26 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: 2.585 km
+        flown: 2.585 km
+      landedMade: 2.590 km
       stoppedAlt: 393.000 m
   - - - '18'
       - Petros Miskos
     - place: '6'
       total: 34
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 32.551
-        leading: 1.8
         arrival: 0
         time: 0
         reach: 32.551
-      landedMade: 2.090 km
-      reach:
-        extra: 2.078 km
-        flown: 2.078 km
+        distance: 32.551
+        leading: 1.8
       velocity:
         ss: 2019-07-11T12:38:44.2748948065Z
         gs: 2019-07-11T12:30:00Z
@@ -760,24 +808,26 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: 2.078 km
+        flown: 2.078 km
+      landedMade: 2.090 km
       stoppedAlt: 0.000 m
   - - - '24'
       - Slava Jelić
     - place: 7=
       total: 33
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 32.551
-        leading: 0
         arrival: 0
         time: 0
         reach: 32.551
-      landedMade: -5.832 km
-      reach:
-        extra: -0.953 km
-        flown: -0.953 km
+        distance: 32.551
+        leading: 0
       velocity:
         ss: 2019-07-11T12:57:53.503642234363Z
         gs: 2019-07-11T12:30:00Z
@@ -787,24 +837,26 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: -0.953 km
+        flown: -0.953 km
+      landedMade: -5.832 km
       stoppedAlt: 455.000 m
   - - - '26'
       - Stjepan Zjacic
     - place: 7=
       total: 33
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 32.551
-        leading: 0
         arrival: 0
         time: 0
         reach: 32.551
-      landedMade: -5.775 km
-      reach:
-        extra: -1.286 km
-        flown: -1.286 km
+        distance: 32.551
+        leading: 0
       velocity:
         ss: 2019-07-11T13:36:58.971089150019Z
         gs: 2019-07-11T12:30:00Z
@@ -814,24 +866,26 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: -1.286 km
+        flown: -1.286 km
+      landedMade: -5.775 km
       stoppedAlt: 454.000 m
 - - - - '10'
       - Igor Eržen
     - place: '1'
       total: 297
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 231.792
-        leading: 15.4
         arrival: 0
         time: 50.2
         reach: 231.792
-      landedMade: 15.729 km
-      reach:
-        extra: 15.729 km
-        flown: 15.729 km
+        distance: 231.792
+        leading: 15.4
       velocity:
         ss: 2019-07-12T12:20:32.539533662954Z
         gs: 2019-07-12T11:30:00Z
@@ -841,24 +895,26 @@ scoreDf:
         gsElapsed: 2.014693 h
         ssVelocity: 13.42 km / h
         gsVelocity: 7.81 km / h
+      reach:
+        extra: 15.729 km
+        flown: 15.729 km
+      landedMade: 15.729 km
       stoppedAlt: null
   - - - '19'
       - Rafal Cypcar
     - place: '2'
       total: 232
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 205.369
-        leading: 27
         arrival: 0
         time: 0
         reach: 205.369
-      landedMade: 13.880 km
-      reach:
-        extra: 13.936 km
-        flown: 13.936 km
+        distance: 205.369
+        leading: 27
       velocity:
         ss: 2019-07-12T12:20:58.446181680987Z
         gs: 2019-07-12T11:30:00Z
@@ -868,24 +924,26 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: 13.936 km
+        flown: 13.936 km
+      landedMade: 13.880 km
       stoppedAlt: 312.000 m
   - - - '15'
       - Mitja Jug
     - place: '3'
       total: 173
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 158.771
-        leading: 14.4
         arrival: 0
         time: 0
         reach: 158.771
-      landedMade: 10.704 km
-      reach:
-        extra: 10.774 km
-        flown: 10.774 km
+        distance: 158.771
+        leading: 14.4
       velocity:
         ss: 2019-07-12T12:20:38.32862197683Z
         gs: 2019-07-12T11:30:00Z
@@ -895,24 +953,26 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: 10.774 km
+        flown: 10.774 km
+      landedMade: 10.704 km
       stoppedAlt: 339.000 m
   - - - '11'
       - Jerko Odžak
     - place: '4'
       total: 45
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 45.445
-        leading: 0
         arrival: 0
         time: 0
         reach: 45.445
-      landedMade: 3.082 km
-      reach:
-        extra: 3.084 km
-        flown: 3.084 km
+        distance: 45.445
+        leading: 0
       velocity:
         ss: 2019-07-12T12:57:23.678953056945Z
         gs: 2019-07-12T11:30:00Z
@@ -922,24 +982,26 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: 3.084 km
+        flown: 3.084 km
+      landedMade: 3.082 km
       stoppedAlt: 0.000 m
   - - - '18'
       - Petros Miskos
     - place: 5=
       total: 44
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 44.211
-        leading: 0
         arrival: 0
         time: 0
         reach: 44.211
-      landedMade: -0.517 km
-      reach:
-        extra: -0.010 km
-        flown: -0.010 km
+        distance: 44.211
+        leading: 0
       velocity:
         ss: 2019-07-12T12:25:26.9200783891Z
         gs: 2019-07-12T11:30:00Z
@@ -949,24 +1011,26 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: -0.010 km
+        flown: -0.010 km
+      landedMade: -0.517 km
       stoppedAlt: 0.000 m
   - - - '22'
       - Sandi Krč
     - place: 5=
       total: 44
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 44.211
-        leading: 0
         arrival: 0
         time: 0
         reach: 44.211
-      landedMade: -0.011 km
-      reach:
-        extra: 1.234 km
-        flown: 1.234 km
+        distance: 44.211
+        leading: 0
       velocity:
         ss: 2019-07-12T12:24:42.445328552143Z
         gs: 2019-07-12T11:30:00Z
@@ -976,24 +1040,26 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: 1.234 km
+        flown: 1.234 km
+      landedMade: -0.011 km
       stoppedAlt: 436.000 m
   - - - '24'
       - Slava Jelić
     - place: 5=
       total: 44
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 44.211
-        leading: 0
         arrival: 0
         time: 0
         reach: 44.211
-      landedMade: -0.537 km
-      reach:
-        extra: 0.224 km
-        flown: 0.224 km
+        distance: 44.211
+        leading: 0
       velocity:
         ss: 2019-07-12T13:48:54.21326003404Z
         gs: 2019-07-12T11:30:00Z
@@ -1003,24 +1069,26 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: 0.224 km
+        flown: 0.224 km
+      landedMade: -0.537 km
       stoppedAlt: 0.000 m
   - - - '26'
       - Stjepan Zjacic
     - place: 5=
       total: 44
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 44.211
-        leading: 0
         arrival: 0
         time: 0
         reach: 44.211
-      landedMade: -0.521 km
-      reach:
-        extra: 0.317 km
-        flown: 0.317 km
+        distance: 44.211
+        leading: 0
       velocity:
         ss: 2019-07-12T13:02:33.464943124335Z
         gs: 2019-07-12T11:30:00Z
@@ -1030,81 +1098,93 @@ scoreDf:
         gsElapsed: null
         ssVelocity: null
         gsVelocity: null
+      reach:
+        extra: 0.317 km
+        flown: 0.317 km
+      landedMade: -0.521 km
       stoppedAlt: 517.000 m
 scoreDfNoTrack:
 - - - - '35'
       - Giselle Giampietri
     - place: 1=
       total: 33
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 32.551
-        leading: 0
         arrival: 0
         time: 0
         reach: 32.551
-      landedMade: 2.992 km
+        distance: 32.551
+        leading: 0
+      velocity: null
       reach:
         extra: 2.992 km
         flown: 2.992 km
-      velocity: null
+      landedMade: 2.992 km
       stoppedAlt: null
   - - - '32'
       - Laura Grakalich
     - place: 1=
       total: 33
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 32.551
-        leading: 0
         arrival: 0
         time: 0
         reach: 32.551
-      landedMade: 2.992 km
+        distance: 32.551
+        leading: 0
+      velocity: null
       reach:
         extra: 2.992 km
         flown: 2.992 km
-      velocity: null
+      landedMade: 2.992 km
       stoppedAlt: null
 - - - - '35'
       - Giselle Giampietri
     - place: 1=
       total: 44
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 44.211
-        leading: 0
         arrival: 0
         time: 0
         reach: 44.211
-      landedMade: 2.994 km
+        distance: 44.211
+        leading: 0
+      velocity: null
       reach:
         extra: 2.994 km
         flown: 2.994 km
-      velocity: null
+      landedMade: 2.994 km
       stoppedAlt: null
   - - - '32'
       - Laura Grakalich
     - place: 1=
       total: 44
+      jump: null
+      penaltiesJump: []
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 0
-        distance: 44.211
-        leading: 0
         arrival: 0
         time: 0
         reach: 44.211
-      landedMade: 2.994 km
+        distance: 44.211
+        leading: 0
+      velocity: null
       reach:
         extra: 2.994 km
         flown: 2.994 km
-      velocity: null
+      landedMade: 2.994 km
       stoppedAlt: null

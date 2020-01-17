@@ -22,7 +22,8 @@ nominal:
   free: 3.000 km
   time: 0.666667 h
 compTweak:
-  arrivalWeightScaling: null
+  arrivalRank: false
+  arrivalTime: false
   leadingWeightScaling: null
 tasks:
 - taskName: Task 1
@@ -115,11 +116,13 @@ tasks:
   - 2019-07-11T12:30:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: false
+    arrivalTime: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 0 s
     earlyPenalty: 0 s
+  penalsAuto: []
   penals: []
 - taskName: Task 2
   zones:
@@ -221,11 +224,13 @@ tasks:
   - 2019-07-12T11:30:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: false
+    arrivalTime: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 0 s
     earlyPenalty: 0 s
+  penalsAuto: []
   penals: []
 taskFolders:
 - - Task 1
