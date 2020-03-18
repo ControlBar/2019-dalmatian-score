@@ -19,68 +19,71 @@ raceTime:
   leadClose: 20367.46
   openClose: 23400
   tickClose: 20367.46
+raceDistance:
+- 22.682232 km
+- 15.728733 km
 sumDistance:
 - 17.320928 km
 - 31.521932 km
 leadAreaToCoef:
-- 0.00000107983132 km^-2 s^-1
-- 0.00000224563937 km^-2 s^-1
+- 0.00002449298445 km^-1 s^-1
+- 0.00003532106213 km^-1 s^-1
 leadCoefMin:
-- 1.72705848
-- 0.78376497
+- 2.16552519
+- 1.25069591
 leadRank:
 - - - - '19'
       - Rafal Cypcar
-    - area: 1599378.0284 km^2 s
-      coef: 1.72705848
+    - area: 88414.1004 km s
+      coef: 2.16552519
       frac: 1
   - - - '10'
       - Igor Eržen
-    - area: 1771894.8602 km^2 s
-      coef: 1.91334756
-      frac: 0.72813336
+    - area: 94370.6214 km s
+      coef: 2.31141816
+      frac: 0.78579225
   - - - '15'
       - Mitja Jug
-    - area: 1830750.1432 km^2 s
-      coef: 1.97690134
-      frac: 0.66936999
+    - area: 94581.7051 km s
+      coef: 2.31658823
+      frac: 0.78076103
   - - - '11'
       - Jerko Odžak
-    - area: 2075194.4579 km^2 s
-      coef: 2.24085996
-      frac: 0.46531924
+    - area: 101657.0180 km s
+      coef: 2.48988376
+      frac: 0.63510954
   - - - '22'
       - Sandi Krč
-    - area: 2097897.0159 km^2 s
-      coef: 2.2653749
-      frac: 0.44844427
+    - area: 102811.6764 km s
+      coef: 2.51816479
+      frac: 0.61419637
   - - - '18'
       - Petros Miskos
-    - area: 2305340.6607 km^2 s
-      coef: 2.48937904
-      frac: 0.30445899
+    - area: 107656.4766 km s
+      coef: 2.63682841
+      frac: 0.53189222
 - - - - '19'
       - Rafal Cypcar
-    - area: 349016.4013 km^2 s
-      coef: 0.78376497
+    - area: 35409.3517 km s
+      coef: 1.25069591
       frac: 1
   - - - '10'
       - Igor Eržen
-    - area: 460085.4752 km^2 s
-      coef: 1.03318606
-      frac: 0.57023917
+    - area: 40642.2342 km s
+      coef: 1.43552688
+      frac: 0.69883864
   - - - '15'
       - Mitja Jug
-    - area: 474531.7965 km^2 s
-      coef: 1.06562729
-      frac: 0.53373868
+    - area: 50797.4943 km s
+      coef: 1.79422145
+      frac: 0.38184689
   - - - '11'
       - Jerko Odžak
-    - area: 901573.0418 km^2 s
-      coef: 2.02460792
+    - area: 80634.8843 km s
+      coef: 2.84810976
       frac: 0
   - - - '22'
       - Sandi Krč
-    - area: 902190.0732 km^2 s
-      coef: 2.02599355
+    - area: 83708.7636 km s
+      coef: 2.95668244
       frac: 0

@@ -93,7 +93,7 @@ score:
 - - - - '15'
       - Mitja Jug
     - place: '1'
-      total: 118.004
+      total: 118.658
       jump: null
       penalties: []
       breakdown:
@@ -102,7 +102,7 @@ score:
         time: 0
         reach: 114.072
         distance: 114.072
-        leading: 3.9
+        leading: 4.6
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -120,7 +120,7 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 118.004
+      subtotal: 118.658
       landedMade: 8.449 km
       stoppedAlt: 431.000 m
   - - - '19'
@@ -159,7 +159,7 @@ score:
   - - - '11'
       - Jerko Odžak
     - place: '3'
-      total: 75.672
+      total: 76.669
       jump: null
       penalties: []
       breakdown:
@@ -168,7 +168,7 @@ score:
         time: 0
         reach: 72.938
         distance: 72.938
-        leading: 2.7
+        leading: 3.7
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -186,13 +186,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 75.672
+      subtotal: 76.669
       landedMade: 5.029 km
       stoppedAlt: 0.000 m
   - - - '10'
       - Igor Eržen
     - place: '4'
-      total: 53.909
+      total: 54.248
       jump: null
       penalties: []
       breakdown:
@@ -201,7 +201,7 @@ score:
         time: 0
         reach: 49.632
         distance: 49.632
-        leading: 4.3
+        leading: 4.6
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -219,13 +219,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 53.909
+      subtotal: 54.248
       landedMade: 4.449 km
       stoppedAlt: 0.000 m
   - - - '22'
       - Sandi Krč
-    - place: '5'
-      total: 35.185
+    - place: 5=
+      total: 36.159
       jump: null
       penalties: []
       breakdown:
@@ -234,7 +234,7 @@ score:
         time: 0
         reach: 32.551
         distance: 32.551
-        leading: 2.6
+        leading: 3.6
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -252,13 +252,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 35.185
+      subtotal: 36.159
       landedMade: 2.590 km
       stoppedAlt: 393.000 m
   - - - '18'
       - Petros Miskos
-    - place: '6'
-      total: 34.339
+    - place: 5=
+      total: 35.676
       jump: null
       penalties: []
       breakdown:
@@ -267,7 +267,7 @@ score:
         time: 0
         reach: 32.551
         distance: 32.551
-        leading: 1.8
+        leading: 3.1
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -285,7 +285,7 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 34.339
+      subtotal: 35.676
       landedMade: 2.090 km
       stoppedAlt: 0.000 m
   - - - '24'
@@ -407,7 +407,7 @@ score:
 - - - - '10'
       - Igor Eržen
     - place: '1'
-      total: 297.419
+      total: 300.896
       jump: null
       penalties: []
       breakdown:
@@ -416,7 +416,7 @@ score:
         time: 50.2
         reach: 231.792
         distance: 231.792
-        leading: 15.4
+        leading: 18.9
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -434,7 +434,7 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 297.419
+      subtotal: 300.896
       landedMade: 15.729 km
       stoppedAlt: null
   - - - '19'
@@ -473,7 +473,7 @@ score:
   - - - '15'
       - Mitja Jug
     - place: '3'
-      total: 173.201
+      total: 169.095
       jump: null
       penalties: []
       breakdown:
@@ -482,7 +482,7 @@ score:
         time: 0
         reach: 158.771
         distance: 158.771
-        leading: 14.4
+        leading: 10.3
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -500,7 +500,7 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 173.201
+      subtotal: 169.095
       landedMade: 10.704 km
       stoppedAlt: 339.000 m
   - - - '11'
@@ -722,7 +722,7 @@ scoreDf:
 - - - - '15'
       - Mitja Jug
     - place: '1'
-      total: 118.004
+      total: 118.658
       jump: null
       penalties: []
       breakdown:
@@ -731,7 +731,7 @@ scoreDf:
         time: 0
         reach: 114.072
         distance: 114.072
-        leading: 3.9
+        leading: 4.6
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -749,7 +749,7 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 118.004
+      subtotal: 118.658
       landedMade: 8.449 km
       stoppedAlt: 431.000 m
   - - - '19'
@@ -788,7 +788,7 @@ scoreDf:
   - - - '11'
       - Jerko Odžak
     - place: '3'
-      total: 75.672
+      total: 76.669
       jump: null
       penalties: []
       breakdown:
@@ -797,7 +797,7 @@ scoreDf:
         time: 0
         reach: 72.938
         distance: 72.938
-        leading: 2.7
+        leading: 3.7
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -815,13 +815,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 75.672
+      subtotal: 76.669
       landedMade: 5.029 km
       stoppedAlt: 0.000 m
   - - - '10'
       - Igor Eržen
     - place: '4'
-      total: 53.909
+      total: 54.248
       jump: null
       penalties: []
       breakdown:
@@ -830,7 +830,7 @@ scoreDf:
         time: 0
         reach: 49.632
         distance: 49.632
-        leading: 4.3
+        leading: 4.6
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -848,13 +848,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 53.909
+      subtotal: 54.248
       landedMade: 4.449 km
       stoppedAlt: 0.000 m
   - - - '22'
       - Sandi Krč
-    - place: '5'
-      total: 35.185
+    - place: 5=
+      total: 36.159
       jump: null
       penalties: []
       breakdown:
@@ -863,7 +863,7 @@ scoreDf:
         time: 0
         reach: 32.551
         distance: 32.551
-        leading: 2.6
+        leading: 3.6
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -881,13 +881,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 35.185
+      subtotal: 36.159
       landedMade: 2.590 km
       stoppedAlt: 393.000 m
   - - - '18'
       - Petros Miskos
-    - place: '6'
-      total: 34.339
+    - place: 5=
+      total: 35.676
       jump: null
       penalties: []
       breakdown:
@@ -896,7 +896,7 @@ scoreDf:
         time: 0
         reach: 32.551
         distance: 32.551
-        leading: 1.8
+        leading: 3.1
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -914,7 +914,7 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 34.339
+      subtotal: 35.676
       landedMade: 2.090 km
       stoppedAlt: 0.000 m
   - - - '24'
@@ -986,7 +986,7 @@ scoreDf:
 - - - - '10'
       - Igor Eržen
     - place: '1'
-      total: 297.419
+      total: 300.896
       jump: null
       penalties: []
       breakdown:
@@ -995,7 +995,7 @@ scoreDf:
         time: 50.2
         reach: 231.792
         distance: 231.792
-        leading: 15.4
+        leading: 18.9
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -1013,7 +1013,7 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 297.419
+      subtotal: 300.896
       landedMade: 15.729 km
       stoppedAlt: null
   - - - '19'
@@ -1052,7 +1052,7 @@ scoreDf:
   - - - '15'
       - Mitja Jug
     - place: '3'
-      total: 173.201
+      total: 169.095
       jump: null
       penalties: []
       breakdown:
@@ -1061,7 +1061,7 @@ scoreDf:
         time: 0
         reach: 158.771
         distance: 158.771
-        leading: 14.4
+        leading: 10.3
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -1079,7 +1079,7 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 173.201
+      subtotal: 169.095
       landedMade: 10.704 km
       stoppedAlt: 339.000 m
   - - - '11'
