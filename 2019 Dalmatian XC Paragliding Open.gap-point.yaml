@@ -93,7 +93,7 @@ score:
 - - - - '15'
       - Mitja Jug
     - place: '1'
-      total: 118.658
+      total: 118.773
       jump: null
       penalties: []
       breakdown:
@@ -102,7 +102,7 @@ score:
         time: 0
         reach: 114.072
         distance: 114.072
-        leading: 4.6
+        leading: 4.7
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -120,7 +120,7 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 118.658
+      subtotal: 118.773
       landedMade: 8.449 km
       stoppedAlt: 431.000 m
   - - - '19'
@@ -139,7 +139,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-07-11T12:44:17.011310594623Z
+        ss: 2019-07-11T12:36:12.679606277101Z
         gs: 2019-07-11T12:30:00Z
         es: null
         ssDistance: null
@@ -159,7 +159,7 @@ score:
   - - - '11'
       - Jerko Odžak
     - place: '3'
-      total: 76.669
+      total: 76.563
       jump: null
       penalties: []
       breakdown:
@@ -168,11 +168,11 @@ score:
         time: 0
         reach: 72.938
         distance: 72.938
-        leading: 3.7
+        leading: 3.6
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-07-11T12:56:45.871423804628Z
+        ss: 2019-07-11T12:40:31.855048932455Z
         gs: 2019-07-11T12:30:00Z
         es: null
         ssDistance: null
@@ -186,13 +186,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 76.669
+      subtotal: 76.563
       landedMade: 5.029 km
       stoppedAlt: 0.000 m
   - - - '10'
       - Igor Eržen
     - place: '4'
-      total: 54.248
+      total: 54.364
       jump: null
       penalties: []
       breakdown:
@@ -201,7 +201,7 @@ score:
         time: 0
         reach: 49.632
         distance: 49.632
-        leading: 4.6
+        leading: 4.7
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -219,13 +219,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 54.248
+      subtotal: 54.364
       landedMade: 4.449 km
       stoppedAlt: 0.000 m
   - - - '22'
       - Sandi Krč
     - place: 5=
-      total: 36.159
+      total: 36.248
       jump: null
       penalties: []
       breakdown:
@@ -234,7 +234,7 @@ score:
         time: 0
         reach: 32.551
         distance: 32.551
-        leading: 3.6
+        leading: 3.7
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -252,13 +252,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 36.159
+      subtotal: 36.248
       landedMade: 2.590 km
       stoppedAlt: 393.000 m
   - - - '18'
       - Petros Miskos
     - place: 5=
-      total: 35.676
+      total: 35.756
       jump: null
       penalties: []
       breakdown:
@@ -267,11 +267,11 @@ score:
         time: 0
         reach: 32.551
         distance: 32.551
-        leading: 3.1
+        leading: 3.2
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-07-11T12:38:44.2748948065Z
+        ss: 2019-07-11T12:34:58.971829836328Z
         gs: 2019-07-11T12:30:00Z
         es: null
         ssDistance: null
@@ -285,13 +285,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 35.676
+      subtotal: 35.756
       landedMade: 2.090 km
       stoppedAlt: 0.000 m
   - - - '24'
       - Slava Jelić
-    - place: 7=
-      total: 32.551
+    - place: '7'
+      total: 34.71
       jump: null
       penalties: []
       breakdown:
@@ -300,11 +300,11 @@ score:
         time: 0
         reach: 32.551
         distance: 32.551
-        leading: 0
+        leading: 2.2
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-07-11T12:57:53.503642234363Z
+        ss: 2019-07-11T12:45:09.506725012262Z
         gs: 2019-07-11T12:30:00Z
         es: null
         ssDistance: null
@@ -318,12 +318,12 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 32.551
+      subtotal: 34.71
       landedMade: -5.832 km
       stoppedAlt: 455.000 m
   - - - '26'
       - Stjepan Zjacic
-    - place: 7=
+    - place: 8=
       total: 32.551
       jump: null
       penalties: []
@@ -356,7 +356,7 @@ score:
       stoppedAlt: 454.000 m
   - - - '35'
       - Giselle Giampietri
-    - place: 7=
+    - place: 8=
       total: 32.551
       jump: null
       penalties: []
@@ -381,7 +381,7 @@ score:
       stoppedAlt: null
   - - - '32'
       - Laura Grakalich
-    - place: 7=
+    - place: 8=
       total: 32.551
       jump: null
       penalties: []
@@ -407,7 +407,7 @@ score:
 - - - - '10'
       - Igor Eržen
     - place: '1'
-      total: 300.896
+      total: 300.933
       jump: null
       penalties: []
       breakdown:
@@ -434,7 +434,7 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 300.896
+      subtotal: 300.933
       landedMade: 15.729 km
       stoppedAlt: null
   - - - '19'
@@ -473,7 +473,7 @@ score:
   - - - '15'
       - Mitja Jug
     - place: '3'
-      total: 169.095
+      total: 169.178
       jump: null
       penalties: []
       breakdown:
@@ -482,7 +482,7 @@ score:
         time: 0
         reach: 158.771
         distance: 158.771
-        leading: 10.3
+        leading: 10.4
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -500,7 +500,7 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 169.095
+      subtotal: 169.178
       landedMade: 10.704 km
       stoppedAlt: 339.000 m
   - - - '11'
@@ -519,7 +519,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-07-12T12:57:23.678953056945Z
+        ss: 2019-07-12T12:51:09.155980981395Z
         gs: 2019-07-12T11:30:00Z
         es: null
         ssDistance: null
@@ -552,7 +552,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-07-12T12:25:26.9200783891Z
+        ss: 2019-07-12T12:22:11.938639438654Z
         gs: 2019-07-12T11:30:00Z
         es: null
         ssDistance: null
@@ -585,7 +585,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-07-12T12:24:42.445328552143Z
+        ss: 2019-07-12T12:19:58.084881682642Z
         gs: 2019-07-12T11:30:00Z
         es: null
         ssDistance: null
@@ -618,7 +618,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-07-12T13:48:54.21326003404Z
+        ss: 2019-07-12T13:33:19.851458793552Z
         gs: 2019-07-12T11:30:00Z
         es: null
         ssDistance: null
@@ -651,7 +651,7 @@ score:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-07-12T13:02:33.464943124335Z
+        ss: 2019-07-12T12:57:44.904884597246Z
         gs: 2019-07-12T11:30:00Z
         es: null
         ssDistance: null
@@ -722,7 +722,7 @@ scoreDf:
 - - - - '15'
       - Mitja Jug
     - place: '1'
-      total: 118.658
+      total: 118.773
       jump: null
       penalties: []
       breakdown:
@@ -731,7 +731,7 @@ scoreDf:
         time: 0
         reach: 114.072
         distance: 114.072
-        leading: 4.6
+        leading: 4.7
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -749,7 +749,7 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 118.658
+      subtotal: 118.773
       landedMade: 8.449 km
       stoppedAlt: 431.000 m
   - - - '19'
@@ -768,7 +768,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-07-11T12:44:17.011310594623Z
+        ss: 2019-07-11T12:36:12.679606277101Z
         gs: 2019-07-11T12:30:00Z
         es: null
         ssDistance: null
@@ -788,7 +788,7 @@ scoreDf:
   - - - '11'
       - Jerko Odžak
     - place: '3'
-      total: 76.669
+      total: 76.563
       jump: null
       penalties: []
       breakdown:
@@ -797,11 +797,11 @@ scoreDf:
         time: 0
         reach: 72.938
         distance: 72.938
-        leading: 3.7
+        leading: 3.6
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-07-11T12:56:45.871423804628Z
+        ss: 2019-07-11T12:40:31.855048932455Z
         gs: 2019-07-11T12:30:00Z
         es: null
         ssDistance: null
@@ -815,13 +815,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 76.669
+      subtotal: 76.563
       landedMade: 5.029 km
       stoppedAlt: 0.000 m
   - - - '10'
       - Igor Eržen
     - place: '4'
-      total: 54.248
+      total: 54.364
       jump: null
       penalties: []
       breakdown:
@@ -830,7 +830,7 @@ scoreDf:
         time: 0
         reach: 49.632
         distance: 49.632
-        leading: 4.6
+        leading: 4.7
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -848,13 +848,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 54.248
+      subtotal: 54.364
       landedMade: 4.449 km
       stoppedAlt: 0.000 m
   - - - '22'
       - Sandi Krč
     - place: 5=
-      total: 36.159
+      total: 36.248
       jump: null
       penalties: []
       breakdown:
@@ -863,7 +863,7 @@ scoreDf:
         time: 0
         reach: 32.551
         distance: 32.551
-        leading: 3.6
+        leading: 3.7
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -881,13 +881,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 36.159
+      subtotal: 36.248
       landedMade: 2.590 km
       stoppedAlt: 393.000 m
   - - - '18'
       - Petros Miskos
     - place: 5=
-      total: 35.676
+      total: 35.756
       jump: null
       penalties: []
       breakdown:
@@ -896,11 +896,11 @@ scoreDf:
         time: 0
         reach: 32.551
         distance: 32.551
-        leading: 3.1
+        leading: 3.2
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-07-11T12:38:44.2748948065Z
+        ss: 2019-07-11T12:34:58.971829836328Z
         gs: 2019-07-11T12:30:00Z
         es: null
         ssDistance: null
@@ -914,13 +914,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 35.676
+      subtotal: 35.756
       landedMade: 2.090 km
       stoppedAlt: 0.000 m
   - - - '24'
       - Slava Jelić
-    - place: 7=
-      total: 32.551
+    - place: '7'
+      total: 34.71
       jump: null
       penalties: []
       breakdown:
@@ -929,11 +929,11 @@ scoreDf:
         time: 0
         reach: 32.551
         distance: 32.551
-        leading: 0
+        leading: 2.2
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-07-11T12:57:53.503642234363Z
+        ss: 2019-07-11T12:45:09.506725012262Z
         gs: 2019-07-11T12:30:00Z
         es: null
         ssDistance: null
@@ -947,12 +947,12 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 32.551
+      subtotal: 34.71
       landedMade: -5.832 km
       stoppedAlt: 455.000 m
   - - - '26'
       - Stjepan Zjacic
-    - place: 7=
+    - place: '8'
       total: 32.551
       jump: null
       penalties: []
@@ -986,7 +986,7 @@ scoreDf:
 - - - - '10'
       - Igor Eržen
     - place: '1'
-      total: 300.896
+      total: 300.933
       jump: null
       penalties: []
       breakdown:
@@ -1013,7 +1013,7 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 300.896
+      subtotal: 300.933
       landedMade: 15.729 km
       stoppedAlt: null
   - - - '19'
@@ -1052,7 +1052,7 @@ scoreDf:
   - - - '15'
       - Mitja Jug
     - place: '3'
-      total: 169.095
+      total: 169.178
       jump: null
       penalties: []
       breakdown:
@@ -1061,7 +1061,7 @@ scoreDf:
         time: 0
         reach: 158.771
         distance: 158.771
-        leading: 10.3
+        leading: 10.4
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -1079,7 +1079,7 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 169.095
+      subtotal: 169.178
       landedMade: 10.704 km
       stoppedAlt: 339.000 m
   - - - '11'
@@ -1098,7 +1098,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-07-12T12:57:23.678953056945Z
+        ss: 2019-07-12T12:51:09.155980981395Z
         gs: 2019-07-12T11:30:00Z
         es: null
         ssDistance: null
@@ -1131,7 +1131,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-07-12T12:25:26.9200783891Z
+        ss: 2019-07-12T12:22:11.938639438654Z
         gs: 2019-07-12T11:30:00Z
         es: null
         ssDistance: null
@@ -1164,7 +1164,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-07-12T12:24:42.445328552143Z
+        ss: 2019-07-12T12:19:58.084881682642Z
         gs: 2019-07-12T11:30:00Z
         es: null
         ssDistance: null
@@ -1197,7 +1197,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-07-12T13:48:54.21326003404Z
+        ss: 2019-07-12T13:33:19.851458793552Z
         gs: 2019-07-12T11:30:00Z
         es: null
         ssDistance: null
@@ -1230,7 +1230,7 @@ scoreDf:
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2019-07-12T13:02:33.464943124335Z
+        ss: 2019-07-12T12:57:44.904884597246Z
         gs: 2019-07-12T11:30:00Z
         es: null
         ssDistance: null
