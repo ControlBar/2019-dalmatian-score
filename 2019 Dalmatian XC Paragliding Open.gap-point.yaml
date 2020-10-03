@@ -95,7 +95,10 @@ score:
     - place: '1'
       total: 118.773
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -118,7 +121,10 @@ score:
         extra: 10.513 km
         flown: 10.513 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 118.773
       landedMade: 8.449 km
@@ -128,7 +134,10 @@ score:
     - place: '2'
       total: 87.374
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -151,7 +160,10 @@ score:
         extra: 7.511 km
         flown: 7.511 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 87.374
       landedMade: 7.279 km
@@ -161,7 +173,10 @@ score:
     - place: '3'
       total: 76.563
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -184,7 +199,10 @@ score:
         extra: 6.722 km
         flown: 6.722 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 76.563
       landedMade: 5.029 km
@@ -194,7 +212,10 @@ score:
     - place: '4'
       total: 54.364
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -217,7 +238,10 @@ score:
         extra: 4.574 km
         flown: 4.574 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 54.364
       landedMade: 4.449 km
@@ -227,7 +251,10 @@ score:
     - place: 5=
       total: 36.248
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -250,7 +277,10 @@ score:
         extra: 2.585 km
         flown: 2.585 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 36.248
       landedMade: 2.590 km
@@ -260,7 +290,10 @@ score:
     - place: 5=
       total: 35.756
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -283,7 +316,10 @@ score:
         extra: 2.078 km
         flown: 2.078 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 35.756
       landedMade: 2.090 km
@@ -293,7 +329,10 @@ score:
     - place: '7'
       total: 34.71
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -316,7 +355,10 @@ score:
         extra: -0.953 km
         flown: -0.953 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 34.71
       landedMade: -5.832 km
@@ -326,7 +368,10 @@ score:
     - place: 8=
       total: 32.551
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -349,7 +394,10 @@ score:
         extra: -1.286 km
         flown: -1.286 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 32.551
       landedMade: -5.775 km
@@ -359,7 +407,10 @@ score:
     - place: 8=
       total: 32.551
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -374,7 +425,10 @@ score:
         extra: 2.992 km
         flown: 2.992 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 32.551
       landedMade: 2.992 km
@@ -384,7 +438,10 @@ score:
     - place: 8=
       total: 32.551
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -399,7 +456,10 @@ score:
         extra: 2.992 km
         flown: 2.992 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 32.551
       landedMade: 2.992 km
@@ -409,7 +469,10 @@ score:
     - place: '1'
       total: 300.933
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -432,7 +495,10 @@ score:
         extra: 15.729 km
         flown: 15.729 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 300.933
       landedMade: 15.729 km
@@ -442,7 +508,10 @@ score:
     - place: '2'
       total: 232.405
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -465,7 +534,10 @@ score:
         extra: 13.936 km
         flown: 13.936 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 232.405
       landedMade: 13.880 km
@@ -475,7 +547,10 @@ score:
     - place: '3'
       total: 169.178
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -498,7 +573,10 @@ score:
         extra: 10.774 km
         flown: 10.774 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 169.178
       landedMade: 10.704 km
@@ -508,7 +586,10 @@ score:
     - place: '4'
       total: 45.445
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -531,7 +612,10 @@ score:
         extra: 3.084 km
         flown: 3.084 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 45.445
       landedMade: 3.082 km
@@ -541,7 +625,10 @@ score:
     - place: 5=
       total: 44.211
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -564,7 +651,10 @@ score:
         extra: -0.010 km
         flown: -0.010 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 44.211
       landedMade: -0.517 km
@@ -574,7 +664,10 @@ score:
     - place: 5=
       total: 44.211
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -597,7 +690,10 @@ score:
         extra: 1.234 km
         flown: 1.234 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 44.211
       landedMade: -0.011 km
@@ -607,7 +703,10 @@ score:
     - place: 5=
       total: 44.211
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -630,7 +729,10 @@ score:
         extra: 0.224 km
         flown: 0.224 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 44.211
       landedMade: -0.537 km
@@ -640,7 +742,10 @@ score:
     - place: 5=
       total: 44.211
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -663,7 +768,10 @@ score:
         extra: 0.317 km
         flown: 0.317 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 44.211
       landedMade: -0.521 km
@@ -673,7 +781,10 @@ score:
     - place: 5=
       total: 44.211
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -688,7 +799,10 @@ score:
         extra: 2.994 km
         flown: 2.994 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 44.211
       landedMade: 2.994 km
@@ -698,7 +812,10 @@ score:
     - place: 5=
       total: 44.211
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -713,7 +830,10 @@ score:
         extra: 2.994 km
         flown: 2.994 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 44.211
       landedMade: 2.994 km
@@ -724,7 +844,10 @@ scoreDf:
     - place: '1'
       total: 118.773
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -747,7 +870,10 @@ scoreDf:
         extra: 10.513 km
         flown: 10.513 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 118.773
       landedMade: 8.449 km
@@ -757,7 +883,10 @@ scoreDf:
     - place: '2'
       total: 87.374
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -780,7 +909,10 @@ scoreDf:
         extra: 7.511 km
         flown: 7.511 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 87.374
       landedMade: 7.279 km
@@ -790,7 +922,10 @@ scoreDf:
     - place: '3'
       total: 76.563
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -813,7 +948,10 @@ scoreDf:
         extra: 6.722 km
         flown: 6.722 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 76.563
       landedMade: 5.029 km
@@ -823,7 +961,10 @@ scoreDf:
     - place: '4'
       total: 54.364
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -846,7 +987,10 @@ scoreDf:
         extra: 4.574 km
         flown: 4.574 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 54.364
       landedMade: 4.449 km
@@ -856,7 +1000,10 @@ scoreDf:
     - place: 5=
       total: 36.248
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -879,7 +1026,10 @@ scoreDf:
         extra: 2.585 km
         flown: 2.585 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 36.248
       landedMade: 2.590 km
@@ -889,7 +1039,10 @@ scoreDf:
     - place: 5=
       total: 35.756
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -912,7 +1065,10 @@ scoreDf:
         extra: 2.078 km
         flown: 2.078 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 35.756
       landedMade: 2.090 km
@@ -922,7 +1078,10 @@ scoreDf:
     - place: '7'
       total: 34.71
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -945,7 +1104,10 @@ scoreDf:
         extra: -0.953 km
         flown: -0.953 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 34.71
       landedMade: -5.832 km
@@ -955,7 +1117,10 @@ scoreDf:
     - place: '8'
       total: 32.551
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -978,7 +1143,10 @@ scoreDf:
         extra: -1.286 km
         flown: -1.286 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 32.551
       landedMade: -5.775 km
@@ -988,7 +1156,10 @@ scoreDf:
     - place: '1'
       total: 300.933
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -1011,7 +1182,10 @@ scoreDf:
         extra: 15.729 km
         flown: 15.729 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 300.933
       landedMade: 15.729 km
@@ -1021,7 +1195,10 @@ scoreDf:
     - place: '2'
       total: 232.405
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -1044,7 +1221,10 @@ scoreDf:
         extra: 13.936 km
         flown: 13.936 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 232.405
       landedMade: 13.880 km
@@ -1054,7 +1234,10 @@ scoreDf:
     - place: '3'
       total: 169.178
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -1077,7 +1260,10 @@ scoreDf:
         extra: 10.774 km
         flown: 10.774 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 169.178
       landedMade: 10.704 km
@@ -1087,7 +1273,10 @@ scoreDf:
     - place: '4'
       total: 45.445
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -1110,7 +1299,10 @@ scoreDf:
         extra: 3.084 km
         flown: 3.084 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 45.445
       landedMade: 3.082 km
@@ -1120,7 +1312,10 @@ scoreDf:
     - place: 5=
       total: 44.211
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -1143,7 +1338,10 @@ scoreDf:
         extra: -0.010 km
         flown: -0.010 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 44.211
       landedMade: -0.517 km
@@ -1153,7 +1351,10 @@ scoreDf:
     - place: 5=
       total: 44.211
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -1176,7 +1377,10 @@ scoreDf:
         extra: 1.234 km
         flown: 1.234 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 44.211
       landedMade: -0.011 km
@@ -1186,7 +1390,10 @@ scoreDf:
     - place: 5=
       total: 44.211
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -1209,7 +1416,10 @@ scoreDf:
         extra: 0.224 km
         flown: 0.224 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 44.211
       landedMade: -0.537 km
@@ -1219,7 +1429,10 @@ scoreDf:
     - place: 5=
       total: 44.211
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -1242,7 +1455,10 @@ scoreDf:
         extra: 0.317 km
         flown: 0.317 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 44.211
       landedMade: -0.521 km
@@ -1253,7 +1469,10 @@ scoreDfNoTrack:
     - place: 1=
       total: 32.551
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -1268,7 +1487,10 @@ scoreDfNoTrack:
         extra: 2.992 km
         flown: 2.992 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 32.551
       landedMade: 2.992 km
@@ -1278,7 +1500,10 @@ scoreDfNoTrack:
     - place: 1=
       total: 32.551
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -1293,7 +1518,10 @@ scoreDfNoTrack:
         extra: 2.992 km
         flown: 2.992 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 32.551
       landedMade: 2.992 km
@@ -1303,7 +1531,10 @@ scoreDfNoTrack:
     - place: 1=
       total: 44.211
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -1318,7 +1549,10 @@ scoreDfNoTrack:
         extra: 2.994 km
         flown: 2.994 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 44.211
       landedMade: 2.994 km
@@ -1328,7 +1562,10 @@ scoreDfNoTrack:
     - place: 1=
       total: 44.211
       jump: null
-      penalties: []
+      penalties:
+        adds: []
+        muls: []
+        resets: []
       breakdown:
         effort: 0
         arrival: 0
@@ -1343,7 +1580,10 @@ scoreDfNoTrack:
         extra: 2.994 km
         flown: 2.994 km
       demeritReset: 0
-      penaltiesJump: []
+      penaltiesJump:
+        adds: []
+        muls: []
+        resets: []
       penaltyReason: ''
       subtotal: 44.211
       landedMade: 2.994 km
