@@ -406,15 +406,15 @@ crossing:
       - Jerko Odžak
     - zonesCrossSelected:
       - crossingPair:
-        - fix: 25
-          time: 2019-07-11T12:40:28Z
-          lat: 43.78906667
-          lng: 16.50056667
+        - fix: 240
+          time: 2019-07-11T12:56:43Z
+          lat: 43.80231667
+          lng: 16.48505
           alt: 0
-        - fix: 26
-          time: 2019-07-11T12:40:33Z
-          lat: 43.78896667
-          lng: 16.50096667
+        - fix: 241
+          time: 2019-07-11T12:56:47Z
+          lat: 43.80265
+          lng: 16.48495
           alt: 0
         inZone:
         - true
@@ -903,15 +903,15 @@ crossing:
       startSelected:
       - 2019-07-11T12:30:00Z
       - crossingPair:
-        - fix: 25
-          time: 2019-07-11T12:40:28Z
-          lat: 43.78906667
-          lng: 16.50056667
+        - fix: 240
+          time: 2019-07-11T12:56:43Z
+          lat: 43.80231667
+          lng: 16.48505
           alt: 0
-        - fix: 26
-          time: 2019-07-11T12:40:33Z
-          lat: 43.78896667
-          lng: 16.50096667
+        - fix: 241
+          time: 2019-07-11T12:56:47Z
+          lat: 43.80265
+          lng: 16.48495
           alt: 0
         inZone:
         - true
@@ -1262,15 +1262,15 @@ crossing:
       - Petros Miskos
     - zonesCrossSelected:
       - crossingPair:
-        - fix: 769
-          time: 2019-07-11T12:34:57Z
-          lat: 43.79068333
-          lng: 16.50228333
+        - fix: 882
+          time: 2019-07-11T12:38:43Z
+          lat: 43.79486667
+          lng: 16.50361667
           alt: 0
-        - fix: 770
-          time: 2019-07-11T12:34:59Z
-          lat: 43.79075
-          lng: 16.50243333
+        - fix: 883
+          time: 2019-07-11T12:38:45Z
+          lat: 43.7947
+          lng: 16.50373333
           alt: 0
         inZone:
         - true
@@ -1484,15 +1484,15 @@ crossing:
       startSelected:
       - 2019-07-11T12:30:00Z
       - crossingPair:
-        - fix: 769
-          time: 2019-07-11T12:34:57Z
-          lat: 43.79068333
-          lng: 16.50228333
+        - fix: 882
+          time: 2019-07-11T12:38:43Z
+          lat: 43.79486667
+          lng: 16.50361667
           alt: 0
-        - fix: 770
-          time: 2019-07-11T12:34:59Z
-          lat: 43.79075
-          lng: 16.50243333
+        - fix: 883
+          time: 2019-07-11T12:38:45Z
+          lat: 43.7947
+          lng: 16.50373333
           alt: 0
         inZone:
         - true
@@ -1560,16 +1560,16 @@ crossing:
       - Rafal Cypcar
     - zonesCrossSelected:
       - crossingPair:
-        - fix: 196
-          time: 2019-07-11T12:36:12Z
-          lat: 43.78866667
-          lng: 16.50045
-          alt: 1199
-        - fix: 197
-          time: 2019-07-11T12:36:13Z
-          lat: 43.78868333
-          lng: 16.50053333
-          alt: 1199
+        - fix: 681
+          time: 2019-07-11T12:44:17Z
+          lat: 43.80016667
+          lng: 16.4812
+          alt: 1294
+        - fix: 682
+          time: 2019-07-11T12:44:18Z
+          lat: 43.80025
+          lng: 16.48113333
+          alt: 1291
         inZone:
         - true
         - false
@@ -1710,16 +1710,16 @@ crossing:
       startSelected:
       - 2019-07-11T12:30:00Z
       - crossingPair:
-        - fix: 196
-          time: 2019-07-11T12:36:12Z
-          lat: 43.78866667
-          lng: 16.50045
-          alt: 1199
-        - fix: 197
-          time: 2019-07-11T12:36:13Z
-          lat: 43.78868333
-          lng: 16.50053333
-          alt: 1199
+        - fix: 681
+          time: 2019-07-11T12:44:17Z
+          lat: 43.80016667
+          lng: 16.4812
+          alt: 1294
+        - fix: 682
+          time: 2019-07-11T12:44:18Z
+          lat: 43.80025
+          lng: 16.48113333
+          alt: 1291
         inZone:
         - true
         - false
@@ -1846,16 +1846,16 @@ crossing:
       - Slava Jelić
     - zonesCrossSelected:
       - crossingPair:
-        - fix: 115
-          time: 2019-07-11T12:45:09Z
-          lat: 43.79015
-          lng: 16.50196667
-          alt: 1095
-        - fix: 116
-          time: 2019-07-11T12:45:10Z
-          lat: 43.7902
-          lng: 16.50205
-          alt: 1095
+        - fix: 879
+          time: 2019-07-11T12:57:53Z
+          lat: 43.79178333
+          lng: 16.50295
+          alt: 1068
+        - fix: 880
+          time: 2019-07-11T12:57:54Z
+          lat: 43.79176667
+          lng: 16.50308333
+          alt: 1068
         inZone:
         - true
         - false
@@ -2236,16 +2236,16 @@ crossing:
       startSelected:
       - 2019-07-11T12:30:00Z
       - crossingPair:
-        - fix: 115
-          time: 2019-07-11T12:45:09Z
-          lat: 43.79015
-          lng: 16.50196667
-          alt: 1095
-        - fix: 116
-          time: 2019-07-11T12:45:10Z
-          lat: 43.7902
-          lng: 16.50205
-          alt: 1095
+        - fix: 879
+          time: 2019-07-11T12:57:53Z
+          lat: 43.79178333
+          lng: 16.50295
+          alt: 1068
+        - fix: 880
+          time: 2019-07-11T12:57:54Z
+          lat: 43.79176667
+          lng: 16.50308333
+          alt: 1068
         inZone:
         - true
         - false
@@ -2972,15 +2972,15 @@ crossing:
       - Jerko Odžak
     - zonesCrossSelected:
       - crossingPair:
-        - fix: 79
-          time: 2019-07-12T12:51:05Z
-          lat: 43.82268333
-          lng: 16.64966667
+        - fix: 161
+          time: 2019-07-12T12:57:22Z
+          lat: 43.8223
+          lng: 16.6493
           alt: 0
-        - fix: 80
-          time: 2019-07-12T12:51:10Z
-          lat: 43.82246667
-          lng: 16.65
+        - fix: 162
+          time: 2019-07-12T12:57:27Z
+          lat: 43.82213333
+          lng: 16.64971667
           alt: 0
         inZone:
         - true
@@ -3165,15 +3165,15 @@ crossing:
       startSelected:
       - 2019-07-12T11:30:00Z
       - crossingPair:
-        - fix: 79
-          time: 2019-07-12T12:51:05Z
-          lat: 43.82268333
-          lng: 16.64966667
+        - fix: 161
+          time: 2019-07-12T12:57:22Z
+          lat: 43.8223
+          lng: 16.6493
           alt: 0
-        - fix: 80
-          time: 2019-07-12T12:51:10Z
-          lat: 43.82246667
-          lng: 16.65
+        - fix: 162
+          time: 2019-07-12T12:57:27Z
+          lat: 43.82213333
+          lng: 16.64971667
           alt: 0
         inZone:
         - true
@@ -3705,15 +3705,15 @@ crossing:
       - Petros Miskos
     - zonesCrossSelected:
       - crossingPair:
-        - fix: 1652
-          time: 2019-07-12T12:22:11Z
-          lat: 43.82081667
-          lng: 16.64383333
+        - fix: 1746
+          time: 2019-07-12T12:25:23Z
+          lat: 43.82176667
+          lng: 16.637
           alt: 0
-        - fix: 1653
-          time: 2019-07-12T12:22:13Z
-          lat: 43.82068333
-          lng: 16.64395
+        - fix: 1747
+          time: 2019-07-12T12:25:27Z
+          lat: 43.82166667
+          lng: 16.63675
           alt: 0
         inZone:
         - true
@@ -3871,15 +3871,15 @@ crossing:
       startSelected:
       - 2019-07-12T11:30:00Z
       - crossingPair:
-        - fix: 1652
-          time: 2019-07-12T12:22:11Z
-          lat: 43.82081667
-          lng: 16.64383333
+        - fix: 1746
+          time: 2019-07-12T12:25:23Z
+          lat: 43.82176667
+          lng: 16.637
           alt: 0
-        - fix: 1653
-          time: 2019-07-12T12:22:13Z
-          lat: 43.82068333
-          lng: 16.64395
+        - fix: 1747
+          time: 2019-07-12T12:25:27Z
+          lat: 43.82166667
+          lng: 16.63675
           alt: 0
         inZone:
         - true
@@ -4378,16 +4378,16 @@ crossing:
       - Sandi Krč
     - zonesCrossSelected:
       - crossingPair:
-        - fix: 361
-          time: 2019-07-12T12:19:58Z
-          lat: 43.82113333
-          lng: 16.64626667
-          alt: 746
-        - fix: 362
-          time: 2019-07-12T12:19:59Z
-          lat: 43.82108333
-          lng: 16.6463
-          alt: 746
+        - fix: 645
+          time: 2019-07-12T12:24:42Z
+          lat: 43.82256667
+          lng: 16.64998333
+          alt: 833
+        - fix: 646
+          time: 2019-07-12T12:24:43Z
+          lat: 43.8225
+          lng: 16.65003333
+          alt: 834
         inZone:
         - true
         - false
@@ -4447,16 +4447,16 @@ crossing:
       startSelected:
       - 2019-07-12T11:30:00Z
       - crossingPair:
-        - fix: 361
-          time: 2019-07-12T12:19:58Z
-          lat: 43.82113333
-          lng: 16.64626667
-          alt: 746
-        - fix: 362
-          time: 2019-07-12T12:19:59Z
-          lat: 43.82108333
-          lng: 16.6463
-          alt: 746
+        - fix: 645
+          time: 2019-07-12T12:24:42Z
+          lat: 43.82256667
+          lng: 16.64998333
+          alt: 833
+        - fix: 646
+          time: 2019-07-12T12:24:43Z
+          lat: 43.8225
+          lng: 16.65003333
+          alt: 834
         inZone:
         - true
         - false
@@ -4495,15 +4495,15 @@ crossing:
       - Slava Jelić
     - zonesCrossSelected:
       - crossingPair:
-        - fix: 77
-          time: 2019-07-12T13:33:16Z
-          lat: 43.82256667
-          lng: 16.6493
+        - fix: 284
+          time: 2019-07-12T13:48:54Z
+          lat: 43.82088333
+          lng: 16.63988333
           alt: 0
-        - fix: 78
-          time: 2019-07-12T13:33:20Z
-          lat: 43.82226667
-          lng: 16.64951667
+        - fix: 285
+          time: 2019-07-12T13:48:59Z
+          lat: 43.82066667
+          lng: 16.64066667
           alt: 0
         inZone:
         - true
@@ -4983,15 +4983,15 @@ crossing:
       startSelected:
       - 2019-07-12T11:30:00Z
       - crossingPair:
-        - fix: 77
-          time: 2019-07-12T13:33:16Z
-          lat: 43.82256667
-          lng: 16.6493
+        - fix: 284
+          time: 2019-07-12T13:48:54Z
+          lat: 43.82088333
+          lng: 16.63988333
           alt: 0
-        - fix: 78
-          time: 2019-07-12T13:33:20Z
-          lat: 43.82226667
-          lng: 16.64951667
+        - fix: 285
+          time: 2019-07-12T13:48:59Z
+          lat: 43.82066667
+          lng: 16.64066667
           alt: 0
         inZone:
         - true
@@ -5101,16 +5101,16 @@ crossing:
       - Stjepan Zjacic
     - zonesCrossSelected:
       - crossingPair:
-        - fix: 925
-          time: 2019-07-12T12:57:44Z
-          lat: 43.82176667
-          lng: 16.64816667
-          alt: 719
-        - fix: 926
-          time: 2019-07-12T12:57:45Z
-          lat: 43.82171667
-          lng: 16.64823333
-          alt: 720
+        - fix: 1214
+          time: 2019-07-12T13:02:33Z
+          lat: 43.82118333
+          lng: 16.63843333
+          alt: 551
+        - fix: 1215
+          time: 2019-07-12T13:02:34Z
+          lat: 43.82111667
+          lng: 16.63851667
+          alt: 550
         inZone:
         - true
         - false
@@ -5267,16 +5267,16 @@ crossing:
       startSelected:
       - 2019-07-12T11:30:00Z
       - crossingPair:
-        - fix: 925
-          time: 2019-07-12T12:57:44Z
-          lat: 43.82176667
-          lng: 16.64816667
-          alt: 719
-        - fix: 926
-          time: 2019-07-12T12:57:45Z
-          lat: 43.82171667
-          lng: 16.64823333
-          alt: 720
+        - fix: 1214
+          time: 2019-07-12T13:02:33Z
+          lat: 43.82118333
+          lng: 16.63843333
+          alt: 551
+        - fix: 1215
+          time: 2019-07-12T13:02:34Z
+          lat: 43.82111667
+          lng: 16.63851667
+          alt: 550
         inZone:
         - true
         - false
