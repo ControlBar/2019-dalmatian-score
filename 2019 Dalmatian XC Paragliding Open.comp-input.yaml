@@ -24,6 +24,7 @@ nominal:
 compTweak:
   arrivalRank: false
   arrivalTime: false
+  essNotGoalScaling: 0
   leadingAreaDistanceSquared: false
   leadingWeightScaling: null
 tasks:
@@ -116,9 +117,11 @@ tasks:
   startGates:
   - 2019-07-11T12:30:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: false
     arrivalTime: false
+    essNotGoalScaling: 0
     leadingAreaDistanceSquared: false
     leadingWeightScaling: null
   earlyStart:
@@ -226,9 +229,11 @@ tasks:
   startGates:
   - 2019-07-12T11:30:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: false
     arrivalTime: false
+    essNotGoalScaling: 0
     leadingAreaDistanceSquared: false
     leadingWeightScaling: null
   earlyStart:
