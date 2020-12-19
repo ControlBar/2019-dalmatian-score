@@ -1,2 +1,4 @@
-
 *.fsdb
+*.zip
+output
+fsdb_igc.py
