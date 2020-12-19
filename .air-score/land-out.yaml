@@ -1,0 +1,98 @@
+minDistance: 3.000 km
+bestDistance:
+- 11.548626 km
+- 14.950525 km
+chunking:
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 119
+  - 1.2 km
+  sumOf: 234
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 149
+  - 1.5 km
+  sumOf: 286
+landout:
+- 10
+- 10
+lookahead:
+- 87
+- 112
+difficulty:
+- - chunk: 30
+    startChunk: 3.0 km
+    endChunk: 3.1 km
+    endAhead: 11.7 km
+    down: 2
+    downs:
+    - 2.982 km
+    - 0.997 km
+    downers:
+    - - '18'
+      - Petros Miskos
+    - - '26'
+      - Stjepan Zjacic
+    downward: 8
+  - chunk: 84
+    startChunk: 8.4 km
+    endChunk: 8.5 km
+    endAhead: 17.1 km
+    down: 1
+    downs:
+    - 8.454 km
+    downers:
+    - - '19'
+      - Rafal Cypcar
+    downward: 7
+  - chunk: 115
+    startChunk: 11.5 km
+    endChunk: 11.6 km
+    endAhead: 20.2 km
+    down: 1
+    downs:
+    - 11.549 km
+    downers:
+    - - '15'
+      - Mitja Jug
+    downward: 6
+- - chunk: 30
+    startChunk: 3.0 km
+    endChunk: 3.1 km
+    endAhead: 14.2 km
+    down: 2
+    downs:
+    - 0.990 km
+    - 1.289 km
+    downers:
+    - - '18'
+      - Petros Miskos
+    - - '26'
+      - Stjepan Zjacic
+    downward: 8
+  - chunk: 117
+    startChunk: 11.7 km
+    endChunk: 11.8 km
+    endAhead: 22.9 km
+    down: 1
+    downs:
+    - 11.770 km
+    downers:
+    - - '15'
+      - Mitja Jug
+    downward: 7
+  - chunk: 149
+    startChunk: 14.9 km
+    endChunk: 15.0 km
+    endAhead: 26.1 km
+    down: 1
+    downs:
+    - 14.951 km
+    downers:
+    - - '19'
+      - Rafal Cypcar
+    downward: 6
