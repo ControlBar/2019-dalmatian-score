@@ -1,7 +1,7 @@
 comp:
   compName: 2019 Dalmatian XC Paragliding Open
   discipline: pg
-  earthMath: Haversines
+  earthMath: Pythagorus
   location: Greda, Croatia
   from: 2019-07-11
   to: 2019-07-14
@@ -13,8 +13,8 @@ comp:
     giveFraction: 5.0e-3
     giveDistance: null
   earth:
-    sphere:
-      radius: 6371000.0 m
+    flat:
+      projection: UTM
 nominal:
   launch: 0.96
   goal: 0.2

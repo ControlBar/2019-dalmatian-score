@@ -1,56 +1,56 @@
 areas:
 - - - - '10'
       - Igor Eržen
-    - areaFlown: 3030.8134 km s
-      areaAfterLanding: 91339.8080 km s
-      areaBeforeStart: 3.8257 km s
+    - areaFlown: 3034.5934 km s
+      areaAfterLanding: 91620.4075 km s
+      areaBeforeStart: 17.8983 km s
   - - - '11'
       - Jerko Odžak
-    - areaFlown: 21152.0845 km s
-      areaAfterLanding: 80504.9335 km s
-      areaBeforeStart: 35328.4466 km s
+    - areaFlown: 21223.3810 km s
+      areaAfterLanding: 80715.7380 km s
+      areaBeforeStart: 35405.7321 km s
   - - - '15'
       - Mitja Jug
-    - areaFlown: 33199.2154 km s
-      areaAfterLanding: 61382.4897 km s
-      areaBeforeStart: 9061.1989 km s
+    - areaFlown: 33324.2387 km s
+      areaAfterLanding: 61508.9937 km s
+      areaBeforeStart: 9075.4416 km s
   - - - '18'
       - Petros Miskos
-    - areaFlown: 3726.4234 km s
-      areaAfterLanding: 103930.0532 km s
-      areaBeforeStart: 19516.7359 km s
+    - areaFlown: 3712.4160 km s
+      areaAfterLanding: 104219.7897 km s
+      areaBeforeStart: 19546.2033 km s
   - - - '19'
       - Rafal Cypcar
-    - areaFlown: 11889.0161 km s
-      areaAfterLanding: 76525.0843 km s
-      areaBeforeStart: 18568.7088 km s
+    - areaFlown: 11905.6725 km s
+      areaAfterLanding: 76776.5397 km s
+      areaBeforeStart: 18590.7551 km s
   - - - '22'
       - Sandi Krč
-    - areaFlown: 1439.0167 km s
-      areaAfterLanding: 101372.6597 km s
-      areaBeforeStart: 4679.7352 km s
+    - areaFlown: 1443.3070 km s
+      areaAfterLanding: 101647.4579 km s
+      areaBeforeStart: 4682.7124 km s
 - - - - '10'
       - Igor Eržen
-    - areaFlown: 40642.2342 km s
+    - areaFlown: 40698.7632 km s
       areaAfterLanding: 0.0000 km s
-      areaBeforeStart: 149.5511 km s
+      areaBeforeStart: 148.5640 km s
   - - - '11'
       - Jerko Odžak
-    - areaFlown: 8059.4067 km s
-      areaAfterLanding: 72575.4776 km s
-      areaBeforeStart: 34786.0390 km s
+    - areaFlown: 8085.9237 km s
+      areaAfterLanding: 72694.9750 km s
+      areaBeforeStart: 34851.4665 km s
   - - - '15'
       - Mitja Jug
-    - areaFlown: 22358.4677 km s
-      areaAfterLanding: 28439.0266 km s
-      areaBeforeStart: 905.3471 km s
+    - areaFlown: 22356.1224 km s
+      areaAfterLanding: 28524.7138 km s
+      areaBeforeStart: 905.9003 km s
   - - - '19'
       - Rafal Cypcar
-    - areaFlown: 25118.4991 km s
-      areaAfterLanding: 10290.8526 km s
-      areaBeforeStart: 415.3235 km s
+    - areaFlown: 25155.0591 km s
+      areaAfterLanding: 10313.6641 km s
+      areaBeforeStart: 414.8896 km s
   - - - '22'
       - Sandi Krč
-    - areaFlown: 515.2841 km s
-      areaAfterLanding: 83193.4795 km s
-      areaBeforeStart: 4020.5307 km s
+    - areaFlown: 515.0635 km s
+      areaAfterLanding: 83370.2200 km s
+      areaBeforeStart: 4027.2020 km s
