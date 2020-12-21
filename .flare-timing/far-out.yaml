@@ -1,6 +1,6 @@
 minDistance: 3.000 km
 bestDistance:
-- 10.513232 km
+- 10.483232 km
 - 15.728733 km
 chunking:
 - startChunk:
@@ -9,67 +9,67 @@ chunking:
   endChunk:
   - 111
   - 11.1 km
-  sumOf: 239
+  sumOf: 235
 - startChunk:
   - 0
   - 0.0 km
   endChunk:
   - 161
   - 16.1 km
-  sumOf: 218
+  sumOf: 216
 landout:
 - 10
 - 9
 lookahead:
-- 32
+- 31
 - 52
 difficulty:
 - - chunk: 0
     startChunk: 0.0 km
     endChunk: 0.1 km
-    endAhead: 3.3 km
+    endAhead: 3.2 km
     down: 2
     downs:
-    - -1.286 km
-    - -0.953 km
+    - -1.354 km
+    - -1.022 km
     downers:
     - - '26'
       - Stjepan Zjacic
     - - '24'
       - Slava Jelić
     downward: 6
-    rel: 1.25523e-2
-    frac: 1.245117e-2
+    rel: 1.276596e-2
+    frac: 1.269531e-2
   - chunk: 20
     startChunk: 2.0 km
     endChunk: 2.1 km
-    endAhead: 5.3 km
+    endAhead: 5.2 km
     down: 1
     downs:
-    - 2.078 km
+    - 2.007 km
     downers:
     - - '18'
       - Petros Miskos
     downward: 5
-    rel: 1.046025e-2
-    frac: 0.19458008
+    rel: 1.06383e-2
+    frac: 0.19580078
   - chunk: 25
     startChunk: 2.5 km
     endChunk: 2.6 km
-    endAhead: 5.8 km
+    endAhead: 5.7 km
     down: 1
     downs:
-    - 2.585 km
+    - 2.516 km
     downers:
     - - '22'
       - Sandi Krč
     downward: 4
-    rel: 8.3682e-3
-    frac: 0.23632812
+    rel: 8.51064e-3
+    frac: 0.23828125
   - chunk: 30
     startChunk: 3.0 km
     endChunk: 3.1 km
-    endAhead: 6.3 km
+    endAhead: 6.2 km
     down: 2
     downs:
     - 3.000 km
@@ -80,59 +80,59 @@ difficulty:
     - - '32'
       - Laura Grakalich
     downward: 3
-    rel: 6.27615e-3
-    frac: 0.26782227
+    rel: 6.38298e-3
+    frac: 0.27026367
   - chunk: 45
     startChunk: 4.5 km
     endChunk: 4.6 km
-    endAhead: 7.8 km
+    endAhead: 7.7 km
     down: 1
     downs:
-    - 4.574 km
+    - 4.504 km
     downers:
     - - '10'
       - Igor Eržen
     downward: 3
-    rel: 6.27615e-3
-    frac: 0.32421875
-  - chunk: 67
-    startChunk: 6.7 km
-    endChunk: 6.8 km
-    endAhead: 10.0 km
+    rel: 6.38298e-3
+    frac: 0.32763672
+  - chunk: 66
+    startChunk: 6.6 km
+    endChunk: 6.7 km
+    endAhead: 9.8 km
     down: 1
     downs:
-    - 6.722 km
+    - 6.678 km
     downers:
     - - '11'
       - Jerko Odžak
     downward: 2
-    rel: 4.1841e-3
-    frac: 0.41625977
-  - chunk: 75
-    startChunk: 7.5 km
-    endChunk: 7.6 km
-    endAhead: 10.8 km
+    rel: 4.25532e-3
+    frac: 0.41699219
+  - chunk: 74
+    startChunk: 7.4 km
+    endChunk: 7.5 km
+    endAhead: 10.6 km
     down: 1
     downs:
-    - 7.511 km
+    - 7.447 km
     downers:
     - - '19'
       - Rafal Cypcar
     downward: 2
-    rel: 4.1841e-3
-    frac: 0.43725586
-  - chunk: 105
-    startChunk: 10.5 km
-    endChunk: 10.6 km
-    endAhead: 13.8 km
+    rel: 4.25532e-3
+    frac: 0.4362793
+  - chunk: 104
+    startChunk: 10.4 km
+    endChunk: 10.5 km
+    endAhead: 13.6 km
     down: 1
     downs:
-    - 10.513 km
+    - 10.483 km
     downers:
     - - '15'
       - Mitja Jug
     downward: 1
-    rel: 2.09205e-3
+    rel: 2.12766e-3
     frac: 0.5
 - - chunk: 0
     startChunk: 0.0 km
@@ -140,52 +140,52 @@ difficulty:
     endAhead: 5.3 km
     down: 1
     downs:
-    - -0.010 km
+    - -0.046 km
     downers:
     - - '18'
       - Petros Miskos
     downward: 7
-    rel: 1.605505e-2
+    rel: 1.62037e-2
     frac: 1.611328e-2
+  - chunk: 1
+    startChunk: 0.1 km
+    endChunk: 0.2 km
+    endAhead: 5.4 km
+    down: 1
+    downs:
+    - 0.190 km
+    downers:
+    - - '24'
+      - Slava Jelić
+    downward: 6
+    rel: 1.388889e-2
+    frac: 3.00293e-2
   - chunk: 2
     startChunk: 0.2 km
     endChunk: 0.3 km
     endAhead: 5.5 km
     down: 1
     downs:
-    - 0.224 km
-    downers:
-    - - '24'
-      - Slava Jelić
-    downward: 6
-    rel: 1.376147e-2
-    frac: 4.345703e-2
-  - chunk: 3
-    startChunk: 0.3 km
-    endChunk: 0.4 km
-    endAhead: 5.6 km
-    down: 1
-    downs:
-    - 0.317 km
+    - 0.282 km
     downers:
     - - '26'
       - Stjepan Zjacic
     downward: 5
-    rel: 1.146789e-2
-    frac: 5.493164e-2
+    rel: 1.157407e-2
+    frac: 4.174805e-2
   - chunk: 12
     startChunk: 1.2 km
     endChunk: 1.3 km
     endAhead: 6.5 km
     down: 1
     downs:
-    - 1.234 km
+    - 1.202 km
     downers:
     - - '22'
       - Sandi Krč
     downward: 4
-    rel: 9.17431e-3
-    frac: 0.13769531
+    rel: 9.25926e-3
+    frac: 0.13427734
   - chunk: 30
     startChunk: 3.0 km
     endChunk: 3.1 km
@@ -194,7 +194,7 @@ difficulty:
     downs:
     - 3.000 km
     - 3.000 km
-    - 3.084 km
+    - 3.060 km
     downers:
     - - '35'
       - Giselle Giampietri
@@ -203,31 +203,31 @@ difficulty:
     - - '11'
       - Jerko Odžak
     downward: 3
-    rel: 6.88073e-3
-    frac: 0.26147461
+    rel: 6.94444e-3
+    frac: 0.25927734
   - chunk: 107
     startChunk: 10.7 km
     endChunk: 10.8 km
     endAhead: 16.0 km
     down: 1
     downs:
-    - 10.774 km
+    - 10.757 km
     downers:
     - - '15'
       - Mitja Jug
     downward: 2
-    rel: 4.58716e-3
-    frac: 0.42651367
+    rel: 4.62963e-3
+    frac: 0.42602539
   - chunk: 139
     startChunk: 13.9 km
     endChunk: 14.0 km
     endAhead: 19.2 km
     down: 1
     downs:
-    - 13.936 km
+    - 13.931 km
     downers:
     - - '19'
       - Rafal Cypcar
     downward: 1
-    rel: 2.29358e-3
+    rel: 2.31481e-3
     frac: 0.5

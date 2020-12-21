@@ -1,6 +1,6 @@
 minDistance: 3.000 km
 bestDistance:
-- 10.513232 km
+- 10.483232 km
 - 15.728733 km
 chunking:
 - startChunk:
@@ -9,7 +9,7 @@ chunking:
   endChunk:
   - 111
   - 11.1 km
-  sumOf: 239
+  sumOf: 235
 - startChunk:
   - 0
   - 0.0 km
@@ -21,55 +21,55 @@ landout:
 - 10
 - 9
 lookahead:
-- 32
+- 31
 - 52
 difficulty:
 - - chunk: 0
     startChunk: 0.0 km
     endChunk: 0.1 km
-    endAhead: 3.3 km
+    endAhead: 3.2 km
     down: 2
     downs:
-    - -5.832 km
-    - -5.775 km
+    - -5.913 km
+    - -5.856 km
     downers:
     - - '24'
       - Slava Jelić
     - - '26'
       - Stjepan Zjacic
     downward: 6
-    rel: 1.25523e-2
-    frac: 1.245117e-2
+    rel: 1.276596e-2
+    frac: 1.269531e-2
   - chunk: 20
     startChunk: 2.0 km
     endChunk: 2.1 km
-    endAhead: 5.3 km
+    endAhead: 5.2 km
     down: 1
     downs:
-    - 2.090 km
+    - 2.019 km
     downers:
     - - '18'
       - Petros Miskos
     downward: 6
-    rel: 1.25523e-2
-    frac: 0.20092773
+    rel: 1.276596e-2
+    frac: 0.2043457
   - chunk: 25
     startChunk: 2.5 km
     endChunk: 2.6 km
-    endAhead: 5.8 km
+    endAhead: 5.7 km
     down: 1
     downs:
-    - 2.590 km
+    - 2.521 km
     downers:
     - - '22'
       - Sandi Krč
     downward: 5
-    rel: 1.046025e-2
-    frac: 0.25317383
+    rel: 1.06383e-2
+    frac: 0.25756836
   - chunk: 30
     startChunk: 3.0 km
     endChunk: 3.1 km
-    endAhead: 6.3 km
+    endAhead: 6.2 km
     down: 2
     downs:
     - 3.000 km
@@ -80,59 +80,59 @@ difficulty:
     - - '32'
       - Laura Grakalich
     downward: 4
-    rel: 8.3682e-3
-    frac: 0.29492188
-  - chunk: 44
-    startChunk: 4.4 km
-    endChunk: 4.5 km
-    endAhead: 7.7 km
+    rel: 8.51064e-3
+    frac: 0.30004883
+  - chunk: 43
+    startChunk: 4.3 km
+    endChunk: 4.4 km
+    endAhead: 7.5 km
     down: 1
     downs:
-    - 4.449 km
+    - 4.379 km
     downers:
     - - '10'
       - Igor Eržen
     downward: 3
-    rel: 6.27615e-3
-    frac: 0.36181641
-  - chunk: 50
-    startChunk: 5.0 km
-    endChunk: 5.1 km
-    endAhead: 8.3 km
+    rel: 6.38298e-3
+    frac: 0.35961914
+  - chunk: 49
+    startChunk: 4.9 km
+    endChunk: 5.0 km
+    endAhead: 8.1 km
     down: 1
     downs:
-    - 5.029 km
+    - 4.985 km
     downers:
     - - '11'
       - Jerko Odžak
     downward: 2
-    rel: 4.1841e-3
-    frac: 0.38696289
+    rel: 4.25532e-3
+    frac: 0.38500977
   - chunk: 72
     startChunk: 7.2 km
     endChunk: 7.3 km
-    endAhead: 10.5 km
+    endAhead: 10.4 km
     down: 1
     downs:
-    - 7.279 km
+    - 7.215 km
     downers:
     - - '19'
       - Rafal Cypcar
     downward: 2
-    rel: 4.1841e-3
-    frac: 0.47485352
+    rel: 4.25532e-3
+    frac: 0.47436523
   - chunk: 84
     startChunk: 8.4 km
     endChunk: 8.5 km
-    endAhead: 11.7 km
+    endAhead: 11.6 km
     down: 1
     downs:
-    - 8.449 km
+    - 8.414 km
     downers:
     - - '15'
       - Mitja Jug
     downward: 1
-    rel: 2.09205e-3
+    rel: 2.12766e-3
     frac: 0.5
 - - chunk: 0
     startChunk: 0.0 km
@@ -140,10 +140,10 @@ difficulty:
     endAhead: 5.3 km
     down: 4
     downs:
-    - -0.537 km
-    - -0.521 km
-    - -0.517 km
-    - -0.011 km
+    - -0.574 km
+    - -0.559 km
+    - -0.555 km
+    - -0.047 km
     downers:
     - - '24'
       - Slava Jelić
@@ -164,7 +164,7 @@ difficulty:
     downs:
     - 3.000 km
     - 3.000 km
-    - 3.082 km
+    - 3.057 km
     downers:
     - - '35'
       - Giselle Giampietri
@@ -175,26 +175,26 @@ difficulty:
     downward: 3
     rel: 7.46269e-3
     frac: 0.24121094
-  - chunk: 107
-    startChunk: 10.7 km
-    endChunk: 10.8 km
-    endAhead: 16.0 km
+  - chunk: 106
+    startChunk: 10.6 km
+    endChunk: 10.7 km
+    endAhead: 15.9 km
     down: 1
     downs:
-    - 10.704 km
+    - 10.687 km
     downers:
     - - '15'
       - Mitja Jug
     downward: 2
     rel: 4.97512e-3
-    frac: 0.42285156
+    frac: 0.42041016
   - chunk: 138
     startChunk: 13.8 km
     endChunk: 13.9 km
     endAhead: 19.1 km
     down: 1
     downs:
-    - 13.880 km
+    - 13.874 km
     downers:
     - - '19'
       - Rafal Cypcar
