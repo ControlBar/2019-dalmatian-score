@@ -1,4 +1,9 @@
 pilotsAtEss:
 - 0
-- 0
-arrivalRank: []
+- 1
+arrivalRank:
+- - - - '10'
+      - Igor Eržen
+    - lag: null
+      rank: '1'
+      frac: 0
