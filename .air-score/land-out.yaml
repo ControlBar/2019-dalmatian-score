@@ -1,7 +1,7 @@
 minDistance: 3.000 km
 bestDistance:
-- 11.548600 km
-- 16.749921 km
+- 11.548626 km
+- 16.749900 km
 chunking:
 - startChunk:
   - 0
@@ -30,11 +30,11 @@ difficulty:
     endAhead: 6.5 km
     down: 5
     downs:
-    - 3.000 km
-    - 3.000 km
-    - 3.000 km
-    - 3.000 km
-    - 3.000 km
+    - 2.982 km
+    - 0.993 km
+    - 0.997 km
+    - null
+    - null
     downers:
     - - '18'
       - Petros Miskos
@@ -108,12 +108,12 @@ difficulty:
     endAhead: 8.6 km
     down: 6
     downs:
-    - 3.000 km
-    - 3.000 km
-    - 3.000 km
-    - 3.000 km
-    - 3.000 km
-    - 3.000 km
+    - 0.990 km
+    - 2.204 km
+    - 1.197 km
+    - 1.289 km
+    - null
+    - null
     downers:
     - - '18'
       - Petros Miskos
