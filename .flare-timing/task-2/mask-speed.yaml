@@ -1,0 +1,36 @@
+ssBestTime: 1.172321 h
+gsBestTime: 2.014693 h
+taskDistance: 15.728733 km
+taskSpeedDistance: 15.728733 km
+ssSpeed:
+- - - '10'
+    - Igor Eržen
+  - time: 1.172321 h
+    frac: 1
+gsSpeed:
+- - - '10'
+    - Igor Eržen
+  - time: 2.014693 h
+    frac: 1
+altStopped:
+- - - '11'
+    - Jerko Odžak
+  - 0.000 m
+- - - '15'
+    - Mitja Jug
+  - 339.000 m
+- - - '18'
+    - Petros Miskos
+  - 0.000 m
+- - - '19'
+    - Rafal Cypcar
+  - 312.000 m
+- - - '22'
+    - Sandi Krč
+  - 436.000 m
+- - - '24'
+    - Slava Jelić
+  - 0.000 m
+- - - '26'
+    - Stjepan Zjacic
+  - 517.000 m

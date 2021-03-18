@@ -1,0 +1,136 @@
+suspectDnf: []
+flying:
+- - - '35'
+    - Giselle Giampietri
+  - null
+- - - '10'
+    - Igor Eržen
+  - loggedFixes: 5964
+    flyingFixes:
+    - 45
+    - 5933
+    loggedSeconds: 5963
+    flyingSeconds:
+    - 45
+    - 5933
+    loggedTimes:
+    - 2019-07-12T12:02:19Z
+    - 2019-07-12T13:41:42Z
+    flyingTimes:
+    - 2019-07-12T12:03:04Z
+    - 2019-07-12T13:41:12Z
+- - - '11'
+    - Jerko Odžak
+  - loggedFixes: 386
+    flyingFixes:
+    - 15
+    - 365
+    loggedSeconds: 1768
+    flyingSeconds:
+    - 68
+    - 1678
+    loggedTimes:
+    - 2019-07-12T12:45:07Z
+    - 2019-07-12T13:14:35Z
+    flyingTimes:
+    - 2019-07-12T12:46:15Z
+    - 2019-07-12T13:13:05Z
+- - - '32'
+    - Laura Grakalich
+  - null
+- - - '15'
+    - Mitja Jug
+  - loggedFixes: 5180
+    flyingFixes:
+    - 289
+    - 5149
+    loggedSeconds: 5179
+    flyingSeconds:
+    - 289
+    - 5149
+    loggedTimes:
+    - 2019-07-12T12:07:03Z
+    - 2019-07-12T13:33:22Z
+    flyingTimes:
+    - 2019-07-12T12:11:52Z
+    - 2019-07-12T13:32:52Z
+- - - '18'
+    - Petros Miskos
+  - loggedFixes: 1943
+    flyingFixes:
+    - 1551
+    - 1797
+    loggedSeconds: 4056
+    flyingSeconds:
+    - 3258
+    - 3762
+    loggedTimes:
+    - 2019-07-12T11:24:31Z
+    - 2019-07-12T12:32:07Z
+    flyingTimes:
+    - 2019-07-12T12:18:49Z
+    - 2019-07-12T12:27:13Z
+- - - '19'
+    - Rafal Cypcar
+  - loggedFixes: 3806
+    flyingFixes:
+    - 45
+    - 3737
+    loggedSeconds: 3805
+    flyingSeconds:
+    - 45
+    - 3737
+    loggedTimes:
+    - 2019-07-12T12:11:42Z
+    - 2019-07-12T13:15:07Z
+    flyingTimes:
+    - 2019-07-12T12:12:27Z
+    - 2019-07-12T13:13:59Z
+- - - '22'
+    - Sandi Krč
+  - loggedFixes: 1399
+    flyingFixes:
+    - 47
+    - 1334
+    loggedSeconds: 1398
+    flyingSeconds:
+    - 47
+    - 1334
+    loggedTimes:
+    - 2019-07-12T12:13:57Z
+    - 2019-07-12T12:37:15Z
+    flyingTimes:
+    - 2019-07-12T12:14:44Z
+    - 2019-07-12T12:36:11Z
+- - - '24'
+    - Slava Jelić
+  - loggedFixes: 419
+    flyingFixes:
+    - 13
+    - 381
+    loggedSeconds: 1889
+    flyingSeconds:
+    - 60
+    - 1723
+    loggedTimes:
+    - 2019-07-12T13:27:29Z
+    - 2019-07-12T13:58:58Z
+    flyingTimes:
+    - 2019-07-12T13:28:29Z
+    - 2019-07-12T13:56:12Z
+- - - '26'
+    - Stjepan Zjacic
+  - loggedFixes: 1256
+    flyingFixes:
+    - 79
+    - 1254
+    loggedSeconds: 2524
+    flyingSeconds:
+    - 1177
+    - 2509
+    loggedTimes:
+    - 2019-07-12T12:21:25Z
+    - 2019-07-12T13:03:29Z
+    flyingTimes:
+    - 2019-07-12T12:41:02Z
+    - 2019-07-12T13:03:14Z

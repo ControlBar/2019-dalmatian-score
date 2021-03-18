@@ -1,0 +1,180 @@
+pilotGroup:
+  absent: []
+  didFlyNoTracklog:
+  - pilot:
+    - '35'
+    - Giselle Giampietri
+    awardedReach:
+      extra:
+        awardedMade: 3.000000 km
+        awardedTask: 15.762000 km
+        awardedFrac: 0.1903311762466692
+      flown:
+        awardedMade: 3.000000 km
+        awardedTask: 15.762000 km
+        awardedFrac: 0.1903311762466692
+    awardedVelocity:
+      ss: null
+      es: null
+  - pilot:
+    - '32'
+    - Laura Grakalich
+    awardedReach:
+      extra:
+        awardedMade: 3.000000 km
+        awardedTask: 15.762000 km
+        awardedFrac: 0.1903311762466692
+      flown:
+        awardedMade: 3.000000 km
+        awardedTask: 15.762000 km
+        awardedFrac: 0.1903311762466692
+    awardedVelocity:
+      ss: null
+      es: null
+  dnf: []
+task:
+  taskName: Task 2
+  zones:
+    raw:
+    - zoneName: STARTG
+      lat: 43.82973
+      lng: 16.64242
+      radius: 1000.0 m
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
+      alt: 849.000 m
+    - zoneName: KODZOM
+      lat: 43.81055
+      lng: 16.67643
+      radius: 1000.0 m
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
+      alt: 889.000 m
+    - zoneName: VODOSP
+      lat: 43.82291
+      lng: 16.61629
+      radius: 800.0 m
+      giveIn: 796.0 m
+      giveOut: 804.0 m
+      alt: 567.000 m
+    - zoneName: SLETIS
+      lat: 43.81932
+      lng: 16.63998
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 528.000 m
+    - zoneName: CACIJI
+      lat: 43.7671
+      lng: 16.68169
+      radius: 400.0 m
+      giveIn: 398.0 m
+      giveOut: 402.0 m
+      alt: 450.000 m
+    - zoneName: HRVACE
+      lat: 43.75677
+      lng: 16.62018
+      radius: 1000.0 m
+      giveIn: 995.0 m
+      giveOut: 1005.0 m
+      alt: 339.000 m
+    raceKind:
+      prolog: []
+      race:
+      - cylinder:
+          center:
+          - 43.82973000 deg
+          - 16.64242000 deg
+          radius: 1000.0 m
+      - cylinder:
+          center:
+          - 43.81055000 deg
+          - 16.67643000 deg
+          radius: 1000.0 m
+      - cylinder:
+          center:
+          - 43.82291000 deg
+          - 16.61629000 deg
+          radius: 800.0 m
+      - cylinder:
+          center:
+          - 43.81932000 deg
+          - 16.63998000 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - 43.76710000 deg
+          - 16.68169000 deg
+          radius: 400.0 m
+      race-ess-is-goal:
+        circle:
+          center:
+          - 43.75677000 deg
+          - 16.62018000 deg
+          radius: 1000.0 m
+    openKind: null
+  speedSection:
+  - 1
+  - 6
+  zoneTimes:
+  - open: 2019-07-12T11:30:00Z
+    close: 2019-07-12T14:00:00Z
+  - open: 2019-07-12T11:30:00Z
+    close: 2019-07-12T18:00:00Z
+  - open: 2019-07-12T11:30:00Z
+    close: 2019-07-12T18:00:00Z
+  - open: 2019-07-12T11:30:00Z
+    close: 2019-07-12T18:00:00Z
+  - open: 2019-07-12T11:30:00Z
+    close: 2019-07-12T18:00:00Z
+  - open: 2019-07-12T11:30:00Z
+    close: 2019-07-12T18:00:00Z
+  startGates:
+  - 2019-07-12T11:30:00Z
+  stopped: null
+  cancelled: false
+  taskTweak:
+    arrivalRank: false
+    arrivalTime: false
+    essNotGoalScaling: 0
+    leadingAreaDistanceSquared: false
+    leadingWeightScaling: null
+  earlyStart:
+    earliest: 0 s
+    earlyPenalty: 0 s
+    tooEarlyReset: 0
+  penalsAuto: []
+  penals: []
+taskFolder:
+- Task 2
+pilots:
+- - - '35'
+    - Giselle Giampietri
+  - null
+- - - '10'
+    - Igor Eržen
+  - Igor_Er_en.20190712-114142.10699.10.igc
+- - - '11'
+    - Jerko Odžak
+  - Jerko_Od_ak.20190712-185321.12915.11.igc
+- - - '32'
+    - Laura Grakalich
+  - null
+- - - '15'
+    - Mitja Jug
+  - Mitja_Jug.20190712-120702.36030.15.igc
+- - - '18'
+    - Petros Miskos
+  - Petros_Miskos.20190712-181344.43547.18.igc
+- - - '19'
+    - Rafal Cypcar
+  - Rafal_Cypcar.20190712-111508.49629.19.igc
+- - - '22'
+    - Sandi Krč
+  - Sandi_Kr_.20190712-103716.13245.22.igc
+- - - '24'
+    - Slava Jelić
+  - Slava_Jeli_.20190712-180853.[CIVLID].24.igc
+- - - '26'
+    - Stjepan Zjacic
+  - Stjepan_Zjacic.20190712-122122.[CIVLID].26.IGC

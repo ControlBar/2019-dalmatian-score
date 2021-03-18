@@ -1,0 +1,41 @@
+raceTime:
+  openTask: 2019-07-12T11:30:00Z
+  closeTask: 2019-07-12T18:00:00Z
+  firstStart: 2019-07-12T12:20:32.539533662954Z
+  firstLead: 2019-07-12T12:20:32.539533662954Z
+  lastArrival: 2019-07-12T13:30:52.894446590223Z
+  leadAllDown: 5739.46
+  leadArrival: 4220.355
+  leadClose: 20367.46
+  openClose: 23400
+  tickClose: 20367.46
+raceDistance: 15.728733 km
+sumDistance: 31.521932 km
+leadAreaToCoef: 0.00003532106213 km^-1 s^-1
+leadCoefMin: 1.25069591
+leadRank:
+- - - '19'
+    - Rafal Cypcar
+  - area: 35409.3517 km s
+    coef: 1.25069591
+    frac: 1
+- - - '10'
+    - Igor Eržen
+  - area: 40642.2342 km s
+    coef: 1.43552688
+    frac: 0.69883864
+- - - '15'
+    - Mitja Jug
+  - area: 50797.4943 km s
+    coef: 1.79422145
+    frac: 0.38184689
+- - - '11'
+    - Jerko Odžak
+  - area: 80634.8843 km s
+    coef: 2.84810976
+    frac: 0
+- - - '22'
+    - Sandi Krč
+  - area: 83708.7636 km s
+    coef: 2.95668244
+    frac: 0

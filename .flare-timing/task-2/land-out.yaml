@@ -1,0 +1,79 @@
+bestDistance: 15.728733 km
+chunking:
+  startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 161
+  - 16.1 km
+  sumOf: 201
+landout: 9
+lookahead: 52
+difficulty:
+- chunk: 0
+  startChunk: 0.0 km
+  endChunk: 0.1 km
+  endAhead: 5.3 km
+  down: 4
+  downs:
+  - -0.537 km
+  - -0.521 km
+  - -0.517 km
+  - -0.011 km
+  downers:
+  - - '24'
+    - Slava Jelić
+  - - '26'
+    - Stjepan Zjacic
+  - - '18'
+    - Petros Miskos
+  - - '22'
+    - Sandi Krč
+  downward: 7
+  rel: 1.741294e-2
+  frac: 1.733398e-2
+- chunk: 30
+  startChunk: 3.0 km
+  endChunk: 3.1 km
+  endAhead: 8.3 km
+  down: 3
+  downs:
+  - 3.000 km
+  - 3.000 km
+  - 3.082 km
+  downers:
+  - - '35'
+    - Giselle Giampietri
+  - - '32'
+    - Laura Grakalich
+  - - '11'
+    - Jerko Odžak
+  downward: 3
+  rel: 7.46269e-3
+  frac: 0.24121094
+- chunk: 107
+  startChunk: 10.7 km
+  endChunk: 10.8 km
+  endAhead: 16.0 km
+  down: 1
+  downs:
+  - 10.704 km
+  downers:
+  - - '15'
+    - Mitja Jug
+  downward: 2
+  rel: 4.97512e-3
+  frac: 0.42285156
+- chunk: 138
+  startChunk: 13.8 km
+  endChunk: 13.9 km
+  endAhead: 19.1 km
+  down: 1
+  downs:
+  - 13.880 km
+  downers:
+  - - '19'
+    - Rafal Cypcar
+  downward: 1
+  rel: 2.48756e-3
+  frac: 0.5

@@ -46,8 +46,8 @@ validityWorkingStop:
   reachStats:
     extra:
       max: 12.319000 km
-      mean: 3.305500 km
-      stdDev: 3.781371 km
+      mean: 4.615800 km
+      stdDev: 3.274750 km
     flown:
       max: 10.532000 km
       mean: 3.956600 km
@@ -60,8 +60,8 @@ validityWorkingStop:
   reachStats:
     extra:
       max: 15.763000 km
-      mean: 5.190800 km
-      stdDev: 5.809368 km
+      mean: 5.518400 km
+      stdDev: 5.584958 km
     flown:
       max: 15.763000 km
       mean: 5.128500 km
@@ -156,7 +156,7 @@ score:
         effort: 0
         reach: 0
       reach:
-        extra: 0.000000 km
+        extra: 6.629000 km
         flown: 6.629000 km
       landedMade: 5.033000 km
       ss: 2019-07-11T12:30:00Z
@@ -183,7 +183,7 @@ score:
         effort: 0
         reach: 0
       reach:
-        extra: 0.000000 km
+        extra: 4.491000 km
         flown: 4.491000 km
       landedMade: 4.362000 km
       ss: 2019-07-11T12:30:00Z
@@ -237,7 +237,7 @@ score:
         effort: 0
         reach: 0
       reach:
-        extra: 0.000000 km
+        extra: 1.983000 km
         flown: 1.983000 km
       landedMade: 1.974000 km
       ss: 2019-07-11T12:30:00Z
@@ -453,7 +453,7 @@ score:
         effort: 0
         reach: 0
       reach:
-        extra: 0.000000 km
+        extra: 3.078000 km
         flown: 3.078000 km
       landedMade: 3.075000 km
       ss: 2019-07-12T11:30:00Z
@@ -588,7 +588,7 @@ score:
         effort: 0
         reach: 0
       reach:
-        extra: 0.000000 km
+        extra: 0.198000 km
         flown: 0.198000 km
       landedMade: 0.000000 km
       ss: 2019-07-12T11:30:00Z

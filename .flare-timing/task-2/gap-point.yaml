@@ -1,0 +1,918 @@
+validityWorking:
+  time:
+    nominalTime: 0.666667 h
+    ssBestTime: 1.172321 h
+    gsBestTime: 2.014693 h
+    nominalDistance: 20.0 km
+    reachMax:
+      extra: 15.728733 km
+      flown: 15.728733 km
+  launch:
+    nominalLaunch: 0.96
+    flying: 10
+    present: 10
+  distance:
+    sum: 31.5 km
+    flying: 10
+    area: 10.2
+    nominalGoal: 0.2
+    nominalDistance: 20.0 km
+    minimumDistance: 3.000 km
+    reachMax:
+      extra: 15.728733 km
+      flown: 15.728733 km
+  stop: null
+validity:
+  time: 1
+  launch: 1
+  distance: 0.30903855
+  task: 0.30903855
+  stop: null
+allocation:
+  goalRatio: 0.1
+  weight:
+    effort: 0
+    arrival: 0
+    time: 0.16247205
+    reach: 0.750043
+    distance: 0.750043
+    leading: 8.748495e-2
+  points:
+    effort: 0
+    arrival: 0
+    time: 50.2
+    reach: 231.792
+    distance: 231.792
+    leading: 27
+  taskPoints: 309.039
+score:
+- - - '10'
+    - Igor Eržen
+  - place: '1'
+    total: 300.896
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 0
+      arrival: 0
+      time: 50.2
+      reach: 231.792
+      distance: 231.792
+      leading: 18.9
+    velocity:
+      ss: 2019-07-12T12:20:32.539533662954Z
+      gs: 2019-07-12T11:30:00Z
+      es: 2019-07-12T13:30:52.894446590223Z
+      ssDistance: 15.729 km
+      ssElapsed: 1.172321 h
+      gsElapsed: 2.014693 h
+      ssVelocity: 13.42 km / h
+      gsVelocity: 7.81 km / h
+    penaltyReason: ''
+    reach:
+      extra: 15.729 km
+      flown: 15.729 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 300.896
+    landedMade: 15.729 km
+    stoppedAlt: null
+- - - '19'
+    - Rafal Cypcar
+  - place: '2'
+    total: 232.405
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 0
+      arrival: 0
+      time: 0
+      reach: 205.369
+      distance: 205.369
+      leading: 27
+    velocity:
+      ss: 2019-07-12T12:20:58.446181680987Z
+      gs: 2019-07-12T11:30:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 13.936 km
+      flown: 13.936 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 232.405
+    landedMade: 13.936 km
+    stoppedAlt: 312.000 m
+- - - '15'
+    - Mitja Jug
+  - place: '3'
+    total: 169.095
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 0
+      arrival: 0
+      time: 0
+      reach: 158.771
+      distance: 158.771
+      leading: 10.3
+    velocity:
+      ss: 2019-07-12T12:20:38.32862197683Z
+      gs: 2019-07-12T11:30:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 10.774 km
+      flown: 10.774 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 169.095
+    landedMade: 10.774 km
+    stoppedAlt: 339.000 m
+- - - '11'
+    - Jerko Odžak
+  - place: '4'
+    total: 45.445
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 0
+      arrival: 0
+      time: 0
+      reach: 45.445
+      distance: 45.445
+      leading: 0
+    velocity:
+      ss: 2019-07-12T12:57:23.678953056945Z
+      gs: 2019-07-12T11:30:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 3.084 km
+      flown: 3.084 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 45.445
+    landedMade: 3.084 km
+    stoppedAlt: 0.000 m
+- - - '18'
+    - Petros Miskos
+  - place: 5=
+    total: 44.211
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 0
+      arrival: 0
+      time: 0
+      reach: 44.211
+      distance: 44.211
+      leading: 0
+    velocity:
+      ss: 2019-07-12T12:25:26.9200783891Z
+      gs: 2019-07-12T11:30:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: -0.010 km
+      flown: -0.010 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 44.211
+    landedMade: -0.010 km
+    stoppedAlt: 0.000 m
+- - - '22'
+    - Sandi Krč
+  - place: 5=
+    total: 44.211
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 0
+      arrival: 0
+      time: 0
+      reach: 44.211
+      distance: 44.211
+      leading: 0
+    velocity:
+      ss: 2019-07-12T12:24:42.445328552143Z
+      gs: 2019-07-12T11:30:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 1.234 km
+      flown: 1.234 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 44.211
+    landedMade: 1.234 km
+    stoppedAlt: 436.000 m
+- - - '24'
+    - Slava Jelić
+  - place: 5=
+    total: 44.211
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 0
+      arrival: 0
+      time: 0
+      reach: 44.211
+      distance: 44.211
+      leading: 0
+    velocity:
+      ss: 2019-07-12T13:48:54.21326003404Z
+      gs: 2019-07-12T11:30:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 0.224 km
+      flown: 0.224 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 44.211
+    landedMade: 0.224 km
+    stoppedAlt: 0.000 m
+- - - '26'
+    - Stjepan Zjacic
+  - place: 5=
+    total: 44.211
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 0
+      arrival: 0
+      time: 0
+      reach: 44.211
+      distance: 44.211
+      leading: 0
+    velocity:
+      ss: 2019-07-12T13:02:33.464943124335Z
+      gs: 2019-07-12T11:30:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 0.317 km
+      flown: 0.317 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 44.211
+    landedMade: 0.317 km
+    stoppedAlt: 517.000 m
+- - - '35'
+    - Giselle Giampietri
+  - place: 5=
+    total: 44.211
+    essNotGoal: null
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 0
+      arrival: 0
+      time: 0
+      reach: 44.211
+      distance: 44.211
+      leading: 0
+    velocity: null
+    penaltyReason: ''
+    reach:
+      extra: 2.994 km
+      flown: 2.994 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 44.211
+    landedMade: 2.994 km
+    stoppedAlt: null
+- - - '32'
+    - Laura Grakalich
+  - place: 5=
+    total: 44.211
+    essNotGoal: null
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 0
+      arrival: 0
+      time: 0
+      reach: 44.211
+      distance: 44.211
+      leading: 0
+    velocity: null
+    penaltyReason: ''
+    reach:
+      extra: 2.994 km
+      flown: 2.994 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 44.211
+    landedMade: 2.994 km
+    stoppedAlt: null
+scoreDf:
+- - - '10'
+    - Igor Eržen
+  - place: '1'
+    total: 300.896
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 0
+      arrival: 0
+      time: 50.2
+      reach: 231.792
+      distance: 231.792
+      leading: 18.9
+    velocity:
+      ss: 2019-07-12T12:20:32.539533662954Z
+      gs: 2019-07-12T11:30:00Z
+      es: 2019-07-12T13:30:52.894446590223Z
+      ssDistance: 15.729 km
+      ssElapsed: 1.172321 h
+      gsElapsed: 2.014693 h
+      ssVelocity: 13.42 km / h
+      gsVelocity: 7.81 km / h
+    penaltyReason: ''
+    reach:
+      extra: 15.729 km
+      flown: 15.729 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 300.896
+    landedMade: 15.729 km
+    stoppedAlt: null
+- - - '19'
+    - Rafal Cypcar
+  - place: '2'
+    total: 232.405
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 0
+      arrival: 0
+      time: 0
+      reach: 205.369
+      distance: 205.369
+      leading: 27
+    velocity:
+      ss: 2019-07-12T12:20:58.446181680987Z
+      gs: 2019-07-12T11:30:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 13.936 km
+      flown: 13.936 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 232.405
+    landedMade: 13.936 km
+    stoppedAlt: 312.000 m
+- - - '15'
+    - Mitja Jug
+  - place: '3'
+    total: 169.095
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 0
+      arrival: 0
+      time: 0
+      reach: 158.771
+      distance: 158.771
+      leading: 10.3
+    velocity:
+      ss: 2019-07-12T12:20:38.32862197683Z
+      gs: 2019-07-12T11:30:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 10.774 km
+      flown: 10.774 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 169.095
+    landedMade: 10.774 km
+    stoppedAlt: 339.000 m
+- - - '11'
+    - Jerko Odžak
+  - place: '4'
+    total: 45.445
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 0
+      arrival: 0
+      time: 0
+      reach: 45.445
+      distance: 45.445
+      leading: 0
+    velocity:
+      ss: 2019-07-12T12:57:23.678953056945Z
+      gs: 2019-07-12T11:30:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 3.084 km
+      flown: 3.084 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 45.445
+    landedMade: 3.084 km
+    stoppedAlt: 0.000 m
+- - - '18'
+    - Petros Miskos
+  - place: 5=
+    total: 44.211
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 0
+      arrival: 0
+      time: 0
+      reach: 44.211
+      distance: 44.211
+      leading: 0
+    velocity:
+      ss: 2019-07-12T12:25:26.9200783891Z
+      gs: 2019-07-12T11:30:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: -0.010 km
+      flown: -0.010 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 44.211
+    landedMade: -0.010 km
+    stoppedAlt: 0.000 m
+- - - '22'
+    - Sandi Krč
+  - place: 5=
+    total: 44.211
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 0
+      arrival: 0
+      time: 0
+      reach: 44.211
+      distance: 44.211
+      leading: 0
+    velocity:
+      ss: 2019-07-12T12:24:42.445328552143Z
+      gs: 2019-07-12T11:30:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 1.234 km
+      flown: 1.234 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 44.211
+    landedMade: 1.234 km
+    stoppedAlt: 436.000 m
+- - - '24'
+    - Slava Jelić
+  - place: 5=
+    total: 44.211
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 0
+      arrival: 0
+      time: 0
+      reach: 44.211
+      distance: 44.211
+      leading: 0
+    velocity:
+      ss: 2019-07-12T13:48:54.21326003404Z
+      gs: 2019-07-12T11:30:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 0.224 km
+      flown: 0.224 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 44.211
+    landedMade: 0.224 km
+    stoppedAlt: 0.000 m
+- - - '26'
+    - Stjepan Zjacic
+  - place: 5=
+    total: 44.211
+    essNotGoal: false
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 0
+      arrival: 0
+      time: 0
+      reach: 44.211
+      distance: 44.211
+      leading: 0
+    velocity:
+      ss: 2019-07-12T13:02:33.464943124335Z
+      gs: 2019-07-12T11:30:00Z
+      es: null
+      ssDistance: null
+      ssElapsed: null
+      gsElapsed: null
+      ssVelocity: null
+      gsVelocity: null
+    penaltyReason: ''
+    reach:
+      extra: 0.317 km
+      flown: 0.317 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 44.211
+    landedMade: 0.317 km
+    stoppedAlt: 517.000 m
+scoreDfNoTrack:
+- - - '35'
+    - Giselle Giampietri
+  - place: 1=
+    total: 44.211
+    essNotGoal: null
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 0
+      arrival: 0
+      time: 0
+      reach: 44.211
+      distance: 44.211
+      leading: 0
+    velocity: null
+    penaltyReason: ''
+    reach:
+      extra: 2.994 km
+      flown: 2.994 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 44.211
+    landedMade: 2.994 km
+    stoppedAlt: null
+- - - '32'
+    - Laura Grakalich
+  - place: 1=
+    total: 44.211
+    essNotGoal: null
+    penaltiesEssNotGoal:
+      adds: []
+      muls: []
+      resets: []
+    jump: null
+    penaltiesJumpRaw: null
+    penaltiesJumpEffective:
+      adds: []
+      muls: []
+      resets: []
+    penalties:
+      adds: []
+      muls: []
+      resets: []
+    breakdown:
+      effort: 0
+      arrival: 0
+      time: 0
+      reach: 44.211
+      distance: 44.211
+      leading: 0
+    velocity: null
+    penaltyReason: ''
+    reach:
+      extra: 2.994 km
+      flown: 2.994 km
+    demeritFrac: 0
+    demeritPoint: 0
+    demeritReset: 0
+    subtotal: 44.211
+    landedMade: 2.994 km
+    stoppedAlt: null
