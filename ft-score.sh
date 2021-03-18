@@ -4,7 +4,6 @@ COMP="--file=2019 Dalmatian XC Paragliding Open"
 
 fs-clean "$COMP"
 fs-trim "$COMP"
-fs-filter "$COMP"
 fs-route "$COMP"
 fs-arrival "$COMP"
 fs-effort "$COMP"
