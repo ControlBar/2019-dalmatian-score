@@ -92,7 +92,8 @@ score:
         time: 0
         effort: 0
         reach: 0
-      place: '1'
+      placeTaken: '1'
+      placeGiven: '1'
       total: 117
       fractions:
         distance: 1
@@ -119,7 +120,8 @@ score:
         time: 0
         effort: 0
         reach: 0
-      place: '2'
+      placeTaken: '2'
+      placeGiven: '2'
       total: 85
       fractions:
         distance: 0.70629991
@@ -146,7 +148,8 @@ score:
         time: 0
         effort: 0
         reach: 0
-      place: '3'
+      placeTaken: '3'
+      placeGiven: '3'
       total: 75
       fractions:
         distance: 0.62999113
@@ -173,7 +176,8 @@ score:
         time: 0
         effort: 0
         reach: 0
-      place: '4'
+      placeTaken: '4'
+      placeGiven: '4'
       total: 53
       fractions:
         distance: 0.42679681
@@ -200,7 +204,8 @@ score:
         time: 0
         effort: 0
         reach: 0
-      place: '5'
+      placeTaken: '5'
+      placeGiven: '5'
       total: 36
       fractions:
         distance: 0.28482697
@@ -227,7 +232,8 @@ score:
         time: 0
         effort: 0
         reach: 0
-      place: '6'
+      placeTaken: '6'
+      placeGiven: '6'
       total: 35
       fractions:
         distance: 0.28482697
@@ -254,7 +260,8 @@ score:
         time: 0
         effort: 0
         reach: 0
-      place: '7'
+      placeTaken: 7=
+      placeGiven: '7'
       total: 32
       fractions:
         distance: 0.28482697
@@ -281,7 +288,8 @@ score:
         time: 0
         effort: 0
         reach: 0
-      place: '7'
+      placeTaken: 7=
+      placeGiven: '7'
       total: 32
       fractions:
         distance: 0.28482697
@@ -308,7 +316,8 @@ score:
         time: 0
         effort: 0
         reach: 0
-      place: '7'
+      placeTaken: 7=
+      placeGiven: '7'
       total: 32
       fractions:
         distance: 0.28482697
@@ -335,7 +344,8 @@ score:
         time: 0
         effort: 0
         reach: 0
-      place: '7'
+      placeTaken: 7=
+      placeGiven: '7'
       total: 32
       fractions:
         distance: 0.28482697
@@ -362,7 +372,8 @@ score:
         time: 50.3
         effort: 0
         reach: 0
-      place: '1'
+      placeTaken: '1'
+      placeGiven: '1'
       total: 302
       fractions:
         distance: 1
@@ -389,7 +400,8 @@ score:
         time: 0
         effort: 0
         reach: 0
-      place: '2'
+      placeTaken: '2'
+      placeGiven: '2'
       total: 233
       fractions:
         distance: 0.8854929
@@ -416,7 +428,8 @@ score:
         time: 0
         effort: 0
         reach: 0
-      place: '3'
+      placeTaken: '3'
+      placeGiven: '3'
       total: 169
       fractions:
         distance: 0.68402927
@@ -443,7 +456,8 @@ score:
         time: 0
         effort: 0
         reach: 0
-      place: '4'
+      placeTaken: '4'
+      placeGiven: '4'
       total: 45
       fractions:
         distance: 0.19543693
@@ -470,7 +484,8 @@ score:
         time: 0
         effort: 0
         reach: 0
-      place: '5'
+      placeTaken: 5=
+      placeGiven: '5'
       total: 44
       fractions:
         distance: 0.1902712
@@ -497,7 +512,8 @@ score:
         time: 0
         effort: 0
         reach: 0
-      place: '5'
+      placeTaken: 5=
+      placeGiven: '5'
       total: 44
       fractions:
         distance: 0.1902712
@@ -524,7 +540,8 @@ score:
         time: 0
         effort: 0
         reach: 0
-      place: '5'
+      placeTaken: 5=
+      placeGiven: '5'
       total: 44
       fractions:
         distance: 0.1902712
@@ -551,7 +568,8 @@ score:
         time: 0
         effort: 0
         reach: 0
-      place: '5'
+      placeTaken: 5=
+      placeGiven: '5'
       total: 44
       fractions:
         distance: 0.1902712
@@ -578,7 +596,8 @@ score:
         time: 0
         effort: 0
         reach: 0
-      place: '5'
+      placeTaken: 5=
+      placeGiven: '5'
       total: 44
       fractions:
         distance: 0.1902712
@@ -605,7 +624,8 @@ score:
         time: 0
         effort: 0
         reach: 0
-      place: '5'
+      placeTaken: 5=
+      placeGiven: '5'
       total: 44
       fractions:
         distance: 0.1902712

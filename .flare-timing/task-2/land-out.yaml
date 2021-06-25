@@ -16,10 +16,10 @@ difficulty:
   endAhead: 5.3 km
   down: 4
   downs:
-  - -0.537 km
-  - -0.521 km
-  - -0.517 km
-  - -0.011 km
+  - -0.590 km
+  - -0.576 km
+  - -0.572 km
+  - -0.064 km
   downers:
   - - '24'
     - Slava Jelić
@@ -40,7 +40,7 @@ difficulty:
   downs:
   - 3.000 km
   - 3.000 km
-  - 3.082 km
+  - 3.047 km
   downers:
   - - '35'
     - Giselle Giampietri
@@ -51,26 +51,26 @@ difficulty:
   downward: 3
   rel: 7.46269e-3
   frac: 0.24121094
-- chunk: 107
-  startChunk: 10.7 km
-  endChunk: 10.8 km
-  endAhead: 16.0 km
+- chunk: 106
+  startChunk: 10.6 km
+  endChunk: 10.7 km
+  endAhead: 15.9 km
   down: 1
   downs:
-  - 10.704 km
+  - 10.686 km
   downers:
   - - '15'
     - Mitja Jug
   downward: 2
   rel: 4.97512e-3
-  frac: 0.42285156
+  frac: 0.42041016
 - chunk: 138
   startChunk: 13.8 km
   endChunk: 13.9 km
   endAhead: 19.1 km
   down: 1
   downs:
-  - 13.880 km
+  - 13.870 km
   downers:
   - - '19'
     - Rafal Cypcar

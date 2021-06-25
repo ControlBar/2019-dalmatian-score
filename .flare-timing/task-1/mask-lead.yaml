@@ -1,46 +1,46 @@
 raceTime:
   openTask: 2019-07-11T12:30:00Z
   closeTask: 2019-07-11T18:00:00Z
-  firstStart: 2019-07-11T12:30:44.83123437862Z
-  firstLead: 2019-07-11T12:30:44.83123437862Z
+  firstStart: 2019-07-11T12:30:41.690522990717Z
+  firstLead: 2019-07-11T12:30:41.690522990717Z
   lastArrival: null
-  leadAllDown: 5044.169
+  leadAllDown: 5047.309
   leadArrival: null
-  leadClose: 19755.169
+  leadClose: 19758.309
   openClose: 19800
-  tickClose: 19755.169
+  tickClose: 19758.309
 raceDistance: 22.682232 km
-sumDistance: 17.320928 km
+sumDistance: 16.806928 km
 leadAreaToCoef: 0.00002449298445 km^-1 s^-1
-leadCoefMin: 2.16552519
+leadCoefMin: 2.1908783
 leadRank:
 - - - '19'
     - Rafal Cypcar
-  - area: 88414.1004 km s
-    coef: 2.16552519
+  - area: 89449.2179 km s
+    coef: 2.1908783
     frac: 1
 - - - '10'
     - Igor Eržen
-  - area: 94370.6214 km s
-    coef: 2.31141816
-    frac: 0.78579225
+  - area: 95343.9277 km s
+    coef: 2.33525734
+    frac: 0.78810046
 - - - '15'
     - Mitja Jug
-  - area: 94581.7051 km s
-    coef: 2.31658823
-    frac: 0.78076103
+  - area: 95483.0548 km s
+    coef: 2.33866498
+    frac: 0.78477927
 - - - '11'
     - Jerko Odžak
-  - area: 101657.0180 km s
-    coef: 2.48988376
-    frac: 0.63510954
+  - area: 102680.9683 km s
+    coef: 2.51496336
+    frac: 0.63672689
 - - - '22'
     - Sandi Krč
-  - area: 102811.6764 km s
-    coef: 2.51816479
-    frac: 0.61419637
+  - area: 103939.6657 km s
+    coef: 2.54579262
+    frac: 0.61403944
 - - - '18'
     - Petros Miskos
-  - area: 107656.4766 km s
-    coef: 2.63682841
-    frac: 0.53189222
+  - area: 108793.0506 km s
+    coef: 2.6646665
+    frac: 0.53206729

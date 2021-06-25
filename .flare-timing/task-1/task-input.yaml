@@ -129,6 +129,7 @@ task:
     essNotGoalScaling: 0
     leadingAreaDistanceSquared: false
     leadingWeightScaling: null
+    timePowerExponent: 0.66666667
   earlyStart:
     earliest: 0 s
     earlyPenalty: 0 s
