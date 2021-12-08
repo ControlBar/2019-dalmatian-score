@@ -27,6 +27,7 @@ compTweak:
   essNotGoalScaling: 0
   leadingAreaDistanceSquared: false
   leadingWeightScaling: null
+  timePowerExponent: 0.66666667
 pilots:
 - - '35'
   - Giselle Giampietri
